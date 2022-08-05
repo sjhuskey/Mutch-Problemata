@@ -8,13 +8,46 @@
         <title>Expositio problematum Aristotelis, Particula XIX: De harmonia</title>
         <author>Pietro d’Abano</author>
         <editor>Caleb Mutch</editor>
+        <sponsor>Medieval Academy of America</sponsor>
+        <respStmt>
+          <resp>TEI XML encoding:</resp>
+          <name ref="https://orcid.org/0000-0003-4908-4930">Caleb Mutch</name>
+        </respStmt>
+        <respStmt>
+          <resp>TEI XML encoding:</resp>
+          <name ref="https://orcid.org/0000-0002-8192-9385">Samuel J. Huskey</name>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>First Edition</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>To be determined</publisher>
+        <publisher>The Digital Latin Library</publisher>
+        <address>
+          <street>650 Parrington Oval</street>
+          <addrLine>Carnegie Building 101</addrLine>
+          <settlement>Norman</settlement>
+          <name>OK</name>
+          <postCode>73071</postCode>
+          <country>USA</country>
+        </address>
+        <authority>The University of Oklahoma</authority>
+        <pubPlace>Norman, OK</pubPlace>
+        <date>202?</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+            Commons Attribution-ShareAlike 4.0 International Licence (CC BY-SA 4.0)</licence>
+        </availability>
       </publicationStmt>
+      <seriesStmt>
+        <title level="s">Library of Digital Latin Texts</title>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name ref="https://orcid.org/0000-0002-8192-9385">Samuel J. Huskey</name>
+        </respStmt>
+        <biblScope unit="volume">?</biblScope>
+        <idno type="DOI"/>
+      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -107,7 +140,7 @@
   </teiHeader>
 
   <text>
-    <front xml:id="front">
+        <front xml:id="front">
       <div type="section" xml:id="preface">
         <head>Preface</head>
         <div type="section" xml:id="preface-section-1">
@@ -131,28 +164,28 @@
               were in sore need of orientation and explanation.</p>
             <p n="2">Into the breach strode Pietro d’Abano (c. 1257–1316), who was a professor of
               medicine with wide-ranging interests and expertise. Pietro composed his
-                <title>Expositio</title>, the first commentary on the entirety of the Problems in
-              the first decade of the fourteenth century, and there are more than twenty extant
-              manuscripts of it, as well as multiple early print editions. His commentary also
-              attracted the attention of his contemporaries, most notably Jean de Jandun (c.
-              1285–1328), a philosopher and theologian of considerable importance based at the
-              University of Paris, who produced a revision of the entire <title>Expositio</title>.
-              Moreover, Pietro’s commentary on the problems of section XIX, in particular, was the
-              first widely circulated medieval attempt to interpret and assimilate rediscovered
-              knowledge about music in the ancient world, and his explanations consequently became a
-              touchstone for later generations of music scholars who referred to the <title
-                ref="#ArPr">Problems</title>, including Franchino Gaffurio, Girolamo Mei, and
-              Francisco de Salinas. Most recently, Claude Palisca has called attention to Pietro’s
-              anticipation of Renaissance modes of scholarship (<ref target="#Palisca1985"
-                >1985</ref>), and David E. Cohen has demonstrated that Pietro’s idiosyncratic
-              interpretations of some of the problems concerning music played an important role in
-              the development of the music-theoretical concept of harmony (<ref target="Cohen2012"
-                >2012</ref>). Yet despite the inherent interest of Pietro’s commentary as a site of
-              cross-cultural engagement and its historical significance to later music theorizing,
-              his commentary on section XIX, on music, has not been published in any form since the
-              sixteenth century’s sadly unreliable print editions. The present critical edition
-              rectifies that situation, making this important text newly available to modern
-              scholars.</p>
+                <title>Expositio</title>, the first commentary on the entirety of the
+                <title>Problems</title> in the first decade of the fourteenth century, and there are
+              more than twenty extant manuscripts of it, as well as multiple early print editions.
+              His commentary also attracted the attention of his contemporaries, most notably Jean
+              de Jandun (c. 1285–1328), a philosopher and theologian of considerable importance
+              based at the University of Paris, who produced a revision of the entire
+                <title>Expositio</title>. Moreover, Pietro’s commentary on the problems of section
+              XIX, in particular, was the first widely circulated medieval attempt to interpret and
+              assimilate rediscovered knowledge about music in the ancient world, and his
+              explanations consequently became a touchstone for later generations of music scholars
+              who referred to the <title ref="#ArPr">Problems</title>, including Franchino Gaffurio,
+              Girolamo Mei, and Francisco de Salinas. Most recently, Claude Palisca has called
+              attention to Pietro’s anticipation of Renaissance modes of scholarship (<ref
+                target="#Palisca1985">1985</ref>), and David E. Cohen has demonstrated that Pietro’s
+              idiosyncratic interpretations of some of the problems concerning music played an
+              important role in the development of the music-theoretical concept of harmony (<ref
+                target="Cohen2012">2012</ref>). Yet despite the inherent interest of Pietro’s
+              commentary as a site of cross-cultural engagement and its historical significance to
+              later music theorizing, his commentary on section XIX, on music, has not been
+              published in any form since the sixteenth century’s sadly unreliable print editions.
+              The present critical edition rectifies that situation, making this important text
+              newly available to modern scholars.</p>
           </div>
           <!-- End 1.1 -->
           <div type="section" xml:id="preface-subsection-1.2">
@@ -185,11 +218,11 @@
           <head>II. The Textual Tradition</head>
           <div type="section" xml:id="preface-subsection-2.1">
             <head>2.1 Introduction</head>
-            <p n="1">Establishing the best text of Pietro d’Abano commentary is no simple task, for
-              it survives in several different forms. By analyzing variants in the introduction with
-              which Pietro starts his commentary on the <title ref="#ArPr">Problems</title>, Gijs
-              Coucke has demonstrated that Pietro produced a revised version of his commentary after
-              the initial version was complete (<ref target="Coucke2008">2008</ref>, vol. 2,
+            <p n="1">Establishing the best text of Pietro d’Abano’s commentary is no simple task,
+              for it survives in several different forms. By analyzing variants in the introduction
+              with which Pietro starts his commentary on the <title ref="#ArPr">Problems</title>,
+              Gijs Coucke has demonstrated that Pietro produced a revised version of his commentary
+              after the initial version was complete (<ref target="Coucke2008">2008</ref>, vol. 2,
               xlii–xliv). About a quarter of the extant manuscripts derive from the initial version,
               another quarter from the revision, and the remaining half of the manuscripts descend
               from the revision made by Jean de Jandun (concerning which see <ref
@@ -197,10 +230,10 @@
               not aid in the reconstruction of the text(s) Pietro himself wrote, they provide
               important testimony as to the work’s reception in the Parisian university scene, and
               consequently I have recorded variants from five selected manuscripts in the critical
-              apparatus. Coucke notes that “all manuscripts appear to have the identical explicit,
-              which refers to 1310 as the year in which Peter finished his <title>Expositio</title>”
-                (<ref target="Coucke2008">2008</ref>, vol. 2, xliv)—that presumably being the date
-              when the initial version was completed.</p>
+              apparatus. Coucke notes that “all manuscripts appear to have the identical <foreign
+                xml:lang="lat">explicit</foreign>, which refers to 1310 as the year in which Peter
+              finished his <title>Expositio</title>” (<ref target="Coucke2008">2008</ref>, vol. 2,
+              xliv)—that presumably being the date when the initial version was completed.</p>
             <p n="2">Further complicating matters, some of the manuscripts change affiliations
               partway through the lengthy work. As Joan Cadden has observed, manuscript P<hi
                 rend="superscript">z</hi> “contains the first half of Pietro’s version and the
@@ -233,217 +266,219 @@
           <!-- End section 2.1 -->
           <div type="section" xml:id="preface-subsection-2.2">
             <head>2.2 List of Sources</head>
-            <listWit xml:id="bibliography-manuscripts">
+            <div type="section" xml:id="bibliography-manuscripts">
               <head>Manuscripts</head>
-              <listWit xml:id="α">
-                <head>Pietro's first version (<abbr type="siglum">α</abbr>)</head>
-                <witness xml:id="β"><abbr type="siglum">β</abbr>
-                  <name>Consensus of N<hi rend="superscript">u</hi> and P<hi rend="superscript"
-                      >y</hi>, where N<hi rend="superscript">u</hi> is extant</name>
-                  <listWit>
-                    <witness xml:id="Nu">
-                      <abbr type="siglum">N<hi rend="superscript">u</hi></abbr>
-                      <name>Nuremberg, Stadtbibliothek, Cent. III.38</name>, <locus from="61v"
-                        to="64v">ff. 61v-64v</locus>
-                      <date notAfter="1389">before 1389</date>
-                    </witness>
-                    <witness xml:id="Py">
-                      <abbr type="siglum">P<hi rend="superscript">y</hi></abbr>
-                      <name>Paris, Bibliotheque Nationale man. lat. 6541</name> (accessed
-                      2022-01-03), <locus from="179v" to="191v">ff. 179v-91v</locus>
-                      <date>fourteenth century</date>. <ptr
-                        target="http://gallica.bnf.fr/ark:/12148/btv1b9068411m.r=6541"/>
-                    </witness>
-                  </listWit></witness>
-                <witness xml:id="γ">
-                  <abbr type="siglum">γ</abbr>
-                  <title>Consensus of V<hi rend="superscript">a</hi> and V<hi rend="superscript"
-                      >b</hi></title>
-                  <listWit>
-                    <witness xml:id="Va">
-                      <abbr type="siglum">V<hi rend="superscript">a</hi></abbr>
-                      <name>Vatican, Biblioteca Apostolica lat. 2174</name> (accessed 2022-01-03),
-                        <locus from="72r" to="77r">ff. 72r-77r</locus>
-                      <date>fourteenth century</date>. <ptr
-                        target="https://digi.vatlib.it/view/MSS_Vat.lat.2174"/>
-                    </witness>
-                    <witness xml:id="Vb">
-                      <abbr type="siglum">V<hi rend="superscript">b</hi></abbr>
-                      <name>Vatican, Biblioteca Apostolica lat. 2175</name> (accessed 2022-01-03),
-                        <locus from="107v" to="116r">ff. 107-16r</locus>
-                      <date>fifteenth century</date>. <ptr
-                        target="https://digi.vatlib.it/view/MSS_Vat.lat.2175"/>
-                    </witness>
-                  </listWit>
-                </witness>
-                <witness xml:id="Ea">
-                  <abbr type="siglum">E<hi rend="superscript">a</hi></abbr>
-                  <name>Erfurt, Bibliothek Amploniana fol. 15</name>, <locus from="136v" to="147r"
-                    >ff. 136v-47r</locus>
-                  <date>early fourteenth century</date>
-                </witness>
-              </listWit>
-              <listWit xml:id="κ">
-                <head>Pietro's revised version (<abbr type="siglum">κ</abbr>)</head>
-                <witness xml:id="Px">
-                  <abbr type="siglum">P<hi rend="superscript">x</hi></abbr>
-                  <name>Paris, Bibliotheque Nationale man. lat. 6540</name> (accessed 2022-01-03),
-                    <locus from="154v" to="164v">ff. 154v-64v</locus>
-                  <date>Fourteenth century</date>. <note><origPlace>Italy</origPlace></note>. <ptr
-                    target="http://gallica.bnf.fr/ark:/12148/btv1b90684121.r=6540"/>
-                </witness>
-                <witness xml:id="λ">
-                  <abbr type="siglum">λ</abbr>
-                  <name>Consensus of M<hi rend="superscript">a</hi>, V<hi rend="superscript">m</hi>,
-                    and V<hi rend="superscript">z</hi></name>
-                  <listWit>
-                    <witness xml:id="Ma">
-                      <abbr type="siglum">M<hi rend="superscript">a</hi></abbr>
-                      <name>Cesena, Malatestiana D.XXIV.2</name> (accessed 2022-01-03), <locus
-                        from="96v" to="104r">ff. 96v-104r</locus>
-                      <date notAfter="1381">before 1381</date>. <ptr
-                        target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=DX.24.02"
-                      />
-                    </witness>
-                    <witness xml:id="Vm">
-                      <abbr type="siglum">V<hi rend="superscript">m</hi></abbr>
-                      <name>Venice, Biblioteca Nazionale Marciana, lat. VI. 126</name>, <locus
-                        from="95r" to="100r">ff. 95r-100r</locus>
-                      <date>fifteenth century</date>
-                    </witness>
-                    <witness xml:id="Vz">
-                      <abbr type="siglum">V<hi rend="superscript">z</hi></abbr>
-                      <name>Venice, Biblioteca Nazionale Marciana, lat. Z. 263</name>, <locus
-                        from="48v" to="70r">ff. 48v-70r</locus>
-                      <date>ca. fourteenth century</date>. <note>On paper, in one column</note>
-                    </witness>
-                    <witness xml:id="Mb">
-                      <abbr type="siglum">M<hi rend="superscript">b</hi></abbr>
-                      <name>Cesena, Malatestiana S.VI.2/3</name> (accessed 2022-01-03), <locus
-                        n="S.VI.3" from="38v" to="56r">S.VI.3, ff. 38v-56r</locus>
-                      <date>1381</date>. <ptr
-                        target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=SX.06.03"
-                        /><note>A copy of M<hi rend="superscript">a</hi></note>
-                    </witness>
-                  </listWit>
-                </witness>
-              </listWit>
-              <listWit>
-                <head>Jean de Jandun's redaction</head>
-                <witness xml:id="π">
-                  <abbr type="siglum">π</abbr>
-                  <name>Collated manuscripts</name>
-                  <listWit>
-                    <witness xml:id="Gu">
-                      <abbr type="siglum">G<hi rend="superscript">u</hi></abbr>
-                      <name>Ghent, Bibliothéek van de Rijksuniversiteit, ms. 72</name> (accessed
-                      2022-01-03), <locus from="234r" to="249v">ff. 234r-49v</locus>
-                      <date>fourteenth century</date>. <ptr
-                        target="http://lib.ugent.be/catalog/rug01:000802948"/>
-                    </witness>
-                    <witness xml:id="Pp">
-                      <abbr type="siglum">P<hi rend="superscript">p</hi></abbr>
-                      <name>Paris, Bibliotheque Nationale man. lat. 6542</name> (accessed
-                      2022-01-03), <locus from="183v" to="194v">ff. 183v-94v</locus>
-                      <date>1385</date>. <ptr
-                        target="http://gallica.bnf.fr/ark:/12148/btv1b10721259d/f1.item.r=6542"/>
-                    </witness>
-                    <witness xml:id="Pu">
-                      <abbr type="siglum">P<hi rend="superscript">u</hi></abbr>
-                      <name>Paris, University 122</name>, <locus from="114v" to="123r"
-                        >114v-23r</locus>
-                      <date>fifteenth century</date>
-                    </witness>
-                    <witness xml:id="Pz">
-                      <abbr type="siglum">P<hi rend="superscript">z</hi></abbr>
-                      <name>Paris, Bibliotheque Nationale man. lat. 6541A</name> (accessed
-                      2022-01-03), <locus from="179r" to="192r">ff. 179r-92r</locus>
-                      <date>fourteenth century</date>. <ptr
-                        target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2"/><!-- What's going on here? --><msDesc>
-                        <msIdentifier>
-                          <objectName>Pz</objectName>
-                        </msIdentifier>
-                        <physDesc>
-                          <handDesc hands="2">
-                            <handNote xml:id="Pzh2">
-                              <abbr type="siglum">P<hi rend="superscript">z2</hi></abbr> is
-                              responsible for the header, and writes in an ink that has faded
-                              significantly. It may be the same scribe who wrote the large initials
-                              which begin each problem. </handNote>
-                          </handDesc>
-                        </physDesc>
-                      </msDesc>
-                    </witness>
-                    <witness xml:id="Vo">
-                      <abbr type="siglum">V<hi rend="superscript">o</hi></abbr>
-                      <name>Vatican, Biblioteca Apostolica Ottobon. lat. 1764</name>, <locus
-                        from="147r" to="157v">ff. 147r-57v</locus>
-                      <date>fourteenth century</date>
-                    </witness>
-                  </listWit>
-                </witness>
-                <witness>
-                  <name>Other manuscripts from the Jean de Jandun redaction</name>
-                  <listWit>
-                    <witness xml:id="Ca">
-                      <abbr type="siglum">C<hi rend="superscript">a</hi></abbr>
-                      <name>Cambridge, Peterhouse 79</name>, <locus from="76r" to="81v">ff.
-                        76r-81v</locus>
-                      <date>fourteenth century</date>
-                    </witness>
-                    <witness xml:id="Pa">
-                      <abbr type="siglum">P<hi rend="superscript">a</hi></abbr>
-                      <name>Paris, Bibliotheque Arsenal, 723</name>, <locus from="183v" to="197r"
-                        >ff. 183v-97r</locus>
-                      <date>fourteenth century</date>
-                    </witness>
-                    <witness xml:id="Pq">
-                      <abbr type="siglum">P<hi rend="superscript">q</hi></abbr>
-                      <name>Paris, Bibliotheque Nationale man. lat. 15454</name>, <locus from="127r"
-                        to="136r">ff. 127r-36r</locus>
-                      <date>fifteenth century</date>
-                    </witness>
-                    <witness xml:id="Sc">
-                      <abbr type="siglum">S<hi rend="superscript">c</hi></abbr>
-                      <name>Seville, Biblioteca Colombina, 7.7.9</name>, <locus from="121r">ff. 121r
-                        ff.</locus>
-                      <date>fourteenth to fifteenth century</date>
-                    </witness>
-                    <witness xml:id="Vc">
-                      <abbr type="siglum">V<hi rend="superscript">c</hi></abbr>
-                      <name>Vatican, Biblioteca Apostolica lat. 2176</name> (accessed 2022-01-03),
-                        <locus from="62r" to="65r">ff. 62r-65r</locus>
-                      <date>fourteenth century</date>. <ptr
-                        target="https://digi.vatlib.it/view/MSS_Vat.lat.2176"/>
-                    </witness>
-                  </listWit>
-                </witness>
-              </listWit>
-            </listWit>
-            <listWit xml:id="bibliography-editions-witnesses">
+                <listWit xml:id="α">
+                  <head>Pietro's first version (<abbr type="siglum">α</abbr>)</head>
+                  <witness xml:id="β"><abbr type="siglum">β</abbr>
+                    <name>Consensus of N<hi rend="superscript">u</hi> and P<hi rend="superscript"
+                        >y</hi>, where N<hi rend="superscript">u</hi> is extant</name>
+                    <listWit>
+                      <witness xml:id="Nu">
+                        <abbr type="siglum">N<hi rend="superscript">u</hi></abbr>
+                        <name>Nuremberg, Stadtbibliothek, Cent. III.38</name>, <locus from="61v"
+                          to="64v">ff. 61v-64v</locus>
+                        <date notAfter="1389">before 1389</date>
+                      </witness>
+                      <witness xml:id="Py">
+                        <abbr type="siglum">P<hi rend="superscript">y</hi></abbr>
+                        <name>Paris, Bibliotheque Nationale man. lat. 6541</name> (accessed
+                        2022-01-03), <locus from="179v" to="191v">ff. 179v-91v</locus>
+                        <date>fourteenth century</date>. <ptr
+                          target="http://gallica.bnf.fr/ark:/12148/btv1b9068411m.r=6541"/>
+                      </witness>
+                    </listWit></witness>
+                  <witness xml:id="γ">
+                    <abbr type="siglum">γ</abbr>
+                    <title>Consensus of V<hi rend="superscript">a</hi> and V<hi rend="superscript"
+                        >b</hi></title>
+                    <listWit>
+                      <witness xml:id="Va">
+                        <abbr type="siglum">V<hi rend="superscript">a</hi></abbr>
+                        <name>Vatican, Biblioteca Apostolica lat. 2174</name> (accessed 2022-01-03),
+                          <locus from="72r" to="77r">ff. 72r-77r</locus>
+                        <date>fourteenth century</date>. <ptr
+                          target="https://digi.vatlib.it/view/MSS_Vat.lat.2174"/>
+                      </witness>
+                      <witness xml:id="Vb">
+                        <abbr type="siglum">V<hi rend="superscript">b</hi></abbr>
+                        <name>Vatican, Biblioteca Apostolica lat. 2175</name> (accessed 2022-01-03),
+                          <locus from="107v" to="116r">ff. 107-16r</locus>
+                        <date>fifteenth century</date>. <ptr
+                          target="https://digi.vatlib.it/view/MSS_Vat.lat.2175"/>
+                      </witness>
+                    </listWit>
+                  </witness>
+                  <witness xml:id="Ea">
+                    <abbr type="siglum">E<hi rend="superscript">a</hi></abbr>
+                    <name>Erfurt, Bibliothek Amploniana fol. 15</name>, <locus from="136v" to="147r"
+                      >ff. 136v-47r</locus>
+                    <date>early fourteenth century</date>
+                  </witness>
+                </listWit>
+                <listWit xml:id="κ">
+                  <head>Pietro's revised version (<abbr type="siglum">κ</abbr>)</head>
+                  <witness xml:id="Px">
+                    <abbr type="siglum">P<hi rend="superscript">x</hi></abbr>
+                    <name>Paris, Bibliotheque Nationale man. lat. 6540</name> (accessed 2022-01-03),
+                      <locus from="154v" to="164v">ff. 154v–64v</locus>
+                    <date>Fourteenth century</date>. <note><origPlace>Italy</origPlace></note>. <ptr
+                      target="http://gallica.bnf.fr/ark:/12148/btv1b90684121.r=6540"/>
+                  </witness>
+                  <witness xml:id="λ">
+                    <abbr type="siglum">λ</abbr>
+                    <name>Consensus of M<hi rend="superscript">a</hi>, V<hi rend="superscript"
+                        >m</hi>, and V<hi rend="superscript">z</hi></name>
+                    <listWit>
+                      <witness xml:id="Ma">
+                        <abbr type="siglum">M<hi rend="superscript">a</hi></abbr>
+                        <name>Cesena, Malatestiana D.XXIV.2</name> (accessed 2022-01-03), <locus
+                          from="96v" to="104r">ff. 96v-104r</locus>
+                        <date notAfter="1381">before 1381</date>. <ptr
+                          target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=DX.24.02"
+                        />
+                      </witness>
+                      <witness xml:id="Vm">
+                        <abbr type="siglum">V<hi rend="superscript">m</hi></abbr>
+                        <name>Venice, Biblioteca Nazionale Marciana, lat. VI. 126</name>, <locus
+                          from="95r" to="100r">ff. 95r-100r</locus>
+                        <date>fifteenth century</date>
+                      </witness>
+                      <witness xml:id="Vz">
+                        <abbr type="siglum">V<hi rend="superscript">z</hi></abbr>
+                        <name>Venice, Biblioteca Nazionale Marciana, lat. Z. 263</name>, <locus
+                          from="48v" to="70r">ff. 48v-70r</locus>
+                        <date>ca. fourteenth century</date>. <note>On paper, in one column</note>
+                      </witness>
+                      <witness xml:id="Mb">
+                        <abbr type="siglum">M<hi rend="superscript">b</hi></abbr>
+                        <name>Cesena, Malatestiana S.VI.2/3</name> (accessed 2022-01-03), <locus
+                          n="S.VI.3" from="38v" to="56r">S.VI.3, ff. 38v-56r</locus>
+                        <date>1381</date>. <ptr
+                          target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=SX.06.03"
+                          /><note>A copy of M<hi rend="superscript">a</hi></note>
+                      </witness>
+                    </listWit>
+                  </witness>
+                </listWit>
+                <listWit>
+                  <head>Jean de Jandun's redaction</head>
+                  <witness xml:id="π">
+                    <abbr type="siglum">π</abbr>
+                    <name>Collated manuscripts</name>
+                    <listWit>
+                      <witness xml:id="Gu">
+                        <abbr type="siglum">G<hi rend="superscript">u</hi></abbr>
+                        <name>Ghent, Bibliothéek van de Rijksuniversiteit, ms. 72</name> (accessed
+                        2022-01-03), <locus from="234r" to="249v">ff. 234r-49v</locus>
+                        <date>fourteenth century</date>. <ptr
+                          target="http://lib.ugent.be/catalog/rug01:000802948"/>
+                      </witness>
+                      <witness xml:id="Pp">
+                        <abbr type="siglum">P<hi rend="superscript">p</hi></abbr>
+                        <name>Paris, Bibliotheque Nationale man. lat. 6542</name> (accessed
+                        2022-01-03), <locus from="183v" to="194v">ff. 183v-94v</locus>
+                        <date>1385</date>. <ptr
+                          target="http://gallica.bnf.fr/ark:/12148/btv1b10721259d/f1.item.r=6542"/>
+                      </witness>
+                      <witness xml:id="Pu">
+                        <abbr type="siglum">P<hi rend="superscript">u</hi></abbr>
+                        <name>Paris, University 122</name>, <locus from="114v" to="123r"
+                          >114v-23r</locus>
+                        <date>fifteenth century</date>
+                      </witness>
+                      <witness xml:id="Pz">
+                        <abbr type="siglum">P<hi rend="superscript">z</hi></abbr>
+                        <name>Paris, Bibliotheque Nationale man. lat. 6541A</name> (accessed
+                        2022-01-03), <locus from="179r" to="192r">ff. 179r-92r</locus>
+                        <date>fourteenth century</date>. <ptr
+                          target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2"/><!-- What's going on here? --><msDesc>
+                          <msIdentifier>
+                            <objectName>Pz</objectName>
+                          </msIdentifier>
+                          <physDesc>
+                            <handDesc hands="2">
+                              <handNote xml:id="Pzh2">
+                                <abbr type="siglum">P<hi rend="superscript">z2</hi></abbr> is
+                                responsible for the header, and writes in an ink that has faded
+                                significantly. It may be the same scribe who wrote the large
+                                initials which begin each problem. </handNote>
+                            </handDesc>
+                          </physDesc>
+                        </msDesc>
+                      </witness>
+                      <witness xml:id="Vo">
+                        <abbr type="siglum">V<hi rend="superscript">o</hi></abbr>
+                        <name>Vatican, Biblioteca Apostolica Ottobon. lat. 1764</name>, <locus
+                          from="147r" to="157v">ff. 147r-57v</locus>
+                        <date>fourteenth century</date>
+                      </witness>
+                    </listWit>
+                  </witness>
+                  <witness>
+                    <name>Other manuscripts from the Jean de Jandun redaction</name>
+                    <listWit>
+                      <witness xml:id="Ca">
+                        <abbr type="siglum">C<hi rend="superscript">a</hi></abbr>
+                        <name>Cambridge, Peterhouse 79</name>, <locus from="76r" to="81v">ff.
+                          76r-81v</locus>
+                        <date>fourteenth century</date>
+                      </witness>
+                      <witness xml:id="Pa">
+                        <abbr type="siglum">P<hi rend="superscript">a</hi></abbr>
+                        <name>Paris, Bibliotheque Arsenal, 723</name>, <locus from="183v" to="197r"
+                          >ff. 183v-97r</locus>
+                        <date>fourteenth century</date>
+                      </witness>
+                      <witness xml:id="Pq">
+                        <abbr type="siglum">P<hi rend="superscript">q</hi></abbr>
+                        <name>Paris, Bibliotheque Nationale man. lat. 15454</name>, <locus
+                          from="127r" to="136r">ff. 127r-36r</locus>
+                        <date>fifteenth century</date>
+                      </witness>
+                      <witness xml:id="Sc">
+                        <abbr type="siglum">S<hi rend="superscript">c</hi></abbr>
+                        <name>Seville, Biblioteca Colombina, 7.7.9</name>, <locus from="121r">ff.
+                          121r ff.</locus>
+                        <date>fourteenth to fifteenth century</date>
+                      </witness>
+                      <witness xml:id="Vc">
+                        <abbr type="siglum">V<hi rend="superscript">c</hi></abbr>
+                        <name>Vatican, Biblioteca Apostolica lat. 2176</name> (accessed 2022-01-03),
+                          <locus from="62r" to="65r">ff. 62r-65r</locus>
+                        <date>fourteenth century</date>. <ptr
+                          target="https://digi.vatlib.it/view/MSS_Vat.lat.2176"/>
+                      </witness>
+                    </listWit>
+                  </witness>
+                </listWit>      
+            </div>
+            <div type="section" xml:id="bibliography-early-editions">
               <head>Editions: Witnesses</head>
-              <witness xml:id="m">
-                <abbr type="siglum">m</abbr>
-                <bibl>
-                  <editor><name>Illarius, Stephanus</name></editor>. <title>Expositio succinta
-                    problematum Aristotelis quam Petrus edidit Paduanus</title> (accessed
-                  2022-01-03). <pubPlace>Mantua</pubPlace>: <publisher>Paulus de
-                    Butzbach</publisher>, <date>1475</date>. <ptr
-                    target="http://daten.digitale-sammlungen.de/~db/0006/bsb00068444/images/"/>
-                </bibl>
-              </witness>
-              <witness xml:id="v">
-                <abbr type="siglum">v</abbr>
-                <bibl>
-                  <editor><name>Anonymous</name></editor>. <title>Expositio preclarissimi atque
-                    eximii artium ac medicine doctoris Petri de Ebano Patauini in librorum
-                    problematum Aristotelis</title> (accessed 2022-01-03).
-                    <pubPlace>[Venice]</pubPlace>: <publisher>Johannes Herbort</publisher>,
-                    <date>1482</date>. <ptr
-                    target="http://daten.digitale-sammlungen.de/~db/0005/bsb00058463/images/"/>
-                </bibl>
-              </witness>
-            </listWit>
+              <listWit xml:id="early-editions">  
+                <witness xml:id="m">
+                  <abbr type="siglum">m</abbr>
+                  <bibl>
+                    <editor><name>Illarius, Stephanus</name></editor>. <title>Expositio succinta
+                      problematum Aristotelis quam Petrus edidit Paduanus</title> (accessed
+                    2022-01-03). <pubPlace>Mantua</pubPlace>: <publisher>Paulus de
+                      Butzbach</publisher>, <date>1475</date>. <ptr
+                      target="http://daten.digitale-sammlungen.de/~db/0006/bsb00068444/images/"/>
+                  </bibl>
+                </witness>
+                <witness xml:id="v">
+                  <abbr type="siglum">v</abbr>
+                  <bibl>
+                    <editor><name>Anonymous</name></editor>. <title>Expositio preclarissimi atque
+                      eximii artium ac medicine doctoris Petri de Ebano Patauini in librorum
+                      problematum Aristotelis</title> (accessed 2022-01-03).
+                      <pubPlace>[Venice]</pubPlace>: <publisher>Johannes Herbort</publisher>,
+                      <date>1482</date>. <ptr
+                      target="http://daten.digitale-sammlungen.de/~db/0005/bsb00058463/images/"/>
+                  </bibl>
+                </witness>
+              </listWit>
+            </div>
           </div>
           <div type="section" xml:id="preface-subsection-2.3">
             <head>2.3 Pietro d’Abano’s First Version</head>
@@ -776,7 +811,7 @@
                 level="a">Needle in the Haystack: In Search of the Model of Peter of Abano's
                   <title>Expositio Problematum</title></title>. <title level="j">Revue d'histoire
                 des textes</title> 4 (<date when="2009">2009</date>): <biblScope unit="page"
-                from="179" to="213">179-213</biblScope>
+                from="179" to="213">179–213</biblScope>
             </bibl>
             <bibl xml:id="Klek1922">
               <abbr type="siglum">Klek 1922</abbr>. = <editor>Klek, Joseph</editor>,
@@ -789,7 +824,7 @@
               <abbr type="siglum">Kuksewicz 1985</abbr>. = <author>Kuksewicz, Zdzislaw</author>.
                 <title level="a">Les <title>Problemata</title> de Pietro d'Abano et leur 'Rédaction'
                 par Jean de Jandun</title>. <title level="j">Medioevo</title> 11 (<date when="1985"
-                >1985</date>): <biblScope unit="page" from="113" to="137">113-37</biblScope>
+                >1985</date>): <biblScope unit="page" from="113" to="137">113–37</biblScope>
             </bibl>
             <bibl xml:id="LeemansCoucke2011" type="article">
               <abbr type="siglum">Leemans and Coucke 2011</abbr>. = <author>Leemans, Pieter De, and
@@ -808,7 +843,7 @@
                     <forename>Isabelle</forename>
                     <surname>Draelants</surname>
                   </name>
-                </editor>, <biblScope unit="page" from="405" to="426">405-26</biblScope>.
+                </editor>, <biblScope unit="page" from="405" to="426">405–26</biblScope>.
                   <pubPlace>Florence</pubPlace>, <publisher>SISMEL, Edizioni del
                   Galluzzo</publisher>, <date when="2011">2011</date>. </bibl>
             </bibl>
@@ -824,7 +859,7 @@
               <abbr type="siglum">Siraisi 1970</abbr>. = <author>Siraisi, Nancy</author>. <title
                 level="a">The <title>Expositio Problematum Aristotelis</title> of Peter of
                 Abano</title>. <title level="j">Isis</title> 61, no. 2 (<date when="1970"
-                >1970</date>): <biblScope unit="page" from="321" to="339">321-39</biblScope>
+                >1970</date>): <biblScope unit="page" from="321" to="339">321–39</biblScope>
             </bibl>
             <bibl xml:id="South2002" type="article">
               <abbr type="siglum">South 2002</abbr>. = <author>South, James B</author>. <title
@@ -848,7 +883,7 @@
                 <title level="a">Les deux versions des «<title ref="#ArPr">Problemata</title>» de
                 Pierre d'Abano</title>. <title level="j">Filologia mediolatina</title> 16 (<date
                 when="1985">2009</date>): <biblScope unit="page" from="215" to="245"
-                >215-45</biblScope>
+                >215–45</biblScope>
             </bibl>
             <bibl xml:id="Vanetti1741">
               <abbr type="siglum">Vanetti 1741</abbr>. = <author>[Zanetti, Anton Maria]</author>.
@@ -889,7 +924,7 @@
                     >decimanona</num> particula.</rdg>
                 <rdg wit="#Pz" ana="#additive"><add place="margin">Incipit <num type="ordinal"
                       value="19">decimanona</num> particula etcetera</add>
-                  <handShift medium="lighter ink" scribe="#Pzh2"/>De problematibus Aristotelis que
+                  <handShift medium="lighter ink" scribe="Pzh2"/>De problematibus Aristotelis que
                   sunt circa Musicam l'armoniam particula <num type="ordinal" value="19">.19<hi
                       rend="superscript">a</hi>.</num></rdg>
                 <rdg wit="#Ea" ana="#additive"><add place="margin"><num type="cardinal" value="19"
@@ -903,14 +938,14 @@
                 <rdg wit="#Pq" ana="#additive">Incipit particula <num type="ordinal" value="20"
                       >20<hi rend="superscript">a</hi></num> de armonia continens problemata <num
                     type="cardinal" value="47">47</num></rdg>
-                <rdg wit="#Gu" ana="#additive"><ref><name ref="#Ar">Aristotelis</name>
-                    <title ref="#ArPr">problemata</title></ref> de hiis que sunt circa armoniam
+                <rdg wit="#Gu" ana="#additive"><persName ref="#Ar">Aristotelis</persName>
+                    <title ref="#ArPr">problemata</title> de hiis que sunt circa armoniam
                   particula <num type="ordinal" value="20">20<hi rend="superscript">m</hi>.</num>
                   Capitulum <num type="ordinal" value="1">primum</num></rdg>
-                <rdg wit="#Ma #Mb" ana="#additive"><hi rend="rubricated">de <ref><title ref="#ArPr"><app>
+                <rdg wit="#Ma #Mb" ana="#additive"><hi rend="rubricated">de <title ref="#ArPr"><app>
                           <lem wit="#Ma">problematibus</lem>
                           <rdg wit="#Mb" ana="#morphological">problemnati</rdg>
-                        </app></title><name ref="#Ar">arestotelis</name></ref> que sunt circa
+                        </app></title><name ref="#Ar">arestotelis</name> que sunt circa
                     armoniam uel musicam particula <num type="ordinal" value="19">19<hi
                         rend="superscript">a</hi>.</num></hi></rdg>
               </app></p>
@@ -927,7 +962,7 @@
                 <rdg wit="#Mb" ana="#ordinal">problema <num type="ordinal" value="1"
                   >primum</num></rdg>
               </app></head>
-            <p n="1"><mentioned><app>
+            <p n="1"><!-- SJH: What is the purpose of using 'mentioned' here? --><mentioned><app>
                   <lem wit="#β #Ea #Vm #Vo #Vz">PROPTER QUID DOLENTES</lem>
                   <rdg wit="#Vo" ana="#additive #J">PROPTER QUID DOLENTES ET GAUDENTES</rdg>
                   <rdg wit="#Pp #Pu" ana="#additive #J">PROPTER QUID DOLENTES FISTULANTUR</rdg>
@@ -8950,7 +8985,7 @@
                 <lem wit="#γ #Gu #m #v"><num type="ordinal" value="10">Decimum</num> problema</lem>
                 <rdg wit="#Ea #Ma #Pp #Pq #Pz #Vz" ana="#subtractive"><handShift scribe="m.r."/><add
                     place="margin"><num type="ordinal" value="10">10<hi rend="superscript"
-                      >m</hi></num></add><handShift scribe="#Pz"/></rdg>
+                      >m</hi></num></add><handShift scribe="Pz"/></rdg>
                 <rdg wit="#Py" ana="#additive"><surplus><hi rend="rubricated"><num type="ordinal"
                         value="10">decimum</num> problema.</hi></surplus>
                   <num type="ordinal" value="10">Decimum.</num></rdg>
@@ -36223,127 +36258,133 @@
     <back xml:id="back">
       <div type="section" xml:id="Back">
         <head>Back Matter</head>
-        <p>List of persons mentioned by d'Abano<listPerson type="historical">
+        <!-- TODO: Put this in its own div -->
+        <!-- TODO: Add abbr to each one. -->
+        <p>List of persons mentioned by d'Abano
+          <listPerson type="historical">
             <head>Historical figures</head>
             <person xml:id="Al">
-              <persName><forename>Alexander</forename>
+              <persName><abbr type="siglum">Al</abbr><forename>Alexander</forename>
                 <addName>Aphrodisiensis</addName></persName>
             </person>
             <person xml:id="Ar">
-              <persName>Aristoteles</persName>
+              <persName><abbr type="siglum">Ar</abbr>Aristoteles</persName>
             </person>
             <person xml:id="Ax">
-              <persName><forename>Aristoxenus</forename>
+              <persName><abbr type="siglum">Ax</abbr><forename>Aristoxenus</forename>
                 <addName>Tarentinus</addName></persName>
             </person>
             <person xml:id="Av">
-              <persName>Avicenna</persName>
+              <persName><abbr type="siglum">Av</abbr>Avicenna</persName>
             </person>
             <person xml:id="Bo">
-              <persName><surname>Boethius</surname>, <forename>Anicius</forename>
+              <persName><abbr type="siglum">Bo</abbr><surname>Boethius</surname>, <forename>Anicius</forename>
                 <forename>Manlius</forename>
                 <forename>Severinus</forename></persName>
             </person>
             <person xml:id="Co">
-              <persName><forename>Hestiaeus</forename>
+              <persName><abbr type="siglum">Co</abbr><forename>Hestiaeus</forename>
                 <addName>Colophonius</addName></persName>
             </person>
             <person xml:id="Dam">
-              <persName><forename>Johannes</forename>
+              <persName><abbr type="siglum">Dam</abbr><forename>Johannes</forename>
                 <addName>Damascenus</addName></persName>
             </person>
             <person xml:id="Ga">
-              <persName><surname>Galenus</surname>, <forename>Claudius</forename></persName>
+              <persName><abbr type="siglum">Ga</abbr><surname>Galenus</surname>, <forename>Claudius</forename></persName>
             </person>
             <person xml:id="GAr">
-              <persName><forename>Guido</forename>
+              <persName><abbr type="siglum">GAr</abbr><forename>Guido</forename>
                 <addName>Aretinus</addName></persName>
             </person>
             <person xml:id="Hip">
-              <persName>Hippocrates</persName>
+              <persName><abbr type="siglum">Hip</abbr>Hippocrates</persName>
             </person>
             <person xml:id="Hor">
-              <persName><surname>Horatius Flaccus</surname>, <forename>Quintus</forename></persName>
+              <persName><abbr type="siglum">Hor</abbr><surname>Horatius Flaccus</surname>, <forename>Quintus</forename></persName>
             </person>
             <person xml:id="Is">
-              <persName><forename>Isidorus</forename>
+              <persName><abbr type="siglum">Is</abbr><forename>Isidorus</forename>
                 <addName>Hispalensis</addName></persName>
             </person>
             <person xml:id="Mac">
-              <persName><forename>Macrobius</forename>
+              <persName><abbr type="siglum">Mac</abbr><forename>Macrobius</forename>
                 <forename>Ambrosius</forename>
                 <surname>Theodosius</surname></persName>
             </person>
             <person xml:id="Mu">
-              <persName><forename>Musaeus</forename>
+              <persName><abbr type="siglum">Mu</abbr><forename>Musaeus</forename>
                 <addName>Atheniensis</addName></persName>
             </person>
             <person xml:id="Ni">
-              <persName><forename>Nicomachus</forename>
+              <persName><abbr type="siglum">Ni</abbr><forename>Nicomachus</forename>
                 <addName>Gerasenus</addName></persName>
             </person>
             <person xml:id="Ov">
-              <persName><surname>Ovidius Naso</surname>, <forename>Publius</forename></persName>
+              <persName><abbr type="siglum">Ov</abbr><surname>Ovidius Naso</surname>, <forename>Publius</forename></persName>
             </person>
             <person xml:id="Phil">
-              <persName><forename>Philoxenus</forename>
+              <persName><abbr type="siglum">Phil</abbr><forename>Philoxenus</forename>
                 <addName>Cytherius</addName></persName>
             </person>
             <person xml:id="Phr">
-              <persName>Phrynichus <addName type="clarifier">tragicus</addName></persName>
+              <persName><abbr type="siglum">Phr</abbr>Phrynichus (tragicus)</persName>
             </person>
             <person xml:id="Pl">
-              <persName>Plato</persName>
+              <persName><abbr type="siglum">Pl</abbr>Plato</persName>
             </person>
             <person xml:id="Pt">
-              <persName><surname>Ptolemaeus</surname>, <forename>Claudius</forename></persName>
+              <persName><abbr type="siglum">Pt</abbr><surname>Ptolemaeus</surname>, <forename>Claudius</forename></persName>
             </person>
             <person xml:id="Pyth">
-              <persName>Pythagoras</persName>
+              <persName><abbr type="siglum">Pyth</abbr>Pythagoras</persName>
             </person>
             <person xml:id="Ter">
-              <persName><forename>Terpander</forename>
+              <persName><abbr type="siglum">Ter</abbr><forename>Terpander</forename>
                 <addName>Antissenis</addName></persName>
             </person>
             <person xml:id="Th">
-              <persName><forename>Theophilus</forename>
+              <persName><abbr type="siglum">Th</abbr><forename>Theophilus</forename>
                 <addName>Antiochenus</addName></persName>
             </person>
             <person xml:id="Ti">
-              <persName><forename>Timaeus</forename>
+              <persName><abbr type="siglum">Ti</abbr><forename>Timaeus</forename>
                 <addName>Locrus</addName></persName>
             </person>
             <person xml:id="Ty">
-              <persName><forename>Timotheus</forename>
+              <persName><abbr type="siglum">Ty</abbr><forename>Timotheus</forename>
                 <addName>Milesius</addName></persName>
             </person>
-          </listPerson><listPerson type="mythical">
+          </listPerson>
+          <listPerson type="mythical">
             <head>Mythical figures</head>
             <person xml:id="Cay">
-              <persName>Cain</persName>
+              <persName><abbr type="siglum">Cay</abbr>Cain</persName>
             </person>
             <person xml:id="Ju">
-              <persName>Jupiter</persName>
+              <persName><abbr type="siglum">Ju</abbr>Jupiter</persName>
             </person>
             <person xml:id="Mem">
-              <persName>Memoria</persName>
+              <persName><abbr type="siglum">Mem</abbr>Memoria</persName>
             </person>
             <person xml:id="Mer">
-              <persName>Mercurius</persName>
+              <persName><abbr type="siglum">Mer</abbr>Mercurius</persName>
             </person>
             <person xml:id="Mos">
-              <persName>Moses</persName>
+              <persName><abbr type="siglum">Mos</abbr>Moses</persName>
             </person>
             <person xml:id="Or">
-              <persName>Orpheus</persName>
+              <persName><abbr type="siglum">Or</abbr>Orpheus</persName>
             </person>
             <person xml:id="Tor">
-              <persName><forename>Torebus</forename>, <genName>filius Atys</genName></persName>
+              <persName><abbr type="siglum">Tor</abbr><forename>Torebus</forename>, <genName>filius Atys</genName></persName>
             </person>
             <person xml:id="Tub">
-              <persName>Tubal Cain</persName>
+              <persName><abbr type="siglum">Tub</abbr>Tubal Cain</persName>
             </person>
           </listPerson></p>
+        
+        <!-- SJH: This should have its own div. Also, it's not technically correct. d'Abano cited the works, yes, but not the specific editions of them listed here. -->
         <p>List of works cited by d'Abano<listBibl>
             <bibl xml:id="AbCo"><author><persName><surname>d'Abano</surname>,
                     <forename>Pietro</forename></persName></author>. <title>Conciliator

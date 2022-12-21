@@ -787,49 +787,49 @@
           <head>V. Bibliography</head>
           <listBibl>
             <bibl xml:id="Cadden2013">
-              <abbr type="siglum">Cadden 2013</abbr>. = <author>Cadden, Joan</author>.
-                <title>Nothing Natural is Shameful: Sodomy and Science in Late Medieval
+              <abbr type="siglum">Cadden 2013</abbr><author>Cadden, Joan</author>.
+                <title level="m">Nothing Natural is Shameful: Sodomy and Science in Late Medieval
                 Europe.</title>
               <pubPlace>Philadelphia</pubPlace>: <publisher>University of Pennsylvania
                 Press</publisher>, <date when="2013">2013</date>. </bibl>
             <bibl xml:id="Cohen2012">
-              <abbr type="siglum">Cohen 2012</abbr>. = <author>Cohen, David E.</author>.
-                <title>Harmonic Mediation and the Triad: Gaffurio, Zarlino, Lippius and Pietro
+              <abbr type="siglum">Cohen 2012</abbr><author>Cohen, David E.</author>.
+                <title level="m">Harmonic Mediation and the Triad: Gaffurio, Zarlino, Lippius and Pietro
                 d’Abano’s Commentary on the Pseudo-Aristotelian <title>Problems</title>.</title>
               Paper presented at the annual conference of the <orgName>Music Theory Society of New
                 York State</orgName>. <placeName>New York, N.Y.</placeName>, <date when="2012">March
                 31, 2012</date>. </bibl>
             <bibl xml:id="Coucke2008">
-              <abbr type="siglum">Coucke 2008</abbr>. = <author>Coucke, Gijs</author>.
-                <title>Philosophy between Text and Tradition The Reception of Aristotle's
+              <abbr type="siglum">Coucke 2008</abbr><author>Coucke, Gijs</author>.
+                <title level="m">Philosophy between Text and Tradition The Reception of Aristotle's
                   <title>Problemata</title> in the Middle Ages: Peter of Abano's <title>Expositio
                   Problematum</title></title>. <pubPlace>Leuven</pubPlace>: <publisher>Ph.D.
                 dissertation, Katholieke Universiteit Leuven</publisher>, <date when="2008"
                 >2008</date>. </bibl>
             <bibl xml:id="Coucke2009">
-              <abbr type="siglum">Coucke 2009</abbr>. = <author>Coucke, Gijs</author>. <title
+              <abbr type="siglum">Coucke 2009</abbr><author>Coucke, Gijs</author>. <title
                 level="a">Needle in the Haystack: In Search of the Model of Peter of Abano's
                   <title>Expositio Problematum</title></title>. <title level="j">Revue d'histoire
                 des textes</title> 4 (<date when="2009">2009</date>): <biblScope unit="page"
                 from="179" to="213">179–213</biblScope>
             </bibl>
             <bibl xml:id="Klek1922">
-              <abbr type="siglum">Klek 1922</abbr>. = <editor>Klek, Joseph</editor>,
+              <abbr type="siglum">Klek 1922</abbr><editor>Klek, Joseph</editor>,
                 <editor>Knoellinger, Hermann</editor>, <editor>Ruelle, Charles Emanuel</editor>,
-                <author>Pseudo-Aristotle</author>. <title>Aristotelis quae feruntur problemata
+                <author>Pseudo-Aristotle</author>. <title level="m">Aristotelis quae feruntur problemata
                 physica</title>
               <pubPlace>Leipzig</pubPlace>: <publisher>Teubner</publisher>, <date when="1922"
                 >1922</date>. </bibl>
             <bibl xml:id="Kuksewicz1985">
-              <abbr type="siglum">Kuksewicz 1985</abbr>. = <author>Kuksewicz, Zdzislaw</author>.
+              <abbr type="siglum">Kuksewicz 1985</abbr><author>Kuksewicz, Zdzislaw</author>.
                 <title level="a">Les <title>Problemata</title> de Pietro d'Abano et leur 'Rédaction'
                 par Jean de Jandun</title>. <title level="j">Medioevo</title> 11 (<date when="1985"
                 >1985</date>): <biblScope unit="page" from="113" to="137">113–37</biblScope>
             </bibl>
             <bibl xml:id="LeemansCoucke2011" type="article">
-              <abbr type="siglum">Leemans and Coucke 2011</abbr>. = <author>Leemans, Pieter De, and
-                Coucke, Gijs</author>. <title level="a"><hi rend="italic"><foreign xml:lang="la"
-                    >Sicut vidi et tetigi</foreign></hi>...: Ego-statements and Experience in Pietro
+              <abbr type="siglum">Leemans and Coucke 2011</abbr><author>Leemans, Pieter De, and
+                Coucke, Gijs</author>. <title level="a"><foreign xml:lang="la"
+                    >Sicut vidi et tetigi</foreign>...: Ego-statements and Experience in Pietro
                 d'Abano's <title>Expositio Problematum Aristotelis</title></title>. In <bibl
                 type="monogr">
                 <title level="m"><foreign xml:lang="la">Expertus sum</foreign>: l'éxperience par les
@@ -848,7 +848,7 @@
                   Galluzzo</publisher>, <date when="2011">2011</date>. </bibl>
             </bibl>
             <bibl xml:id="Palisca1985" type="chapter">
-              <abbr type="siglum">Palisca 1985</abbr>. = <author>Palisca, Claude</author>. <title
+              <abbr type="siglum">Palisca 1985</abbr><author>Palisca, Claude</author>. <title
                 level="a">The Earliest Musical Humanists: Pietro d’Abano</title>. <biblScope
                 unit="chapter" n="3">Chap. 3</biblScope> in <bibl type="monogr">
                 <title level="m">Humanism in Italian Renaissance Musical Thought</title>.
@@ -856,13 +856,13 @@
                   <date when="2011">1985</date>. </bibl>
             </bibl>
             <bibl xml:id="Siraisi1970">
-              <abbr type="siglum">Siraisi 1970</abbr>. = <author>Siraisi, Nancy</author>. <title
+              <abbr type="siglum">Siraisi 1970</abbr><author>Siraisi, Nancy</author>. <title
                 level="a">The <title>Expositio Problematum Aristotelis</title> of Peter of
                 Abano</title>. <title level="j">Isis</title> 61, no. 2 (<date when="1970"
                 >1970</date>): <biblScope unit="page" from="321" to="339">321–39</biblScope>
             </bibl>
             <bibl xml:id="South2002" type="article">
-              <abbr type="siglum">South 2002</abbr>. = <author>South, James B</author>. <title
+              <abbr type="siglum">South 2002</abbr><author>South, James B</author>. <title
                 level="a">John of Jandun</title>. In <bibl type="monogr">
                 <title level="m">A Companion to Philosophy in the Middle Ages</title>, ed. <editor>
                   <name>
@@ -879,14 +879,14 @@
                   when="2002">2002</date>. </bibl>
             </bibl>
             <bibl xml:id="Swaenepoel2009">
-              <abbr type="siglum">Swaenepoel 2009</abbr>. = <author>Swaenepoel, Tine</author>.
+              <abbr type="siglum">Swaenepoel 2009</abbr><author>Swaenepoel, Tine</author>.
                 <title level="a">Les deux versions des «<title ref="#ArPr">Problemata</title>» de
                 Pierre d'Abano</title>. <title level="j">Filologia mediolatina</title> 16 (<date
                 when="1985">2009</date>): <biblScope unit="page" from="215" to="245"
                 >215–45</biblScope>
             </bibl>
             <bibl xml:id="Vanetti1741">
-              <abbr type="siglum">Vanetti 1741</abbr>. = <author>[Zanetti, Anton Maria]</author>.
+              <abbr type="siglum">Vanetti 1741</abbr><author>[Zanetti, Anton Maria]</author>.
                 <title>Latina et italica D. Marci Bibliotheca codicum manu scriptorum per titulos
                 digesta</title>. <pubPlace>[Venice]</pubPlace>: <publisher>Apud Simonem Occhi
                 Bibliopolam</publisher>, <date when="1741">1741</date>. </bibl>
@@ -28640,13 +28640,11 @@
 
           <div type="textpart" subtype="problem" n="40" xml:id="part40">
             <head><app xml:id="app-40.1" exclude="#app-rdg-Px-40.1">
-                <lem wit="#γ #m #v"><num type="ordinal" value="40">Quadragesimum</num>
-                  problema</lem>
+                <lem wit="#γ #m #v"><num type="ordinal" value="40">Quadragesimum</num> problema</lem>
                 <rdg wit="#Ea #Pp #Pz #Vz" ana="#subtractive"><add place="margin"><num
                       type="ordinal" value="40">40<hi rend="superscript">m</hi></num></add></rdg>
                 <rdg wit="#Py" ana="#additive"><num type="ordinal" value="40">Quadragesimum.</num>
-                  <surplus><hi rend="rubricated"><num type="ordinal" value="40">Quadragesimum</num>
-                      problema</hi></surplus></rdg>
+                  <surplus><hi rend="rubricated"><num type="ordinal" value="40">Quadragesimum</num> problema</hi></surplus></rdg>
                 <rdg wit="#Gu" ana="#lexical #J"><num type="ordinal" value="39">39m.</num>
                   problema.</rdg>
                 <rdg wit="#Mb #Pu #Vm #Vo" ana="#subtractive"/>

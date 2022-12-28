@@ -36259,6 +36259,7 @@
     <back xml:id="back">
       <div type="section" xml:id="Back">
         <head>Back Matter</head>
+        <!-- Begin List of persons mentioned by d'Abano -->
         <div type="section" xml:id="back-historical-figures">
           <head>List of persons mentioned by d'Abano</head>
           <listPerson type="historical">
@@ -36391,8 +36392,11 @@
           </listPerson>
         </div>
 
-        <!-- SJH: This should have its own div. Also, it's not technically correct. d'Abano cited the works, yes, but not the specific editions of them listed here. -->
-        <p>List of works cited by d'Abano<listBibl>
+        <!-- Begin list of works cited by d'Abano -->
+        <!-- SJH: This isn't technically correct, since d'Abano didn't cite specific editions, right? -->
+        <div type="section" xml:id="back-list-works-cited">
+          <head>List of works cited by d'Abano</head>
+          <listBibl>
             <bibl xml:id="AbCo"><author><persName><surname>d'Abano</surname>,
                     <forename>Pietro</forename></persName></author>. <title>Conciliator
                 differentiarum philosophorum</title>. <pubPlace>Venetiis</pubPlace>:
@@ -36602,7 +36606,7 @@
                 <publisher>Brepols</publisher>, <date>2006</date>. <note xml:lang="en">Sometimes
                 attributed to Gilbert of Poitiers.</note></bibl>
           </listBibl>
-        </p>
+        </div>
       </div>
     </back>
   </text>

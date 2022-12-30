@@ -277,13 +277,13 @@
                     <witness xml:id="Nu">
                       <abbr type="siglum">N<hi rend="superscript">u</hi></abbr>
                       <name>Nuremberg, Stadtbibliothek, Cent. III.38</name>, <locus from="61v"
-                        to="64v">ff. 61v-64v</locus>
+                        to="64v">ff. 61v–64v</locus>
                       <date notAfter="1389">before 1389</date>
                     </witness>
                     <witness xml:id="Py">
                       <abbr type="siglum">P<hi rend="superscript">y</hi></abbr>
                       <name>Paris, Bibliotheque Nationale man. lat. 6541</name> (accessed
-                      2022-01-03), <locus from="179v" to="191v">ff. 179v-91v</locus>
+                      2022-01-03), <locus from="179v" to="191v">ff. 179v–91v</locus>
                       <date>fourteenth century</date>. <ptr
                         target="http://gallica.bnf.fr/ark:/12148/btv1b9068411m.r=6541"/>
                     </witness>
@@ -296,14 +296,14 @@
                     <witness xml:id="Va">
                       <abbr type="siglum">V<hi rend="superscript">a</hi></abbr>
                       <name>Vatican, Biblioteca Apostolica lat. 2174</name> (accessed 2022-01-03),
-                        <locus from="72r" to="77r">ff. 72r-77r</locus>
+                        <locus from="72r" to="77r">ff. 72r–77r</locus>
                       <date>fourteenth century</date>. <ptr
                         target="https://digi.vatlib.it/view/MSS_Vat.lat.2174"/>
                     </witness>
                     <witness xml:id="Vb">
                       <abbr type="siglum">V<hi rend="superscript">b</hi></abbr>
                       <name>Vatican, Biblioteca Apostolica lat. 2175</name> (accessed 2022-01-03),
-                        <locus from="107v" to="116r">ff. 107-16r</locus>
+                        <locus from="107v" to="116r">ff. 107–16r</locus>
                       <date>fifteenth century</date>. <ptr
                         target="https://digi.vatlib.it/view/MSS_Vat.lat.2175"/>
                     </witness>
@@ -312,7 +312,7 @@
                 <witness xml:id="Ea">
                   <abbr type="siglum">E<hi rend="superscript">a</hi></abbr>
                   <name>Erfurt, Bibliothek Amploniana fol. 15</name>, <locus from="136v" to="147r"
-                    >ff. 136v-47r</locus>
+                    >ff. 136v–47r</locus>
                   <date>early fourteenth century</date>
                 </witness>
               </listWit>
@@ -333,7 +333,7 @@
                     <witness xml:id="Ma">
                       <abbr type="siglum">M<hi rend="superscript">a</hi></abbr>
                       <name>Cesena, Malatestiana D.XXIV.2</name> (accessed 2022-01-03), <locus
-                        from="96v" to="104r">ff. 96v-104r</locus>
+                        from="96v" to="104r">ff. 96v–104r</locus>
                       <date notAfter="1381">before 1381</date>. <ptr
                         target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=DX.24.02"
                       />
@@ -341,19 +341,19 @@
                     <witness xml:id="Vm">
                       <abbr type="siglum">V<hi rend="superscript">m</hi></abbr>
                       <name>Venice, Biblioteca Nazionale Marciana, lat. VI. 126</name>, <locus
-                        from="95r" to="100r">ff. 95r-100r</locus>
+                        from="95r" to="100r">ff. 95r–100r</locus>
                       <date>fifteenth century</date>
                     </witness>
                     <witness xml:id="Vz">
                       <abbr type="siglum">V<hi rend="superscript">z</hi></abbr>
                       <name>Venice, Biblioteca Nazionale Marciana, lat. Z. 263</name>, <locus
-                        from="48v" to="70r">ff. 48v-70r</locus>
+                        from="48v" to="70r">ff. 48v–70r</locus>
                       <date>ca. fourteenth century</date>. <note>On paper, in one column</note>
                     </witness>
                     <witness xml:id="Mb">
                       <abbr type="siglum">M<hi rend="superscript">b</hi></abbr>
                       <name>Cesena, Malatestiana S.VI.2/3</name> (accessed 2022-01-03), <locus
-                        n="S.VI.3" from="38v" to="56r">S.VI.3, ff. 38v-56r</locus>
+                        n="S.VI.3" from="38v" to="56r">S.VI.3, ff. 38v–56r</locus>
                       <date>1381</date>. <ptr
                         target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=SX.06.03"
                         /><note>A copy of M<hi rend="superscript">a</hi></note>
@@ -370,27 +370,27 @@
                     <witness xml:id="Gu">
                       <abbr type="siglum">G<hi rend="superscript">u</hi></abbr>
                       <name>Ghent, Bibliothéek van de Rijksuniversiteit, ms. 72</name> (accessed
-                      2022-01-03), <locus from="234r" to="249v">ff. 234r-49v</locus>
+                      2022-01-03), <locus from="234r" to="249v">ff. 234r–49v</locus>
                       <date>fourteenth century</date>. <ptr
                         target="http://lib.ugent.be/catalog/rug01:000802948"/>
                     </witness>
                     <witness xml:id="Pp">
                       <abbr type="siglum">P<hi rend="superscript">p</hi></abbr>
                       <name>Paris, Bibliotheque Nationale man. lat. 6542</name> (accessed
-                      2022-01-03), <locus from="183v" to="194v">ff. 183v-94v</locus>
+                      2022-01-03), <locus from="183v" to="194v">ff. 183v–94v</locus>
                       <date>1385</date>. <ptr
                         target="http://gallica.bnf.fr/ark:/12148/btv1b10721259d/f1.item.r=6542"/>
                     </witness>
                     <witness xml:id="Pu">
                       <abbr type="siglum">P<hi rend="superscript">u</hi></abbr>
                       <name>Paris, University 122</name>, <locus from="114v" to="123r"
-                        >114v-23r</locus>
+                        >114v–23r</locus>
                       <date>fifteenth century</date>
                     </witness>
                     <witness xml:id="Pz">
                       <abbr type="siglum">P<hi rend="superscript">z</hi></abbr>
                       <name>Paris, Bibliotheque Nationale man. lat. 6541A</name> (accessed
-                      2022-01-03), <locus from="179r" to="192r">ff. 179r-92r</locus>
+                      2022-01-03), <locus from="179r" to="192r">ff. 179r–92r</locus>
                       <date>fourteenth century</date>. <ptr
                         target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2"/><!-- What's going on here? --><msDesc>
                         <msIdentifier>
@@ -410,7 +410,7 @@
                     <witness xml:id="Vo">
                       <abbr type="siglum">V<hi rend="superscript">o</hi></abbr>
                       <name>Vatican, Biblioteca Apostolica Ottobon. lat. 1764</name>, <locus
-                        from="147r" to="157v">ff. 147r-57v</locus>
+                        from="147r" to="157v">ff. 147r–57v</locus>
                       <date>fourteenth century</date>
                     </witness>
                   </listWit>
@@ -421,19 +421,19 @@
                     <witness xml:id="Ca">
                       <abbr type="siglum">C<hi rend="superscript">a</hi></abbr>
                       <name>Cambridge, Peterhouse 79</name>, <locus from="76r" to="81v">ff.
-                        76r-81v</locus>
+                        76r–81v</locus>
                       <date>fourteenth century</date>
                     </witness>
                     <witness xml:id="Pa">
                       <abbr type="siglum">P<hi rend="superscript">a</hi></abbr>
                       <name>Paris, Bibliotheque Arsenal, 723</name>, <locus from="183v" to="197r"
-                        >ff. 183v-97r</locus>
+                        >ff. 183v–97r</locus>
                       <date>fourteenth century</date>
                     </witness>
                     <witness xml:id="Pq">
                       <abbr type="siglum">P<hi rend="superscript">q</hi></abbr>
                       <name>Paris, Bibliotheque Nationale man. lat. 15454</name>, <locus from="127r"
-                        to="136r">ff. 127r-36r</locus>
+                        to="136r">ff. 127r–36r</locus>
                       <date>fifteenth century</date>
                     </witness>
                     <witness xml:id="Sc">
@@ -445,7 +445,7 @@
                     <witness xml:id="Vc">
                       <abbr type="siglum">V<hi rend="superscript">c</hi></abbr>
                       <name>Vatican, Biblioteca Apostolica lat. 2176</name> (accessed 2022-01-03),
-                        <locus from="62r" to="65r">ff. 62r-65r</locus>
+                        <locus from="62r" to="65r">ff. 62r–65r</locus>
                       <date>fourteenth century</date>. <ptr
                         target="https://digi.vatlib.it/view/MSS_Vat.lat.2176"/>
                     </witness>
@@ -1062,7 +1062,7 @@
                 <bibl corresp="#BoMu"><author>Boethius</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="5">V.</biblScope><biblScope unit="chapter" n="2"
-                    >2</biblScope> (ed. Friedlein p. 352, ll. 4-5)</bibl>
+                    >2</biblScope> (ed. Friedlein p. 352, ll. 4–5)</bibl>
                 <quote rend="inline"><app>
                     <lem wit="#β #λ #Ea">est armonica</lem>
                     <rdg wit="#Pp #Pu #Pz #Vo" ana="#ordinal #J">armonica est</rdg>
@@ -1128,7 +1128,7 @@
               <bibl cert="low" corresp="#ArPA"><author>Arist.</author>
                 <title>An. post.</title>
                 <biblScope unit="page">90a</biblScope>, <biblScope unit="line" from="14" to="23"
-                  >14-23</biblScope></bibl>
+                  >14–23</biblScope></bibl>
               <milestone ed="#Va" unit="folio" n="72v"/>Que secundum <cit>
                 <ref><name ref="#Is"><app>
                       <lem wit="#β #γ #π #Ma #Mb #Px #Vm #m">ysidorum</lem>
@@ -1212,7 +1212,7 @@
                   </app> scribi.</quote>
                 <bibl corresp="#IsEt"><author>Isidore of Seville</author>, <title>Etym.</title>,
                     <biblScope unit="book" n="3">III</biblScope>.<biblScope unit="chapter" n="15"
-                    >15</biblScope>.<biblScope unit="part" from="1" to="2">1-2</biblScope></bibl>
+                    >15</biblScope>.<biblScope unit="part" from="1" to="2">1–2</biblScope></bibl>
               </cit><app>
                 <lem wit="#β #κ #Va #m #v">A nonnullis</lem>
                 <rdg wit="#Vb" ana="#lexical"><unclear>Amat</unclear> nonnullis</rdg>
@@ -1382,11 +1382,11 @@
                   </app>.</quote>
                 <bibl corresp="#BoMu"><author>Boethius</author>, <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="10"
-                    >10</biblScope> (Friedlein p. 196-7);</bibl>
+                    >10</biblScope> (Friedlein p. 196–7);</bibl>
                 <bibl corresp="#MacSS"><author>Macrobius</author>, <title>Comm. in somn.
                     Scip.</title>
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="1"
-                    >1</biblScope> (Eyssenhardt p. 572-575)</bibl>
+                    >1</biblScope> (Eyssenhardt p. 572–575)</bibl>
               </cit></p>
             <p n="3"><app>
                 <lem wit="#α #κ #Pu #Pz #Vo #m #v">Diuiditur</lem>
@@ -1694,7 +1694,7 @@
                     <rdg wit="#α #π #m #v" ana="#lexical">subsistat</rdg>
                   </app>,</quote>
                 <bibl corresp="#MasAph"><author>Yu&#x1E25;annā ibn Māsawaiyh</author>,
-                    <title>Aph.</title>, (Vat. Lat. 2460, f. 39v, ll.7-8)</bibl>
+                    <title>Aph.</title>, (Vat. Lat. 2460, f. 39v, ll.7–8)</bibl>
               </cit> quare <milestone ed="#Vm" unit="column" n="B"/><app>
                 <lem wit="#κ #Ea #Pu #Py #Pz #Va #m #v">huius</lem>
                 <rdg wit="#Gu #Nu #Pp #Vb #Vo" ana="#lexical">huiusmodi</rdg>
@@ -1973,7 +1973,7 @@
                   </app>.</quote>
                 <bibl corresp="#IsEt"><author>Isidore of Seville</author>, <title>Etym.</title>
                   <biblScope unit="book" n="3">III</biblScope>.<biblScope unit="chapter" n="18"
-                    >18</biblScope>.<biblScope unit="part" from="1" to="2">1-2</biblScope></bibl>
+                    >18</biblScope>.<biblScope unit="part" from="1" to="2">1–2</biblScope></bibl>
               </cit><milestone ed="#Pp" unit="folio" n="184r"/></p>
             <p n="7"><app>
                 <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">Que</lem>
@@ -2176,7 +2176,7 @@
                   <title>Pol.</title>
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1340a"
                     >1340a</biblScope>, ll. <biblScope unit="line" from="3" to="5"
-                  >3-5</biblScope></bibl>
+                  >3–5</biblScope></bibl>
               </cit></p>
             <p n="8">Recitat <app>
                 <lem wit="#α #π #Ma #Px #Vz #m #v">etiam</lem>
@@ -4077,7 +4077,7 @@
                   </app> dicitur.</quote>
                 <bibl corresp="#BoMu"><author>Boeth</author>. <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="20"
-                    >20</biblScope> (Friedlein pp. 205-6, ll. 28-9)</bibl>
+                    >20</biblScope> (Friedlein pp. 205–6, ll. 28–9)</bibl>
               </cit>
               <milestone ed="#Gu" unit="column" n="B"/>Fiat <app>
                 <lem wit="#α #λ #Pu #Pz #Vo">igitur</lem>
@@ -4140,7 +4140,7 @@
                   <title ref="#ArMet">Met.</title>
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="1"
                     >1</biblScope>, <biblScope unit="page" n="993b">993b</biblScope>, ll. <biblScope
-                    unit="line" from="15" to="17">15-17</biblScope></bibl>
+                    unit="line" from="15" to="17">15–17</biblScope></bibl>
               </cit>, incipiendo a superiori cordarum uocem grauissimam <app>
                 <lem wit="#α #Gu #Ma #Pp #Pu #Px #Vo #m #v"><app>
                     <lem wit="#α #Gu #Ma #Pp #Pu #Px #Vm #Vo #m #v">reddenti</lem>
@@ -6383,7 +6383,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="18">18</biblScope>.<biblScope unit="problem" n="6"
                     >6</biblScope>, <biblScope unit="page" n="917a">917a</biblScope> ll. <biblScope
-                    unit="line" from="6" to="17">6-17</biblScope></bibl>
+                    unit="line" from="6" to="17">6–17</biblScope></bibl>
               </cit> et per oppositum <app>
                 <lem wit="#β #γ #Ma #Px #Vm #Vo #m #v">quid agant</lem>
                 <rdg wit="#Ea #Pz" ana="#morphological">quod agant</rdg>
@@ -7475,7 +7475,7 @@
                   <title ref="#ArPe">Peri herm.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="1"
                     >1</biblScope>, <biblScope unit="page" n="16a">16a</biblScope> ll. <biblScope
-                    unit="line" from="5" to="6">5-6</biblScope></bibl>
+                    unit="line" from="5" to="6">5–6</biblScope></bibl>
               </cit>Unde si res <app>
                 <lem wit="#α #π #Ma #Px #Vm #m #v">fuerit</lem>
                 <rdg wit="#Vz" ana="#morphological">fuit</rdg>
@@ -8151,7 +8151,7 @@
                   </app>.</quote>
                 <bibl corresp="#IsEt"><author>Isidore of Seville</author>, <title>Etym.</title>,
                     <biblScope unit="book" n="3">III</biblScope>.<biblScope unit="chapter" n="20"
-                    >20</biblScope>.<biblScope unit="part" from="1" to="6">1-6</biblScope></bibl>
+                    >20</biblScope>.<biblScope unit="part" from="1" to="6">1–6</biblScope></bibl>
               </cit>
               <cit>
                 <app>
@@ -8185,7 +8185,7 @@
                   </app>.</quote>
                 <bibl corresp="#BoMu"><author>Boeth</author>. <title>De inst. mus.</title>
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="28"
-                    >28</biblScope> (Friedlein p. 260, ll. 21-24)</bibl>
+                    >28</biblScope> (Friedlein p. 260, ll. 21–24)</bibl>
               </cit><cit>
                 <quote rend="inline">Tonus <app>
                     <lem wit="#α #κ #Pp #Pu #Pz #m #v">est</lem>
@@ -9659,7 +9659,7 @@
                   <title ref="#ArPr">Prob.</title>
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="16"
                     >16</biblScope>, <biblScope unit="page" n="900b">900b</biblScope>, ll.
-                    <biblScope unit="line" from="15" to="17">15-17</biblScope></bibl>
+                    <biblScope unit="line" from="15" to="17">15–17</biblScope></bibl>
               </cit> oppositi <app>
                 <lem wit="#α #κ #m #v">autem</lem>
                 <rdg wit="#π" ana="#lexical #J">vero</rdg>
@@ -10374,11 +10374,11 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="4"
-                    >4</biblScope> (Friedlein p. 191, ll. 6-10);</bibl>
+                    >4</biblScope> (Friedlein p. 191, ll. 6–10);</bibl>
                 <bibl corresp="#BoAr"><author>Boeth.</author>
                   <title>De inst. arith.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="22"
-                    >22</biblScope> (Friedlein p. 46, ll. 6-17)</bibl>
+                    >22</biblScope> (Friedlein p. 46, ll. 6–17)</bibl>
               </cit></p>
             <p n="3">Multiplex autem <app>
                 <lem wit="#Px #Ma">est</lem>
@@ -12891,7 +12891,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title ref="#BoMu">De inst. mus.</title>
                   <biblScope unit="book" n="5">V</biblScope>.<biblScope unit="chapters" from="8"
-                    to="9">8-9</biblScope></bibl>
+                    to="9">8–9</biblScope></bibl>
               </cit><app>
                 <lem wit="#κ #π #Ea #Py #Va #m #v">Communiter</lem>
                 <rdg wit="#Vb" ana="#orthographical">Comuniter</rdg>
@@ -15314,7 +15314,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="8"
-                    >8</biblScope> (Freidlein 195, ll. 6-13)</bibl>
+                    >8</biblScope> (Freidlein 195, ll. 6–13)</bibl>
               </cit>Videtur si<milestone ed="#v" unit="folio" n="C2v" break="no"/><milestone
                 ed="#Vo" unit="folio" n="151r" break="no"/>quidem quantum facit ad sermonem
                 <persName ref="#Ar"><app>
@@ -19565,7 +19565,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="20"
-                    >20</biblScope> (ed. Friedlein, pp. 208-209)</bibl>
+                    >20</biblScope> (ed. Friedlein, pp. 208–209)</bibl>
               </cit>ita ut <app>
                 <lem wit="#α #κ #Gu #Pp #Vo #m #v">signato</lem>
                 <rdg wit="#Pz" ana="#lexical #J">significando</rdg>
@@ -19630,7 +19630,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="20"
-                    >20</biblScope> (Friedlein 206, ll. 10-1, 15-6)</bibl>
+                    >20</biblScope> (Friedlein 206, ll. 10–1, 15–6)</bibl>
               </cit>utrobique. Infima lune <app>
                 <lem wit="#β #λ #Pz #Vb">ceu</lem>
                 <rdg wit="#Ea #Gu #Pp #Pu #Vo" ana="#lexical">seu</rdg>
@@ -20621,7 +20621,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="21">XXI</biblScope>.<biblScope unit="problem" n="14"
                     >14</biblScope>, <biblScope unit="page" n="928b">928b</biblScope> ll. <biblScope
-                    unit="line" from="25" to="26">25-26</biblScope></bibl>
+                    unit="line" from="25" to="26">25–26</biblScope></bibl>
               </cit><gloss target="#ment-29.1">Consuetudo <app>
                   <lem wit="#α #Ma #Px #Vm #m #v">siquidem</lem>
                   <rdg wit="#π #Vz" ana="#subtractive"/>
@@ -21083,7 +21083,7 @@
                   <title ref="#ArMet">Met.</title>
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="1"
                     >1</biblScope>, <biblScope unit="page" n="993b">993b</biblScope> ll. <biblScope
-                    unit="line" from="4" to="5">4-5</biblScope></bibl>
+                    unit="line" from="4" to="5">4–5</biblScope></bibl>
                 <app>
                   <lem wit="#α #κ #m #v">ut ostensum <app>
                       <lem wit="#γ #κ #Ea #m #v">est</lem>
@@ -21664,7 +21664,7 @@
                   <title>Pol.</title>
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> ll. <biblScope unit="line" from="12" to="18"
-                    >12-18</biblScope></bibl>
+                    >12–18</biblScope></bibl>
               </cit>tangere <num type="cardinal" value="3">tres</num>
               <app>
                 <lem wit="#β #Ea #Px">cantus modos</lem>
@@ -21859,7 +21859,7 @@
                   <title>Pol.</title>
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> ll. <biblScope unit="line" from="12" to="18"
-                    >12-18</biblScope></bibl>
+                    >12–18</biblScope></bibl>
               </cit><app>
                 <lem wit="#β #Ea #Ma #Pp #Pu #Px #Pz #Va #Vz #m">Lidius</lem>
                 <rdg wit="#Vm" ana="#orthographical">Ludius</rdg>
@@ -21923,7 +21923,7 @@
                   <title ref="#ArPo">Pol.</title>
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> ll. <biblScope unit="line" from="32" to="34"
-                    >32-34</biblScope></bibl>
+                    >32–34</biblScope></bibl>
               </cit><app>
                 <lem wit="#β #γ #κ #π #m #v">que</lem>
                 <rdg wit="#Ea" ana="#morphological">quod</rdg>
@@ -21999,7 +21999,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="4">IV</biblScope>.<biblScope unit="chapter" n="15"
-                    >15</biblScope> (Friedlein p. 342, ll. 10-14)</bibl>
+                    >15</biblScope> (Friedlein p. 342, ll. 10–14)</bibl>
               </cit><milestone ed="#Vb" unit="folio" n="113r"/><app>
                 <lem wit="#β #λ #Ea">ypermixolidius</lem>
                 <rdg wit="#γ #m #v" ana="#orthographical">ypermisolidius</rdg>
@@ -23941,7 +23941,7 @@
                   <title>Met.</title>
                   <biblScope unit="book" n="10">X</biblScope>, <biblScope unit="page" n="1052b"
                     >1052b</biblScope> ll. <biblScope unit="line" from="34" to="37"
-                    >34-37</biblScope></bibl>
+                    >34–37</biblScope></bibl>
               </cit>Unde <cit>
                 <ref><num type="ordinal" value="2">2°</num>
                   <app>
@@ -23973,7 +23973,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="18"
-                    >18</biblScope> (Freidlein 250, ll. 6-8)</bibl>
+                    >18</biblScope> (Freidlein 250, ll. 6–8)</bibl>
               </cit><app>
                 <lem wit="#β #κ #π #Ea #Va">Quod</lem>
                 <rdg wit="#Vb #m #v" ana="#lexical">Quid</rdg>
@@ -24220,7 +24220,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="15"
                     >15</biblScope>, <biblScope unit="page" n="903a">900b</biblScope> ll. <biblScope
-                    unit="line" from="10" to="12">10-12</biblScope></bibl>
+                    unit="line" from="10" to="12">10–12</biblScope></bibl>
               </cit>et sonum tunc reddit acutum. Et ideo instrumenta perforantur, <app>
                 <lem wit="#β #λ #π #Ea #Vb #m #v">que foramina</lem>
                 <rdg wit="#Px" ana="#morphological">quod foramina</rdg>
@@ -24339,7 +24339,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="5">V</biblScope>.<biblScope unit="chapter" n="10"
-                    >10</biblScope> (Freidlein 360, ll. 6-10)</bibl>
+                    >10</biblScope> (Freidlein 360, ll. 6–10)</bibl>
                 <note target="#quote-35.1" type="parallel">Cf. <bibl corresp="#PtHar"
                       ><author>Ptol.</author>
                     <title>Harm.</title>
@@ -24371,7 +24371,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="15">XV</biblScope>.<biblScope unit="problem" n="3"
                     >3</biblScope>, <biblScope unit="page" n="910b">910b</biblScope> ll. <biblScope
-                    unit="line" from="23" to="30">23-30</biblScope></bibl>
+                    unit="line" from="23" to="30">23–30</biblScope></bibl>
               </cit>Quod <app>
                 <lem wit="#γ #κ #Ea #Nu #Pp #Pu #Pz #Vo #m #v">tamen non</lem>
                 <rdg wit="#Gu #Pq" ana="#ordinal #J">non tamen</rdg>
@@ -24904,7 +24904,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="16"
                     >16</biblScope>, <biblScope unit="page" n="900b">900b</biblScope> ll. <biblScope
-                    unit="line" from="24" to="28">24-28</biblScope></bibl>
+                    unit="line" from="24" to="28">24–28</biblScope></bibl>
               </cit></p>
             <p n="2"><app>
                 <lem wit="#β #κ #π #Ea #Vb" n="xia"/>
@@ -25242,9 +25242,9 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="13"
                     >13</biblScope>, <biblScope unit="page" n="900">900a</biblScope> ll. <biblScope
-                    unit="line" from="21" to="27">21-27</biblScope>; <biblScope unit="problem"
+                    unit="line" from="21" to="27">21–27</biblScope>; <biblScope unit="problem"
                     n="16">21</biblScope>, <biblScope unit="page" n="901a">901a</biblScope> ll.
-                    <biblScope unit="line" from="31" to="32">31-32</biblScope></bibl>
+                    <biblScope unit="line" from="31" to="32">31–32</biblScope></bibl>
               </cit><app>
                 <lem wit="#κ #Py #Va">Sepe atque</lem>
                 <rdg wit="#Ea #Nu" ana="#additive">Sepe at quia</rdg>
@@ -25459,7 +25459,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="14"
                     >14</biblScope>, <biblScope unit="page" n="900a">900a</biblScope> ll. <biblScope
-                    unit="line" from="34" to="36">34-36</biblScope></bibl>
+                    unit="line" from="34" to="36">34–36</biblScope></bibl>
               </cit>cum <app>
                 <lem wit="#β #λ #π #Ea #Vb #m #v">id</lem>
                 <rdg wit="#Px" ana="#lexical">illud</rdg>
@@ -25803,7 +25803,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="19">XΙΧ</biblScope>.<biblScope unit="problem" n="2"
                     >2</biblScope>, <biblScope unit="page" n="917b">917b</biblScope> ll. <biblScope
-                    unit="line" from="22" to="29">22-29</biblScope></bibl>
+                    unit="line" from="22" to="29">22–29</biblScope></bibl>
               </cit></p>
             <p n="3"><app>
                 <lem wit="#β #κ #π #Ea #Vb" n="particule"/>
@@ -25945,7 +25945,7 @@
                       <rdg wit="#Pz" ana="#additive #J">amphorismis suis</rdg>
                     </app></title>.</ref>
                 <bibl corresp="#MasAph"><author>Yu&#x1E25;annā ibn Māsawaiyh</author>
-                  <title ref="#MasAph">Aph.</title> (See Vat. Lat. 2460, f. 39v, ll.10-11.)</bibl>
+                  <title ref="#MasAph">Aph.</title> (See Vat. Lat. 2460, f. 39v, ll.10–11.)</bibl>
               </cit><app>
                 <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">Quare</lem>
                 <rdg wit="#Gu" ana="#lexical #J">Et</rdg>
@@ -26479,7 +26479,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="7">VII</biblScope>.<biblScope unit="problem" n="4"
                     >4</biblScope>, <biblScope unit="page" n="886b">886b</biblScope> ll. <biblScope
-                    unit="line" from="5" to="6">5-6</biblScope></bibl>
+                    unit="line" from="5" to="6">5–6</biblScope></bibl>
               </cit></p>
             <p n="6"><app>
                 <lem wit="#β #κ #π #Ea #Vb" n="quarto"/>
@@ -29907,10 +29907,10 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="19">XIX</biblScope>.<biblScope unit="problem" n="13"
                     >13</biblScope>, <biblScope unit="page" n="918b">918b</biblScope> ll. <biblScope
-                    unit="line" from="3" to="6">3-6</biblScope> and <biblScope unit="book" n="19"
+                    unit="line" from="3" to="6">3–6</biblScope> and <biblScope unit="book" n="19"
                     >XIX</biblScope>.<biblScope unit="problem" n="39">39</biblScope>, <biblScope
                     unit="page" n="921a">921a</biblScope> ll. <biblScope unit="line" from="7"
-                    to="31">7-31</biblScope></bibl>
+                    to="31">7–31</biblScope></bibl>
               </cit><app>
                 <lem wit="#γ #κ #π #Py #m #v">Sicut</lem>
                 <rdg wit="#Ea" ana="#lexical">Sint</rdg>
@@ -29963,10 +29963,10 @@
                       <title>Prob.</title>
                       <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="23"
                         >23</biblScope>, <biblScope unit="page" n="900a">901b</biblScope> ll.
-                        <biblScope unit="line" from="18" to="19">18-19</biblScope>; <biblScope
+                        <biblScope unit="line" from="18" to="19">18–19</biblScope>; <biblScope
                         unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="51"
                         >51</biblScope>, <biblScope unit="page" n="904b">904b</biblScope> ll.
-                        <biblScope unit="line" from="29" to="33">29-33</biblScope></bibl>
+                        <biblScope unit="line" from="29" to="33">29–33</biblScope></bibl>
                   </cit>quod est quidam <milestone ed="#Vo" unit="column" n="B"/><app>
                     <lem wit="#γ #κ #Gu #Py #m #v">cantus</lem>
                     <rdg wit="#Pp #Pu #Pz #Vo" ana="#lexical #J"><app>
@@ -30927,7 +30927,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="16"
                     >16</biblScope>, <biblScope unit="page" n="900b">900b</biblScope> ll. <biblScope
-                    unit="line" from="17" to="25">17-25</biblScope></bibl>
+                    unit="line" from="17" to="25">17–25</biblScope></bibl>
               </cit>Tar<milestone ed="#v" unit="folio" n="D1v" break="no"/>dius <app>
                 <lem wit="#κ #Ea #Pp #Pu #Py #Pz #Vo">autem</lem>
                 <rdg wit="#γ #m #v" ana="#lexical">aut</rdg>
@@ -32740,7 +32740,7 @@
                 <bibl corresp="#BoMu"><author>Boeth.</author>
                   <title ref="#BoMu">De inst. mus.</title>
                   <biblScope unit="book" n="1">Ι</biblScope>.<biblScope unit="chapter" n="20"
-                    >20</biblScope> (Friedlein p. 208, ll. 8-10)</bibl>
+                    >20</biblScope> (Friedlein p. 208, ll. 8–10)</bibl>
               </cit><app>
                 <lem n="inueniri"/>
                 <rdg wit="#Pp #Pz #Vb #Vz" ana="#additive">etcetera.</rdg>
@@ -34837,7 +34837,7 @@
                   <title>Prob.</title>
                   <biblScope unit="book" n="30">XXX</biblScope>.<biblScope unit="problem" n="10"
                     >10</biblScope>, <biblScope unit="page" n="956b">956b</biblScope> ll. <biblScope
-                    unit="line" from="11" to="12">11-12</biblScope></bibl>
+                    unit="line" from="11" to="12">11–12</biblScope></bibl>
               </cit>iuxta siquidem <app>
                 <lem wit="#κ #Ea #Pp #Pu #Pz #Py #Va #Vo">huius</lem>
                 <rdg wit="#Gu #Pa #Vb #m #v" ana="#lexical">huiusmodi</rdg>
@@ -36430,7 +36430,7 @@
                 <editor>R.A. Gauthier</editor> as <title level="m">Analytica posteriora (Iacobi
                 Venetici translationis recensio)</title>. <title level="s">Aristoteles
                 Latinus</title>
-              <biblScope unit="volume" n="26">XXVI.1-3</biblScope>. <pubPlace>Leiden and
+              <biblScope unit="volume" n="26">XXVI.1–3</biblScope>. <pubPlace>Leiden and
                 Bruxelles</pubPlace>: <publisher>Brill and Desclée De Brouwer</publisher>,
                 <date>1972–1974</date>, URL: <ptr
                 target="http://clt.brepolis.net/ALD/pages/TextSearch.aspx?key=MBUPIETN1_"/></bibl>
@@ -36447,7 +36447,7 @@
                 Minio-Paluello</editor> and <editor>B. G. Dod</editor> as <title level="m">Analytica
                 posteriora (Iacobi Venetici translationis recensio)</title>. <title level="s"
                 >Aristoteles Latinus</title>
-              <biblScope unit="volume" n="4">IV.1-4</biblScope>. <pubPlace>Bruges and
+              <biblScope unit="volume" n="4">IV.1–4</biblScope>. <pubPlace>Bruges and
                 Paris</pubPlace>: <publisher>Desclée De Brouwer</publisher>, <date>1968</date>, URL:
                 <ptr target="http://clt.brepolis.net/ALD/pages/TextSearch.aspx?key=MGM55ANPO_"
               /></bibl>
@@ -36476,7 +36476,7 @@
                 <title>Topica</title>. Ed. <editor>L. Minio-Paluello</editor> as <title level="m"
                 >Topica. Translatio Boethii, Fragmentum Recensionis Alterius et Translatio
                 Anonyma</title>. <title level="s">Aristoteles Latinus</title>
-              <biblScope unit="volume" n="5">V.1-3</biblScope>. <pubPlace>Bruges and
+              <biblScope unit="volume" n="5">V.1–3</biblScope>. <pubPlace>Bruges and
                 Paris</pubPlace>: <publisher>Desclée De Brouwer</publisher>, <date>1969</date>, URL:
                 <ptr target="http://clt.brepolis.net/ALD/pages/TextSearch.aspx?key=PARBOTOPI_"
               /></bibl>

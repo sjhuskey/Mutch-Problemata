@@ -28,7 +28,7 @@
           <addrLine>Carnegie Building 101</addrLine>
           <settlement>Norman</settlement>
           <name>OK</name>
-          <postCode>73071</postCode>
+          <postCode>73019</postCode>
           <country>USA</country>
         </address>
         <authority>The University of Oklahoma</authority>
@@ -55,11 +55,9 @@
     <encodingDesc>
       <charDecl>
         <glyph xml:id="sqb">
-          <glyphName>LATIN LETTER SMALL B SQUARED</glyphName>
-          <charProp>
-            <localName>entity</localName>
-            <value>sqb</value>
-          </charProp>
+          <localProp name="Name"
+            value="LATIN LETTER SMALL B SQUARED"/>
+          <localProp name="entity" value="sqb"/>
         </glyph>
       </charDecl>
       <editorialDecl>

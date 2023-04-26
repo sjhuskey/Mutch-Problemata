@@ -55,8 +55,7 @@
     <encodingDesc>
       <charDecl>
         <glyph xml:id="sqb">
-          <localProp name="Name"
-            value="LATIN LETTER SMALL B SQUARED"/>
+          <localProp name="Name" value="LATIN LETTER SMALL B SQUARED"/>
           <localProp name="entity" value="sqb"/>
         </glyph>
       </charDecl>
@@ -189,17 +188,18 @@
           <div type="section" xml:id="preface-subsection-1.2">
             <head>1.2 Structure</head>
             <p n="1">Each of the pseudo-Aristotelian problems follows a set structure. First, a
-              question is posed, such as at the start the first problem: <quote rend="inline">Why do those who are
-              suffering and those who are rejoicing have pipes played for them?</quote> (<foreign
-                xml:lang="la">Propter quid dolentes et gaudentes fistulantur</foreign>?) Then one or
-              more possible reasons are proposed, often accompanied by additional explanation. For
-              instance, the first problem continues: <quote rend="inline">Is it so that the former mourn less, but the
-              latter rejoice more?</quote> (<foreign xml:lang="la">Aut ut hii quidem minus tristentur, alii
-                autem ut magis gaudeant</foreign>?”) In his commentary Pietro follows a similar
-              pattern. He first paraphrases the opening question, and then addresses the remainder
-              of the problem, dividing it into between one and seven parts, depending on its length.
-              He signals the beginning of each successive division of the text with its first word
-              or two, followed by a partial or complete paraphrase. Given the unidiomatic Latin of
+              question is posed, such as at the start the first problem: <quote rend="inline">Why do
+                those who are suffering and those who are rejoicing have pipes played for
+                them?</quote> (<foreign xml:lang="la">Propter quid dolentes et gaudentes
+                fistulantur</foreign>?) Then one or more possible reasons are proposed, often
+              accompanied by additional explanation. For instance, the first problem continues:
+                <quote rend="inline">Is it so that the former mourn less, but the latter rejoice
+                more?</quote> (<foreign xml:lang="la">Aut ut hii quidem minus tristentur, alii autem
+                ut magis gaudeant</foreign>?”) In his commentary Pietro follows a similar pattern.
+              He first paraphrases the opening question, and then addresses the remainder of the
+              problem, dividing it into between one and seven parts, depending on its length. He
+              signals the beginning of each successive division of the text with its first word or
+              two, followed by a partial or complete paraphrase. Given the unidiomatic Latin of
               Bartholomew of Messina’s translation and the common occurrence of obscure vocabulary,
               Pietro’s paraphrases provide an important means of ingress to the text on their own.
               He often supplements these paraphrases with additional explanatory material, both his
@@ -234,8 +234,9 @@
               xliv)—that presumably being the date when the initial version was completed.</p>
             <p n="2">Further complicating matters, some of the manuscripts change affiliations
               partway through the lengthy work. As Joan Cadden has observed, manuscript P<hi
-                rend="superscript">z</hi> <quote rend="inline">contains the first half of Pietro’s version and the
-              second half of Jean’s,</quote> and manuscript E<hi rend="superscript">a</hi> has the converse
+                rend="superscript">z</hi>
+              <quote rend="inline">contains the first half of Pietro’s version and the second half
+                of Jean’s,</quote> and manuscript E<hi rend="superscript">a</hi> has the converse
               arrangement (<ref target="Cadden2013">2013</ref>, 228). Additionally, in his edition
               of section IV of the <title>Expositio</title>, Coucke identifies manuscript V<hi
                 rend="superscript">b</hi> as deriving from Pietro’s revised version, whereas by
@@ -544,20 +545,23 @@
               reason to believe that M<hi rend="superscript">b</hi> is copied either directly from
                 M<hi rend="superscript">a</hi> or from another copy of M<hi rend="superscript"
                 >a</hi>. For instance, in problem 2 the scribe of M<hi rend="superscript">a</hi>
-              erroneously wrote <quote rend="inline">unaa</quote> instead of <quote rend="inline">una,</quote> and M<hi rend="superscript">b</hi>’s scribe
-              wrote <quote rend="inline">unaa</quote> before deleting the superfluous a. Still stronger evidence of copying is
-              found in problem 3’s table of Greek note names, where M<hi rend="superscript">b</hi>’s
-              scribe was consulting a manuscript that breaks the word <quote rend="inline">prollabamenos</quote> (<foreign
-                xml:lang="la">recte: proslambanomenos</foreign>) into <quote rend="inline">prolla</quote> and <quote rend="inline">bamenos,</quote> as
-                M<hi rend="superscript">a</hi> does. We can tell this because M<hi
-                rend="superscript">b</hi>’s scribe evidently thought the line break divided two
-              distinct words: in M<hi rend="superscript">b</hi>, following <quote rend="inline">prolla</quote> the rest of the
-              line (about six characters’ worth) is left blank, before the table of note names
-              begins at the top of the next column with <quote rend="inline">bamenos.</quote> Furthermore, in problem 6 M<hi
+              erroneously wrote <quote rend="inline">unaa</quote> instead of <quote rend="inline"
+                >una,</quote> and M<hi rend="superscript">b</hi>’s scribe wrote <quote rend="inline"
+                >unaa</quote> before deleting the superfluous a. Still stronger evidence of copying
+              is found in problem 3’s table of Greek note names, where M<hi rend="superscript"
+                >b</hi>’s scribe was consulting a manuscript that breaks the word <quote
+                rend="inline">prollabamenos</quote> (<foreign xml:lang="la">recte:
+                proslambanomenos</foreign>) into <quote rend="inline">prolla</quote> and <quote
+                rend="inline">bamenos,</quote> as M<hi rend="superscript">a</hi> does. We can tell
+              this because M<hi rend="superscript">b</hi>’s scribe evidently thought the line break
+              divided two distinct words: in M<hi rend="superscript">b</hi>, following <quote
+                rend="inline">prolla</quote> the rest of the line (about six characters’ worth) is
+              left blank, before the table of note names begins at the top of the next column with
+                <quote rend="inline">bamenos.</quote> Furthermore, in problem 6 M<hi
                 rend="superscript">b</hi>’s scribe follows the word <foreign xml:lang="la"
-                >magnatis</foreign> with the superfluous phrase <foreign xml:lang="la">uel huius
-                est inequale non eundem seruans tenorem</foreign> ahead of where it should occur in
-              the text, and then repeats it in the correct place, following <foreign xml:lang="la"
+                >magnatis</foreign> with the superfluous phrase <foreign xml:lang="la">uel huius est
+                inequale non eundem seruans tenorem</foreign> ahead of where it should occur in the
+              text, and then repeats it in the correct place, following <foreign xml:lang="la"
                 >excellentis</foreign>. In this case of homeoteleuton the -<foreign xml:lang="la"
                 >tis</foreign> endings of <foreign xml:lang="la">magnatis</foreign> and <foreign
                 xml:lang="la">excellentis</foreign> are nearly aligned in two successive lines of
@@ -582,26 +586,28 @@
             <head>2.5 Jean de Jandun’s Redaction</head>
             <p n="1">The redaction undertaken by Jean de Jandun necessarily cannot help reconstruct
               the best text of Pietro’s commentary, but it is still of some interest. This is in
-              part because <quote rend="inline">Jandun is one of the most important thinkers in the Latin Averroist
-              tradition </quote>(<ref target="South2002">South 2002</ref>, 372), and consequently his
-              understanding of the <title ref="#ArPr">Problems</title> and Pietro’s commentary
-              merits attention. Furthermore, due to the significant circulation of Jean’s redaction
-              in the environs of the University of Paris it is valuable for understanding the <title
-                ref="#ArPr">Problems</title>’ reception. As a result, I have included readings from
-              selected manuscripts of Jean’s redaction in my critical edition, but have also tagged
-              them so that readers may filter out readings only found in that redaction.</p>
+              part because <quote rend="inline">Jandun is one of the most important thinkers in the
+                Latin Averroist tradition </quote>(<ref target="South2002">South 2002</ref>, 372),
+              and consequently his understanding of the <title ref="#ArPr">Problems</title> and
+              Pietro’s commentary merits attention. Furthermore, due to the significant circulation
+              of Jean’s redaction in the environs of the University of Paris it is valuable for
+              understanding the <title ref="#ArPr">Problems</title>’ reception. As a result, I have
+              included readings from selected manuscripts of Jean’s redaction in my critical
+              edition, but have also tagged them so that readers may filter out readings only found
+              in that redaction.</p>
             <p n="2">Three broad feature of Jean’s redaction identified by Coucke in section IV also
               occur in section XIX. First, the redaction is most saliently characterized by
-              omissions that <quote rend="inline">either cover well defined text-units (paragraphs, or entire
-              (subordinate) clauses), or entail the removal of repetitive or superfluous speech</quote>
-                (<ref target="Coucke2008">2008</ref>, vol. 2: xxvii). Second, as a whole the
-              manuscripts of Jean’s redaction largely agree with those of Pietro’s first version,
-              but on occasion they follow his second version instead, as Coucke found (xxx–xxxi).
-              Third, as in section IV manuscript Vo appears to be most valuable for establishing the
-              text of the redaction (xxxiii). It has almost no unique errors of any importance, but
-              a brief passage in problem 9 (<foreign xml:lang="la">utrobique existente. Et hoc quia
-                in cantu</foreign>), which it alone omits, indicates that it cannot be the direct
-              (or at least the sole) model for the rest of the redaction’s manuscripts.</p>
+              omissions that <quote rend="inline">either cover well defined text-units (paragraphs,
+                or entire (subordinate) clauses), or entail the removal of repetitive or superfluous
+                speech</quote> (<ref target="Coucke2008">2008</ref>, vol. 2: xxvii). Second, as a
+              whole the manuscripts of Jean’s redaction largely agree with those of Pietro’s first
+              version, but on occasion they follow his second version instead, as Coucke found
+              (xxx–xxxi). Third, as in section IV manuscript Vo appears to be most valuable for
+              establishing the text of the redaction (xxxiii). It has almost no unique errors of any
+              importance, but a brief passage in problem 9 (<foreign xml:lang="la">utrobique
+                existente. Et hoc quia in cantu</foreign>), which it alone omits, indicates that it
+              cannot be the direct (or at least the sole) model for the rest of the redaction’s
+              manuscripts.</p>
             <p n="3">Beyond these broad characteristics, however, further clarity is elusive.
               Whereas Coucke found that manuscripts P<hi rend="superscript">p</hi> and V<hi
                 rend="superscript">c</hi> are “contaminated,” since in section IV they complete the
@@ -672,22 +678,22 @@
           <p n="3">Given section XIX’s dedication to the subject of music, the extent to which
             Pietro incorporates medical sources, the second category, undoubtedly speaks to his
             training as a physician. Three of these treatises are by Galen, whom Claude Palisca
-            misidentified as <quote rend="inline">an otherwise unknown author Balienus</quote> in a chapter on Pietro (<ref
-              target="Palisca1985">1985</ref>, 55). The other medical sources range from the better
-            known, such Avicenna’s <title ref="#AvCa">Canon medicinae</title>, to the obscure, for
-            instance the <title ref="#MasAph">Aphorismi</title> of Yu&#x1E25;annā ibn Māsawaiyh,
-            which Pietro attributes to John of Damascus.</p>
+            misidentified as <quote rend="inline">an otherwise unknown author Balienus</quote> in a
+            chapter on Pietro (<ref target="Palisca1985">1985</ref>, 55). The other medical sources
+            range from the better known, such Avicenna’s <title ref="#AvCa">Canon medicinae</title>,
+            to the obscure, for instance the <title ref="#MasAph">Aphorismi</title> of
+            Yu&#x1E25;annā ibn Māsawaiyh, which Pietro attributes to John of Damascus.</p>
           <p n="4">The number of texts in the third category, writings on music, is very small.
             While Pietro makes reference to Macrobius and Ptolemy, he demonstrates first-hand
             knowledge of only Boethius’s <title ref="#BoMu">De institutione harmonica</title> and
             the section (III.15–23) of Isidore’s <title ref="#IsEt">Etymologies</title> which
             concerns music. He also has at least passing familiarity with some aspects of medieval
-            music theory, as he makes reference to the <quote rend="inline">Guidonian tradition</quote> (<foreign xml:lang="la"
-              >traditio Guidonis</foreign>) in problem 1 and on occasion employs solmization
-            syllables, but he displays no further awareness of music-theoretical writing from after
-            late Antiquity. (He is, however, certainly aware of his day’s musical culture, as he
-            discusses antiphonal singing and medieval instruments, which are unmentioned in Boethius
-            or Isidore.)</p>
+            music theory, as he makes reference to the <quote rend="inline">Guidonian
+              tradition</quote> (<foreign xml:lang="la">traditio Guidonis</foreign>) in problem 1
+            and on occasion employs solmization syllables, but he displays no further awareness of
+            music-theoretical writing from after late Antiquity. (He is, however, certainly aware of
+            his day’s musical culture, as he discusses antiphonal singing and medieval instruments,
+            which are unmentioned in Boethius or Isidore.)</p>
         </div>
         <div type="section" xml:id="preface-section-4">
           <head>IV. Principles of Edition</head>
@@ -975,14 +981,14 @@
               </app> Determinatis problematibus circa <app>
                 <lem wit="#γ #Px #Py #Gu #Pp #Pu #Vo #Vz #m #v">mathematicam</lem>
                 <rdg wit="#Ma #Mb #Nu #Vm" ana="#morphological">mathematica</rdg>
-                <rdg wit="#Ea" ana="#orthographical">m<subst xml:id="subst-1a">
+                <!-- SJH: Asked Caleb about reworking this <rdg wit="#Ea" ana="#orthographical">m<subst xml:id="subst-1a">
                     <del>e</del>
                     <add>a</add>
                   </subst><choice xml:id="subst-1b">
                     <abbr>tha<hi rend="superscript">ca</hi></abbr>
                     <orig><expan>tha<ex>physi</ex>ca</expan></orig>
                     <corr><expan>th<ex>em</ex>a<ex>ti</ex>ca</expan></corr>
-                  </choice><substJoin target="#subst-1a #subst-1b"/></rdg>
+                  </choice><substJoin target="#subst-1a #subst-1b"/></rdg>-->
                 <rdg wit="#Pz" ana="#lexical #J"><choice>
                     <expan>metha<ex>physi</ex>cam</expan>
                     <abbr>metha<hi rend="superscript">cam</hi></abbr>
@@ -1121,12 +1127,11 @@
                     <rdg wit="#Ea" ana="#morphological"><term xml:id="proport."
                         >proportionatis</term><gloss target="#proport."
                         rend="interlinear above, lighter ink">relati</gloss></rdg>
-                  </app>.</quote>
+                </app>.</quote><bibl cert="low" corresp="#ArPA"><author>Arist.</author>
+                  <title>An. post.</title>
+                  <biblScope unit="page">90a</biblScope>, <biblScope unit="line" from="14" to="23"
+                    >14–23</biblScope></bibl>
               </cit>
-              <bibl cert="low" corresp="#ArPA"><author>Arist.</author>
-                <title>An. post.</title>
-                <biblScope unit="page">90a</biblScope>, <biblScope unit="line" from="14" to="23"
-                  >14–23</biblScope></bibl>
               <milestone ed="#Va" unit="folio" n="72v"/>Que secundum <cit>
                 <ref><name ref="#Is"><app>
                       <lem wit="#β #γ #π #Ma #Mb #Px #Vm #m">ysidorum</lem>

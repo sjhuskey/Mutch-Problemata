@@ -647,7 +647,7 @@
           <div type="section" xml:id="preface-subsection-2.6">
             <head>2.6 Stemmatic Hypothesis</head>
             <p n="1">
-              <graphic url="images/Stemma.svg" height="350px" width="904px" mimeType="image/svg"/>
+              <graphic url="images/Stemma.png" height="350px" width="904px" mimeType="image/png"/>
             </p>
           </div>
         </div>
@@ -1127,7 +1127,8 @@
                     <rdg wit="#Ea" ana="#morphological"><term xml:id="proport."
                         >proportionatis</term><gloss target="#proport."
                         rend="interlinear above, lighter ink">relati</gloss></rdg>
-                </app>.</quote><bibl cert="low" corresp="#ArPA"><author>Arist.</author>
+                  </app>.</quote>
+                <bibl cert="low" corresp="#ArPA"><author>Arist.</author>
                   <title>An. post.</title>
                   <biblScope unit="page">90a</biblScope>, <biblScope unit="line" from="14" to="23"
                     >14–23</biblScope></bibl>

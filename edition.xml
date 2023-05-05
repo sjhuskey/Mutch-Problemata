@@ -179,10 +179,15 @@
               important role in the development of the music-theoretical concept of harmony (<ref
                 target="Cohen2012">2012</ref>). Yet despite the inherent interest of Pietro’s
               commentary as a site of cross-cultural engagement and its historical significance to
-              later music theorizing, his commentary on section XIX, on music, has not been
-              published in any form since the sixteenth century’s sadly unreliable print editions.
-              The present critical edition rectifies that situation, making this important text
-              newly available to modern scholars.</p>
+              later music theorizing, his commentary on section XIX, on music, has been inaccesible
+              to scholars, for until recently it had not been published in any form since the
+              sixteenth century’s sadly unreliable print editions. Even that recent publication
+                (<ref target="#Meyer2022">Meyer 2022</ref>), however, does not provide a proper
+              critical edition of the text, as it is based on a sixteenth-century print edition,
+              only considers half the extant manuscripts, and fails to distinguish between Pietro's
+              first version of his commentary and his later revision (see section <ref
+                target="#preface-subsection-2.1">2.1</ref>). The present critical edition rectifies
+              that situation, making this important text newly available to modern scholars.</p>
           </div>
           <!-- End 1.1 -->
           <div type="section" xml:id="preface-subsection-1.2">
@@ -901,57 +906,56 @@
       <div type="edition" xml:id="edition-text">
         <head>Expositio problematum Aristotelis, Particula XIX: De harmonia</head>
         <div type="textpart" subtype="book" n="19" xml:id="book-19a">
-          <div type="textpart" subtype="header" xml:id="incipit">
-            <milestone ed="#Ea" unit="folio" n="136v"/>
-            <milestone ed="#Gu" unit="folio" n="234r"/>
-            <milestone ed="#Ma" unit="folio" n="96v"/>
-            <milestone ed="#Mb" unit="folio" n="38v"/>
-            <milestone ed="#Nu" unit="folio" n="61v"/>
-            <milestone ed="#Pp" unit="folio" n="183v"/>
-            <milestone ed="#Pu" unit="folio" n="114v"/>
-            <milestone ed="#Px" unit="folio" n="154v"/>
-            <milestone ed="#Py" unit="folio" n="179v"/>
-            <milestone ed="#Pz" unit="folio" n="179r"/>
-            <milestone ed="#Va" unit="folio" n="72r"/>
-            <milestone ed="#Vb" unit="folio" n="107v"/>
-            <milestone ed="#Vc" unit="folio" n="62r"/>
-            <milestone ed="#Vo" unit="folio" n="147r"/>
-            <milestone ed="#v" unit="folio" n="B5v"/>
-            <milestone ed="#m" unit="folio" n="188r"/>
-            <head>[Incipit]</head>
-            <p n="1">
-              <app>
-                <lem wit="#γ #Nu #Px #Vm #Vo" n="[Incipit]"/>
-                <rdg wit="#m #v" ana="#additive">Incipit <num type="ordinal" value="19"
-                    >decimanona</num> particula.</rdg>
-                <rdg wit="#Pz" ana="#additive"><add place="margin">Incipit <num type="ordinal"
-                      value="19">decimanona</num> particula etcetera</add>
-                  <handShift medium="lighter ink" scribe="Pzh2"/>De problematibus Aristotelis que
-                  sunt circa Musicam l'armoniam particula <num type="ordinal" value="19">.19<hi
-                      rend="superscript">a</hi>.</num></rdg>
-                <rdg wit="#Ea" ana="#additive"><add place="margin"><num type="cardinal" value="19"
-                      >xix</num></add></rdg>
-                <rdg wit="#Py" ana="#additive">Sequitur <num type="ordinal" value="19"
-                  >xviiii.</num></rdg>
-                <rdg wit="#Pp" ana="#additive"><add place="margin"><num type="ordinal" value="20"
-                        >20<hi rend="superscript">a</hi></num></add></rdg>
-                <rdg wit="#Pu" ana="#additive"><add place="margin"><num type="ordinal" value="20"
-                        >20<hi rend="superscript">a</hi></num> particula</add></rdg>
-                <rdg wit="#Pq" ana="#additive">Incipit particula <num type="ordinal" value="20"
-                      >20<hi rend="superscript">a</hi></num> de armonia continens problemata <num
-                    type="cardinal" value="47">47</num></rdg>
-                <rdg wit="#Gu" ana="#additive"><persName ref="#Ar">Aristotelis</persName>
-                  <title ref="#ArPr">problemata</title> de hiis que sunt circa armoniam particula
-                    <num type="ordinal" value="20">20<hi rend="superscript">m</hi>.</num> Capitulum
-                    <num type="ordinal" value="1">primum</num></rdg>
-                <rdg wit="#Ma #Mb" ana="#additive"><hi rend="rubricated">de <title ref="#ArPr"><app>
-                        <lem wit="#Ma">problematibus</lem>
-                        <rdg wit="#Mb" ana="#morphological">problemnati</rdg>
-                      </app></title><name ref="#Ar">arestotelis</name> que sunt circa armoniam uel
-                    musicam particula <num type="ordinal" value="19">19<hi rend="superscript"
-                      >a</hi>.</num></hi></rdg>
-              </app></p>
-          </div>
+
+          <milestone ed="#Ea" unit="folio" n="136v"/>
+          <milestone ed="#Gu" unit="folio" n="234r"/>
+          <milestone ed="#Ma" unit="folio" n="96v"/>
+          <milestone ed="#Mb" unit="folio" n="38v"/>
+          <milestone ed="#Nu" unit="folio" n="61v"/>
+          <milestone ed="#Pp" unit="folio" n="183v"/>
+          <milestone ed="#Pu" unit="folio" n="114v"/>
+          <milestone ed="#Px" unit="folio" n="154v"/>
+          <milestone ed="#Py" unit="folio" n="179v"/>
+          <milestone ed="#Pz" unit="folio" n="179r"/>
+          <milestone ed="#Va" unit="folio" n="72r"/>
+          <milestone ed="#Vb" unit="folio" n="107v"/>
+          <milestone ed="#Vc" unit="folio" n="62r"/>
+          <milestone ed="#Vo" unit="folio" n="147r"/>
+          <milestone ed="#v" unit="folio" n="B5v"/>
+          <milestone ed="#m" unit="folio" n="188r"/>
+          <head>[Incipit]</head>
+          <p n="1">
+            <app>
+              <lem wit="#γ #Nu #Px #Vm #Vo" n="[Incipit]"/>
+              <rdg wit="#m #v" ana="#additive">Incipit <num type="ordinal" value="19"
+                  >decimanona</num> particula.</rdg>
+              <rdg wit="#Pz" ana="#additive"><add place="margin">Incipit <num type="ordinal"
+                    value="19">decimanona</num> particula etcetera</add>
+                <handShift medium="lighter ink" scribe="Pzh2"/>De problematibus Aristotelis que sunt
+                circa Musicam l'armoniam particula <num type="ordinal" value="19">.19<hi
+                    rend="superscript">a</hi>.</num></rdg>
+              <rdg wit="#Ea" ana="#additive"><add place="margin"><num type="cardinal" value="19"
+                    >xix</num></add></rdg>
+              <rdg wit="#Py" ana="#additive">Sequitur <num type="ordinal" value="19"
+                >xviiii.</num></rdg>
+              <rdg wit="#Pp" ana="#additive"><add place="margin"><num type="ordinal" value="20"
+                      >20<hi rend="superscript">a</hi></num></add></rdg>
+              <rdg wit="#Pu" ana="#additive"><add place="margin"><num type="ordinal" value="20"
+                      >20<hi rend="superscript">a</hi></num> particula</add></rdg>
+              <rdg wit="#Pq" ana="#additive">Incipit particula <num type="ordinal" value="20">20<hi
+                    rend="superscript">a</hi></num> de armonia continens problemata <num
+                  type="cardinal" value="47">47</num></rdg>
+              <rdg wit="#Gu" ana="#additive"><persName ref="#Ar">Aristotelis</persName>
+                <title ref="#ArPr">problemata</title> de hiis que sunt circa armoniam particula <num
+                  type="ordinal" value="20">20<hi rend="superscript">m</hi>.</num> Capitulum <num
+                  type="ordinal" value="1">primum</num></rdg>
+              <rdg wit="#Ma #Mb" ana="#additive"><hi rend="rubricated">de <title ref="#ArPr"><app>
+                      <lem wit="#Ma">problematibus</lem>
+                      <rdg wit="#Mb" ana="#morphological">problemnati</rdg>
+                    </app></title><name ref="#Ar">arestotelis</name> que sunt circa armoniam uel
+                  musicam particula <num type="ordinal" value="19">19<hi rend="superscript"
+                    >a</hi>.</num></hi></rdg>
+            </app></p>
 
           <div type="textpart" subtype="problem" n="1" xml:id="part1">
             <milestone ed="#Gu" unit="column" n="B"/>
@@ -3687,7 +3691,7 @@
                     <rdg wit="#Px" ana="#additive">quantum causa</rdg>
                   </app> vero cordam <app>
                     <lem wit="#Ea #Nu #m #v">chorebus</lem>
-                    <rdg wit="#Va" ana="#orthographicalical">chiorebus</rdg>
+                    <rdg wit="#Va" ana="#orthographical">chiorebus</rdg>
                     <rdg wit="#Py #Vb #Vz" ana="#orthographical">corebus</rdg>
                     <rdg wit="#Mb" ana="#orthographical">cor<damage cert="high"
                         rend="written over an erasure">ebus</damage></rdg>
@@ -12064,7 +12068,7 @@
                   >256.</num></rdg>
                 <rdg wit="#γ #m #v" ana="#lexical"><num type="cardinal" value="2256"><app>
                       <lem wit="#Vb #m #v">2256</lem>
-                      <rdg wit="#Va" ana="#orthographical">duo milia ducenti .56.</rdg>
+                      <rdg wit="Va" ana="#orthographical">duo milia ducenti .56.</rdg>
                     </app></num></rdg>
               </app>. <app>
                 <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">Quorum</lem>
@@ -12189,9 +12193,7 @@
                           <rdg wit="#Pz" ana="#lexical #J"><num type="cardinal" value="12">12</num>.
                               <num type="cardinal" value="98">98</num></rdg>
                         </app></cell>
-                      <cell><app>
-                          <lem wit="#α #π #Ma #Px #m #v">ut.</lem>
-                        </app></cell>
+                      <cell>ut.</cell>
                       <cell/>
                     </row>
                     <row>
@@ -12414,8 +12416,8 @@
                               >384</num>.</lem>
                           <rdg wit="#Pz" ana="#lexical #J"><num type="cardinal" value="388"
                               >388</num></rdg>
-                          <rdg wit="#m #v " ana="#lexical"><num type="cardinal" value="348"
-                              >348.</num></rdg>
+                          <rdg wit="#m v" ana="#lexical"><num type="cardinal" value="348"
+                            >348.</num></rdg>
                           <rdg wit="#Gu" ana="#lexical #J"><num type="cardinal" value="364"
                               >364.</num></rdg>
                         </app></cell>
@@ -12569,13 +12571,17 @@
                     </row>
                   </table></lem>
                 <rdg wit="#Vb" ana="#subtractive"><space/></rdg>
-                <witDetail wit="#Pz">#Pz's scribe writes two tables: 1 with columns one and two
-                  (note letters and string lengths), and then a second with column 3 (note names).
-                  Column 4 (interval sizes) is omitted.</witDetail>
-                <witDetail wit="#Pu">#Pu's scribe writes the interval names orthogonal to the rest
-                  of the table and does not indicate the notes to which they apply. I have therefore
-                  omitted the names. (#Vc does the same.)</witDetail>
+                <note target="#lem-13.2-table">Pz's scribe writes two tables: one with columns one
+                  and two (note letters and string lengths), and then a second with column three
+                  (note names). Column four (interval sizes) is omitted. Pu's scribe writes the
+                  interval names orthogonal to the rest of the table and does not indicate the notes
+                  to which they apply. I have therefore omitted the names. (Vc does the
+                  same.)</note>
+                <!--<witDetail wit="#Pu" target="#lem-13.2-table"></witDetail>-->
+                <rdg wit="#Vb" ana="#subtractive"/>
+                <!-- SJH: commenting this out <space/></rdg> -->              
               </app><milestone ed="#Vb" unit="folio" n="110v"/></p>
+
             <p n="14">Sunt itaque consonantie <app>
                 <lem wit="#γ #κ #π #Ea #m #v"><num type="cardinal" value="5">quinque</num></lem>
                 <rdg wit="#Py" ana="#subtractive"/>
@@ -13317,7 +13323,7 @@
                   <rdg wit="#κ" ana="#lexical">quare</rdg>
                 </app> videtur sonus ex ipsa <app>
                   <lem wit="#κ #Ea #Py #Va #m">resultatus</lem>
-                  <rdg wit="#Vb" ana="#morphologicall">resultatis</rdg>
+                  <rdg wit="#Vb" ana="#morphological">resultatis</rdg>
                   <rdg wit="#π #v" ana="#morphological">resultans</rdg>
                 </app> esse vnus et <app>
                   <lem wit="#α #λ #π #m #v">quasi</lem>

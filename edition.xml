@@ -4459,7 +4459,7 @@
                         <rdg wit="#Ea" ana="#orthographical">proslabamomenos</rdg>
                         <rdg wit="#Ma" ana="#orthographical">prollabamenos</rdg>
                         <rdg wit="#Nu" ana="#orthographical">proslabonomenos</rdg>
-                        <rdg wit="#Py" ana="#orthographicla">proslabomontenos</rdg>
+                        <rdg wit="#Py" ana="#orthographical">proslabomontenos</rdg>
                       </app></item>
                     <item><app>
                         <lem wit="#Ea #Px #Py #Vb #Vm #Vz #m #v">ypate ypaton</lem>
@@ -14211,7 +14211,7 @@
                 <rdg wit="#Vz" ana="#orthographical">dythirambus</rdg>
                 <rdg wit="#Vo" ana="#orthographical #J">detirambus</rdg>
                 <rdg wit="#Pp #Pu" ana="#orthographical #J">dytiranbus</rdg>
-                <rdg wit="#Vm" ana="#orthographicalical">dichirambus</rdg>
+                <rdg wit="#Vm" ana="#orthographical">dichirambus</rdg>
                 <rdg wit="#Px" ana="#orthographical">dichitambum</rdg>
                 <rdg wit="#Py" ana="#morphological">dichitambis</rdg>
                 <rdg wit="#Pz" ana="#morphological #J">ditrambis</rdg>
@@ -14264,7 +14264,7 @@
                     <rdg wit="#Ea" ana="#orthographical">dichirambum</rdg>
                     <rdg wit="#Vb" ana="#orthographical">ditirabum</rdg>
                     <rdg wit="#Pp #Pu" ana="#orthographical #J">dytiranbum</rdg>
-                    <rdg wit="#Va" ana="#orthographica">dityramum</rdg>
+                    <rdg wit="#Va" ana="#orthographical">dityramum</rdg>
                     <rdg wit="#Px" ana="#orthographical">dithitambum</rdg>
                     <rdg wit="#Vo" ana="#orthographical #J">dychirambum</rdg>
                     <rdg wit="#Vm" ana="#orthographical">diricambum</rdg>
@@ -15766,7 +15766,7 @@
                 <lem wit="#κ #Ea #Nu #Vb #v">quod antiphonizare, ut apparebit</lem>
                 <rdg wit="#π" ana="#ordinal #J">ut apparebit quod <app>
                     <lem wit="#Gu #Pu #Pz" ana="#J">antiphonizare</lem>
-                    <rdg wit="#Pp #Vo" ana="#orthographic #J">antiphonisare</rdg>
+                    <rdg wit="#Pp #Vo" ana="#orthographical #J">antiphonisare</rdg>
                   </app></rdg>
                 <rdg wit="#Va" ana="#subtractive">quod antiphonizare</rdg>
                 <rdg wit="#Py" ana="#subtractive" cause="homeoteleuton">ut apparebit</rdg>
@@ -31551,7 +31551,7 @@
                 <rdg wit="#γ #λ #Vo" ana="#orthographical">muza seu</rdg>
                 <rdg wit="#Pz" ana="#lexical">muza se</rdg>
                 <rdg wit="#Px" ana="#lexical">muca seu</rdg>
-                <rdg wit="#Py" ana="#orthographic #lexical">muzas est</rdg>
+                <rdg wit="#Py" ana="#orthographical #lexical">muzas est</rdg>
               </app>
               <app>
                 <lem wit="#Ea #Pp #Pu #Px #Py #Pz #Va #Vm #Vo #Vz #m #v">messa</lem>

@@ -1342,7 +1342,7 @@
                           <lem wit="#β #γ #λ #Gu #Pp #Pu #Vo #m #v">boecium</lem>
                           <rdg wit="#Ea" ana="#orthographical">botium</rdg>
                           <rdg wit="#Pz" ana="#lexical #J">bonum</rdg>
-                        </app></name>,</ref>
+                        </app></name>, </ref>
                     <quote rend="inline">dicunt <milestone ed="#Mb" unit="folio" n="39r"/>eam
                       inuenisse</quote>
                   </cit></lem>
@@ -1712,7 +1712,7 @@
                 <rdg wit="#α #m #v" ana="#additive">musice naturali</rdg>
                 <rdg wit="#π" ana="#lexical #J"><app>
                     <lem wit="#Gu #Pu #Vo" ana="#J">numeratione naturali</lem>
-                    <rdg wit="#Pp" ana="#orthographical  #J"><choice>
+                    <rdg wit="#Pp" ana="#orthographical #J"><choice>
                         <expan><unclear>nu</unclear><ex>me</ex>rat<ex>i</ex>o<ex>n</ex>e</expan>
                         <abbr><unclear>nu</unclear><hi rend="superscript">r</hi>atoe</abbr>
                       </choice> naturali</rdg>

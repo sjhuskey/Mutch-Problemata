@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -2214,7 +2216,7 @@
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="1"
                     >1</biblScope> (Friedlein p. 185, l. 3)</bibl>
-              </cit>Cuius <app>
+              </cit> Cuius <app>
                 <lem wit="#β #κ #π #Va">vtilitatem</lem>
                 <rdg wit="#Vb #m #v" ana="#lexical">subtilitatem</rdg>
               </app>
@@ -7083,7 +7085,7 @@
                   <title ref="#AvCa">Can. med.</title> Book <biblScope unit="book" n="1"
                     >I</biblScope>, fen <biblScope unit="fen" n="2">2</biblScope>, <biblScope
                     unit="doctrine" n="3">3</biblScope> (p. 141 of 1608 ed.)</bibl>
-              </cit>Hoc autem pondus <app>
+              </cit> Hoc autem pondus <app>
                 <lem wit="#γ #λ #Ea #Nu #m #v">rebus expedit</lem>
                 <rdg wit="#Py" ana="#lexical">rebus expetit</rdg>
                 <rdg wit="#Px" ana="#lexical">rebus accidit</rdg>
@@ -7140,7 +7142,7 @@
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="1"
                     >1</biblScope>, <biblScope unit="page" n="16a">16a</biblScope> ll. <biblScope
                     unit="line" from="5" to="6">5–6</biblScope></bibl>
-              </cit>Unde si res <app>
+              </cit> Unde si res <app>
                 <lem wit="#α #π #Ma #Px #Vm #m #v">fuerit</lem>
                 <rdg wit="#Vz" ana="#morphological">fuit</rdg>
               </app>
@@ -7860,7 +7862,7 @@
                     Seville</author>, <title>Etym.</title>, <biblScope unit="book" n="3"
                     >III</biblScope>.<biblScope unit="chapter" n="20">20</biblScope>.<biblScope
                     unit="part" n="7, 9">7, 9</biblScope></bibl>
-              </cit>Sic <app>
+              </cit> Sic <app>
                 <lem wit="#α #λ #π #m #v">igitur</lem>
                 <rdg wit="#Px" ana="#lexical">ergo</rdg>
               </app> ex <app>
@@ -13323,7 +13325,7 @@
                   <title>Pol.</title>
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1342b</biblScope>, l. <biblScope unit="line" n="9">9</biblScope></bibl>
-              </cit>Hec autem <app>
+              </cit> Hec autem <app>
                 <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v"><ref target="problems2.xml#part48"><num
                       type="ordinal" value="48">.xlviii.</num></ref></lem>
                 <rdg wit="#Pz" ana="#lexical #J"><num type="cardinal" value="28">28</num></rdg>
@@ -14281,7 +14283,7 @@
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="8"
                     >8</biblScope> (Freidlein 195, ll. 6–13)</bibl>
-              </cit>Videtur si<milestone ed="#v" unit="folio" n="C2v" break="no"/><milestone
+              </cit> Videtur si<milestone ed="#v" unit="folio" n="C2v" break="no"/><milestone
                 ed="#Vo" unit="folio" n="151r" break="no"/>quidem quantum facit ad sermonem
                 <persName ref="#Ar" instant="false" full="yes"><app>
                   <lem wit="#α #κ #Gu #Pp #Vo #m #v">aristoteles</lem>
@@ -18342,7 +18344,7 @@
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="20"
                     >20</biblScope> (ed. Friedlein, pp. 208–209)</bibl>
-              </cit>ita ut <app>
+              </cit> ita ut <app>
                 <lem wit="#α #κ #Gu #Pp #Vo #m #v">signato</lem>
                 <rdg wit="#Pz" ana="#lexical #J">significando</rdg>
               </app>
@@ -18407,7 +18409,7 @@
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="20"
                     >20</biblScope> (Friedlein 206, ll. 10–1, 15–6)</bibl>
-              </cit>utrobique. Infima lune <app>
+              </cit> utrobique. Infima lune <app>
                 <lem wit="#β #λ #Pz #Vb">ceu</lem>
                 <rdg wit="#Ea #Gu #Pp #Pu #Vo" ana="#lexical">seu</rdg>
                 <rdg wit="#Px #Va #m #v" ana="#lexical">sicut</rdg>
@@ -18917,7 +18919,7 @@
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="12"
                     >12</biblScope>, <biblScope unit="page" n="424a">424a</biblScope> l. <biblScope
                     unit="line" n="19">19</biblScope> (Cf. 416b l. 33 and 419b l. 5)</bibl>
-              </cit>Sed hic <app>
+              </cit> Sed hic <app>
                 <lem wit="#α #λ #π #m #v">modus</lem>
                 <rdg wit="#Px" ana="#lexical">motus</rdg>
               </app> mouendi <app>
@@ -19322,7 +19324,7 @@
                   <biblScope unit="book" n="21">XXI</biblScope>.<biblScope unit="problem" n="14"
                     >14</biblScope>, <biblScope unit="page" n="928b">928b</biblScope> ll. <biblScope
                     unit="line" from="25" to="26">25–26</biblScope></bibl>
-              </cit><gloss target="#ment-29.1">Consuetudo <app>
+              </cit> <gloss target="#ment-29.1">Consuetudo <app>
                   <lem wit="#α #Ma #Px #Vm #m #v">siquidem</lem>
                   <rdg wit="#π #Vz" ana="#subtractive"/>
                 </app>
@@ -19443,7 +19445,7 @@
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="8"
                     >8</biblScope>, <biblScope unit="page" n="419b">419b</biblScope> l. <biblScope
                     unit="line" n="9">9</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#α #κ #m #v">et</lem>
                 <rdg wit="#π" ana="#additive #J">Et modo inmutandi et</rdg>
               </app> non <app>
@@ -20305,7 +20307,7 @@
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> ll. <biblScope unit="line" from="12" to="18"
                     >12–18</biblScope></bibl>
-              </cit>tangere <num type="cardinal" value="3">tres</num>
+              </cit> tangere <num type="cardinal" value="3">tres</num>
               <app>
                 <lem wit="#β #Ea #Px">cantus modos</lem>
                 <rdg wit="#λ #π" ana="#ordinal">modos cantus</rdg>
@@ -20422,7 +20424,7 @@
                   <title>Pol.</title>
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> l. <biblScope unit="line" n="12">12</biblScope></bibl>
-              </cit><cit>
+              </cit> <cit>
                 <app>
                   <lem wit="#α #κ #π"><app>
                       <lem wit="#β #π #Px #Va #Vm #Vz"><app>
@@ -20456,7 +20458,7 @@
                   <biblScope unit="book" n="19">XIX</biblScope>.<biblScope unit="problem" n="48"
                     >48</biblScope>, <biblScope unit="page" n="922b">922b</biblScope> l. <biblScope
                     unit="line" n="15">15</biblScope></bibl>
-              </cit><cit>
+              </cit> <cit>
                 <quote rend="inline"><app>
                     <lem wit="#α #κ #m #v">et</lem>
                     <rdg wit="#π" ana="#subtractive #J"/>
@@ -20485,7 +20487,7 @@
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> ll. <biblScope unit="line" from="12" to="18"
                     >12–18</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#β #Ea #Ma #Pp #Pu #Px #Pz #Va #Vz #m">Lidius</lem>
 
 
@@ -20549,7 +20551,7 @@
                   <biblScope unit="book" n="8">VIII</biblScope>, <biblScope unit="page" n="1342b"
                     >1324b</biblScope> ll. <biblScope unit="line" from="32" to="34"
                     >32–34</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#β #γ #κ #π #m #v">que</lem>
                 <rdg wit="#Ea" ana="#morphological">quod</rdg>
               </app> in cantu et maxime puerorum sunt obseruanda. Unde <cit>
@@ -20626,7 +20628,7 @@
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="4">IV</biblScope>.<biblScope unit="chapter" n="15"
                     >15</biblScope> (Friedlein p. 342, ll. 10–14)</bibl>
-              </cit><milestone ed="#Vb" unit="folio" n="113r"/><app>
+              </cit> <milestone ed="#Vb" unit="folio" n="113r"/><app>
                 <lem wit="#β #λ #Ea">ypermixolidius</lem>
 
 
@@ -21477,7 +21479,7 @@
                     >45</biblScope>, <biblScope unit="page" n="895b">895b</biblScope> l. <biblScope
                     unit="line" n="27">27</biblScope> to <biblScope unit="page" n="896a"
                     >896a</biblScope> l. <biblScope unit="line" n="4"/></bibl>
-              </cit>Et ideo <app>
+              </cit> Et ideo <app>
                 <lem wit="#β #κ #π #Ea #Vb #m #v">est videre</lem>
                 <rdg wit="#Va" ana="#lexical">videndum que</rdg>
               </app> optimos cantatores naturam <app>
@@ -22463,7 +22465,7 @@
                   <biblScope unit="book" n="10">X</biblScope>, <biblScope unit="page" n="1052b"
                     >1052b</biblScope> ll. <biblScope unit="line" from="34" to="37"
                     >34–37</biblScope></bibl>
-              </cit>Unde <cit>
+              </cit> Unde <cit>
                 <ref><num type="ordinal" value="2">2°</num>
                   <app>
                     <lem wit="#β #κ #Ea #Gu #Pu #Pz #Vb #Vo #m #v"><title ref="#BoMu"
@@ -22492,7 +22494,7 @@
                   <title>De inst. mus.</title>
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="chapter" n="18"
                     >18</biblScope> (Freidlein 250, ll. 6–8)</bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#β #κ #π #Ea #Va">Quod</lem>
                 <rdg wit="#Vb #m #v" ana="#lexical">Quid</rdg>
               </app> autem <app>
@@ -22730,7 +22732,7 @@
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="15"
                     >15</biblScope>, <biblScope unit="page" n="903a">900b</biblScope> ll. <biblScope
                     unit="line" from="10" to="12">10–12</biblScope></bibl>
-              </cit>et sonum tunc reddit acutum. Et ideo instrumenta perforantur, <app>
+              </cit> et sonum tunc reddit acutum. Et ideo instrumenta perforantur, <app>
                 <lem wit="#β #λ #π #Ea #Vb #m #v">que foramina</lem>
                 <rdg wit="#Px" ana="#morphological">quod foramina</rdg>
                 <rdg wit="#Va" ana="#lexical">etiam</rdg>
@@ -22872,7 +22874,7 @@
                   <biblScope unit="book" n="15">XV</biblScope>.<biblScope unit="problem" n="3"
                     >3</biblScope>, <biblScope unit="page" n="910b">910b</biblScope> ll. <biblScope
                     unit="line" from="23" to="30">23–30</biblScope></bibl>
-              </cit>Quod <app>
+              </cit> Quod <app>
                 <lem wit="#γ #κ #Ea #Nu #Pp #Pu #Pz #Vo #m #v">tamen non</lem>
                 <rdg wit="#Gu #Pq" ana="#ordinal #J">non tamen</rdg>
                 <rdg wit="#Py" ana="#subtractive">tamen</rdg>
@@ -23724,7 +23726,7 @@
                     unit="line" from="21" to="27">21–27</biblScope>; <biblScope unit="problem"
                     n="16">21</biblScope>, <biblScope unit="page" n="901a">901a</biblScope> ll.
                     <biblScope unit="line" from="31" to="32">31–32</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#κ #Py #Va">Sepe atque</lem>
                 <rdg wit="#Ea #Nu" ana="#additive">Sepe at quia</rdg>
                 <rdg wit="#Vb #m #v" ana="#lexical">Sepe ac</rdg>
@@ -23825,7 +23827,7 @@
                   <biblScope unit="book" n="2">II</biblScope>.<biblScope unit="problem" n="38"
                     >38</biblScope>, <biblScope unit="page" n="870a">870a</biblScope> l. <biblScope
                     unit="line" n="34">34</biblScope></bibl>
-              </cit>Et quia grauia <app>
+              </cit> Et quia grauia <app>
                 <lem wit="#α #κ #Pu #Pz #Vo #m #v">naturaliter tendunt</lem>
                 <rdg wit="#Gu #Pq" ana="#ordinal #J">tendunt naturaliter</rdg>
                 <rdg wit="#Pp" ana="#subtractive #J">naturaliter</rdg>
@@ -23932,7 +23934,7 @@
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="14"
                     >14</biblScope>, <biblScope unit="page" n="900a">900a</biblScope> ll. <biblScope
                     unit="line" from="34" to="36">34–36</biblScope></bibl>
-              </cit>cum <app>
+              </cit> cum <app>
                 <lem wit="#β #λ #π #Ea #Vb #m #v">id</lem>
                 <rdg wit="#Px" ana="#lexical">illud</rdg>
                 <rdg wit="#Va" ana="#subtractive"/>
@@ -24031,7 +24033,7 @@
                     >14</biblScope>, <biblScope unit="page" n="900a">900a</biblScope> l. <biblScope
                     unit="line" n="33">33</biblScope> to <biblScope unit="page" n="900b"
                     >900b</biblScope> l. <biblScope unit="line" n="8">8</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem n="virtuosi"/>
                 <rdg wit="#Vb #Vz" ana="#additive">etcetera.</rdg>
                 <rdg wit="#Pz" ana="#additive">etcetera etcetera.</rdg>
@@ -24124,7 +24126,7 @@
                       >7</biblScope>, <biblScope unit="page" n="949b">949b</biblScope> l. <biblScope
                       unit="line" n="37">37</biblScope> to <biblScope unit="page" n="950a"
                       >950a</biblScope> l. <biblScope unit="line" n="16">16</biblScope></bibl>
-                </cit><app>
+                </cit> <app>
                   <lem wit="#γ #λ #Nu #m #v">exultantur</lem>
 
                   <rdg wit="#π #Ea #Py" ana="#morphological">exultant</rdg>
@@ -24232,7 +24234,7 @@
                   <biblScope unit="book" n="3">III</biblScope>.<biblScope unit="chapter" n="13"
                     >13</biblScope>, <biblScope unit="page" n="435b">435b</biblScope> l. <biblScope
                     unit="line" n="15">15</biblScope> (Cf. 426a, l. 30)</bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#β #γ #Ma #Vm #m #v">ita et</lem>
                 <rdg wit="#Vz" ana="#lexical">ita etiam</rdg>
                 <rdg wit="#Px" ana="#lexical">ita ut</rdg>
@@ -24414,7 +24416,7 @@
                 <bibl corresp="#MasAph" default="false" status="draft"><author>Yuḥannā ibn
                     Māsawaiyh</author>
                   <title ref="#MasAph">Aph.</title> (See Vat. Lat. 2460, f. 39v, ll.10–11.)</bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">Quare</lem>
                 <rdg wit="#Gu" ana="#lexical #J">Et</rdg>
               </app>
@@ -24440,7 +24442,7 @@
                   <title>De san. tu.</title>
                   <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="7"
                     >7</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#β #γ #π #Ma #Px #Vm #m #v">Tum</lem>
                 <rdg wit="#Vz" ana="#lexical">Cum</rdg>
                 <rdg wit="#Ea" ana="#lexical">Tamen</rdg>
@@ -24813,7 +24815,7 @@
                     <title>De san. tu.</title>
                     <biblScope unit="book" n="1">I</biblScope>.<biblScope unit="chapter" n="14"
                       >14</biblScope></bibl>
-                </cit><milestone ed="#Ea" unit="folio" n="144v"/>saluamus et augmentamus <app>
+                </cit> <milestone ed="#Ea" unit="folio" n="144v"/>saluamus et augmentamus <app>
                   <lem wit="#γ #Nu #m #v">nostram naturam siue complexionem</lem>
                   <rdg wit="#λ #π" ana="#ordinal">naturam nostram siue complexionem</rdg>
                   <rdg wit="#Ea" ana="#ordinal #additive">naturamque nostram siue complexionem</rdg>
@@ -28197,7 +28199,7 @@
                     >XIX</biblScope>.<biblScope unit="problem" n="39">39</biblScope>, <biblScope
                     unit="page" n="921a">921a</biblScope> ll. <biblScope unit="line" from="7"
                     to="31">7–31</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#γ #κ #π #Py #m #v">Sicut</lem>
                 <rdg wit="#Ea" ana="#lexical">Sint</rdg>
               </app>
@@ -28253,7 +28255,7 @@
                         unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="51"
                         >51</biblScope>, <biblScope unit="page" n="904b">904b</biblScope> ll.
                         <biblScope unit="line" from="29" to="33">29–33</biblScope></bibl>
-                  </cit>quod est quidam <milestone ed="#Vo" unit="column" n="B"/><app>
+                  </cit> quod est quidam <milestone ed="#Vo" unit="column" n="B"/><app>
                     <lem wit="#γ #κ #Gu #Py #m #v">cantus</lem>
                     <rdg wit="#Pp #Pu #Pz #Vo" ana="#lexical #J">tinitus</rdg>
                     <rdg wit="#Ea" ana="#lexical">et intus</rdg>
@@ -29147,7 +29149,7 @@
                   <biblScope unit="book" n="11">XI</biblScope>.<biblScope unit="problem" n="16"
                     >16</biblScope>, <biblScope unit="page" n="900b">900b</biblScope> ll. <biblScope
                     unit="line" from="17" to="25">17–25</biblScope></bibl>
-              </cit>Tar<milestone ed="#v" unit="folio" n="D1v" break="no"/>dius <app>
+              </cit> Tar<milestone ed="#v" unit="folio" n="D1v" break="no"/>dius <app>
                 <lem wit="#κ #Ea #Pp #Pu #Py #Pz #Vo">autem</lem>
                 <rdg wit="#γ #m #v" ana="#lexical">aut</rdg>
                 <rdg wit="#Gu" ana="#subtractive #J"/>
@@ -30813,7 +30815,7 @@
                   <title ref="#BoMu">De inst. mus.</title>
                   <biblScope unit="book" n="1">Ι</biblScope>.<biblScope unit="chapter" n="20"
                     >20</biblScope> (Friedlein p. 208, ll. 8–10)</bibl>
-              </cit><app>
+              </cit> <app>
                 <lem n="inueniri"/>
                 <rdg wit="#Pp #Pz #Vb #Vz" ana="#additive">etcetera.</rdg>
                 <rdg wit="#Px" ana="#additive">sequitur <num type="ordinal" value="45">45.</num>
@@ -32830,7 +32832,7 @@
                   <biblScope unit="book" n="30">XXX</biblScope>.<biblScope unit="problem" n="10"
                     >10</biblScope>, <biblScope unit="page" n="956b">956b</biblScope> ll. <biblScope
                     unit="line" from="11" to="12">11–12</biblScope></bibl>
-              </cit>iuxta siquidem <app>
+              </cit> iuxta siquidem <app>
                 <lem wit="#κ #Ea #Pp #Pu #Pz #Py #Va #Vo">huius</lem>
                 <rdg wit="#Gu #Pa #Vb #m #v" ana="#lexical">huiusmodi</rdg>
               </app> consonantiarum <app>
@@ -33593,7 +33595,7 @@
                   <biblScope unit="book" n="7">VII</biblScope>.<biblScope unit="chapter" n="1"
                     >1</biblScope>, <biblScope unit="page" n="152b">152b</biblScope>, l. <biblScope
                     unit="line" n="20">20</biblScope></bibl>
-              </cit><app>
+              </cit> <app>
                 <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">et</lem>
                 <rdg wit="#Pz" ana="#subtractive"/>
               </app> alterum sit semiplenum, et <app>

@@ -1669,7 +1669,7 @@
                   <rdg wit="#γ #λ #m #v" ana="#lexical">dictum est in <ref><title ref="#MasAph"><app>
                           <lem wit="#Vb #Vm #Vz #m #v">afforismis</lem>
                           <rdg wit="#Va" ana="#orthographical">amforismis</rdg>
-                          <rdg wit="#Ma #Mb" ana="#orthographical"><space/></rdg>
+                          <rdg wit="#Ma #Mb" ana="#orthographical"><gap reason="lost"/></rdg>
                         </app></title></ref></rdg>
                   <rdg wit="#π" ana="#lexical"><ref><name ref="#Dam"><app>
                           <lem wit="#Gu #Pu #Pz #Vo" ana="#J">damascenus</lem>
@@ -4970,7 +4970,7 @@
                 <rdg wit="#Py" ana="#morphological">sumentur</rdg>
               </app> pro vna <app>
                 <lem wit="#β #γ #Gu #Pq #Px #Vm #Vz #m #v">priorum</lem>
-                <rdg wit="#Ma #Mb" ana="#orthographical"><space/></rdg>
+                <rdg wit="#Ma #Mb" ana="#orthographical"><gap reason="lost"/></rdg>
                 <rdg wit="#Ea #Pp #Pu #Pz #Vo" ana="#additive">priorum et</rdg>
               </app>, ita ut <app>
                 <lem wit="#α #κ #m #v"><num type="cardinal" value="28">xxviii.</num></lem>
@@ -7898,7 +7898,7 @@
                 <lem wit="#λ #π #Ea #Nu #Vb #m #v">ob eius</lem>
                 <rdg wit="#Px" ana="#lexical">ab eius</rdg>
                 <rdg wit="#Py" ana="#lexical">propter eius</rdg>
-                <rdg wit="#Va" ana="#subtractive"><space/></rdg>
+                <rdg wit="#Va" ana="#subtractive"><gap reason="lost"/></rdg>
               </app> acuitatem, que <app>
                 <lem wit="#α #κ #Gu #Pp #Pu #m #v">potentia</lem>
                 <rdg wit="#Ca #Pz #Vo" ana="#lexical #syntactic #J">ponitur</rdg>
@@ -10092,7 +10092,7 @@
               <app>
                 <lem wit="#α #Gu #Ma #Pp #Pu #Px #Vo #Vz #m #v">causato</lem>
                 <rdg wit="#Pz" ana="#orthographical #J">causto</rdg>
-                <rdg wit="#Vm" ana="#orthographical"><space/></rdg>
+                <rdg wit="#Vm" ana="#orthographical"><gap reason="lost"/></rdg>
               </app>. Ex quo habetur quod grauior cordarum <app>
                 <lem wit="#α #κ #Pz #Vo #m #v">sonum preaccipit</lem>
                 <rdg wit="#Gu #Pp #Pu" ana="#ordinal #J">preaccipit sonum</rdg>
@@ -10124,7 +10124,7 @@
                 <rdg wit="#Ca #Pa #Vo" ana="#lexical #J"><num type="ordinal" value="12"
                   >12º</num></rdg>
                 <rdg wit="#Py" ana="#additive"><num type="ordinal" value="23">xxiii°</num> doooo
-                  <space/></rdg>
+                  <gap reason="lost"/></rdg>
                 <witDetail wit="#Py">The added characters in Py seem to be space fillers, but
                   there's also a blank space of approximately 5 characters' width to their right,
                   before the start of "tertiumdecimum." Also, the blank space appears to be an
@@ -10547,7 +10547,7 @@
                 <rdg wit="#Pp" ana="#subtractive #J"/>
               </app> proportionis modi sunt <app>
                 <lem wit="#α #λ #π #m #v"><num type="ratio" value="3/2">sexquialtera</num></lem>
-                <rdg wit="#Px" ana="#orthographical">sex<space/></rdg>
+                <rdg wit="#Px" ana="#orthographical">sex<gap reason="lost"/></rdg>
               </app>, <app>
                 <lem wit="#Ea #Py #Va #m #v"><app>
                     <lem wit="#Ea #Py"><num type="ratio" value="4/3">sexquitertia</num></lem>
@@ -10581,7 +10581,7 @@
                     >emiolia</num></rdg>
                 <rdg wit="#Va" ana="#morphological">seu <num type="ratio" value="3/2"
                     >emialmlem</num></rdg>
-                <rdg wit="#Px" ana="#orthographical">seu <space/></rdg>
+                <rdg wit="#Px" ana="#orthographical">seu <gap reason="lost"/></rdg>
                 <rdg wit="#Vb #m #v" ana="#lexical">seu enumerale</rdg>
                 <rdg wit="#Pz" ana="#lexical #J">seu enucha</rdg>
                 <rdg wit="#Gu" ana="#subtractive #J"/>
@@ -10684,7 +10684,7 @@
               </app>
               <num type="cardinal" value="3">tres</num> etcetera. Cuius <app>
                 <lem wit="#α #π #Px #Vm #m #v">species sunt</lem>
-                <rdg wit="#Ma" ana="#orthographical"><space/> sunt</rdg>
+                <rdg wit="#Ma" ana="#orthographical"><gap reason="lost"/> sunt</rdg>
                 <rdg wit="#Vz" ana="#subtractive">species</rdg>
               </app>
               <app>
@@ -12570,7 +12570,7 @@
                       <cell/>
                     </row>
                   </table></lem>
-                <rdg wit="#Vb" ana="#subtractive"><space/></rdg>
+                <rdg wit="#Vb" ana="#subtractive"><gap reason="lost"/></rdg>
                 <note target="#lem-13.2-table">Pz's scribe writes two tables: one with columns one
                   and two (note letters and string lengths), and then a second with column three
                   (note names). Column four (interval sizes) is omitted. Pu's scribe writes the
@@ -12579,7 +12579,7 @@
                   same.)</note>
                 <!--<witDetail wit="#Pu" target="#lem-13.2-table"></witDetail>-->
                 <rdg wit="#Vb" ana="#subtractive"/>
-                <!-- SJH: commenting this out <space/></rdg> -->              
+                <!-- SJH: commenting this out <gap reason="lost"/></rdg> -->              
               </app><milestone ed="#Vb" unit="folio" n="110v"/></p>
 
             <p n="14">Sunt itaque consonantie <app>
@@ -13126,7 +13126,7 @@
                   problema <num type="ordinal" value="19">19e.</num> particule.</rdg>
               </app>
               <app xml:id="app-13.2-rdg" exclude="#app-13.2-lem">
-                <rdg wit="#Vz" ana="#subtractive"><space unit="line" quantity="14"/></rdg>
+                <rdg wit="#Vz" ana="#subtractive"><gap reason="omitted" unit="line" quantity="14"/></rdg>
                 <rdg wit="#Vm" ana="#ordinal"><table rows="22" cols="4">
                     <row>
                       <cell role="label">G</cell>
@@ -14190,7 +14190,7 @@
                       </app></rdg>
                     <rdg wit="#Gu" ana="#lexical #J">dicti Tytira ubi</rdg>
                   </app></lem>
-                <rdg wit="#Vb" ana="#orthographical"><space dim="vertical" unit="lines" quantity="7"
+                <rdg wit="#Vb" ana="#orthographical"><gap reason="omitted" dim="vertical" unit="lines" quantity="7"
                     /><add place="margin">hic deficit in exemplari</add></rdg>
               </app>
               <app>
@@ -17125,7 +17125,7 @@
               </app>
               <app>
                 <lem wit="#β #γ #λ #m #v"><persName ref="#Ov">ouidii</persName></lem>
-                <rdg wit="#Px" ana="#orthographical"><space/></rdg>
+                <rdg wit="#Px" ana="#orthographical"><gap reason="lost"/></rdg>
                 <rdg wit="#Ea" ana="#lexical">ouii</rdg>
                 <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">toni</rdg>
                 <rdg wit="#Pz" ana="#lexical #J">enim</rdg>
@@ -17783,7 +17783,7 @@
               </app>
               <app>
                 <lem wit="#γ #κ #π #Ea #Nu #m #v">problemate.</lem>
-                <rdg wit="#Py" ana="#subtractive"><del>p</del><space/></rdg>
+                <rdg wit="#Py" ana="#subtractive"><del>p</del><gap reason="lost"/></rdg>
               </app>
               <app>
                 <lem n="problemate"/>
@@ -20249,7 +20249,7 @@
               </app>
               <app>
                 <lem wit="#α #κ #Pp #Pu #Pz #Vo">communi</lem>
-                <rdg wit="#Gu" ana="#orthographical #J"><space/></rdg>
+                <rdg wit="#Gu" ana="#orthographical #J"><gap reason="lost"/></rdg>
               </app>, uerum <app>
                 <lem wit="#α #κ #m #v">etiam</lem>
                 <rdg wit="#π" ana="#subtractive #J"/>
@@ -20306,7 +20306,7 @@
                 <lem wit="#λ #Ea #Pu #Pz #Vo">concitet</lem>
                 <rdg wit="#Gu #Pp" ana="#lexical #J">excitet</rdg>
                 <rdg wit="#β" ana="#lexical">continet</rdg>
-                <rdg wit="#Px" ana="#orthographical"><space/></rdg>
+                <rdg wit="#Px" ana="#orthographical"><gap reason="lost"/></rdg>
                 <rdg wit="#Vb #m #v" ana="#lexical">concurrit</rdg>
                 <rdg wit="#Va" ana="#lexical">ycurit</rdg>
               </app> ut aures <app>
@@ -20361,7 +20361,7 @@
                 <rdg wit="#Pz" ana="#lexical #J">galeanterra</rdg>
               </app> habentes passionem seu <app>
                 <lem wit="#α #λ #Pp #Pu #Pz #Vo #m #v">ouum</lem>
-                <rdg wit="#Gu" ana="#orthographical #J"><space/></rdg>
+                <rdg wit="#Gu" ana="#orthographical #J"><gap reason="lost"/></rdg>
                 <rdg wit="#Px" ana="#lexical">animam</rdg>
               </app>. Et ideo consonantia <app>
                 <lem wit="#α #κ #Pp #Pu #Pz #Vo">sic</lem>
@@ -20619,7 +20619,7 @@
                       <num type="ordinal" value="21">.21<hi rend="superscript">a</hi>.</num></rdg>
                     <rdg wit="#π #m #v" ana="#morphological"><app>
                         <lem wit="#Pp #Pu #Vo #m #v"><num type="ordinal" value="13">13</num></lem>
-                        <rdg wit="#Pz" ana="#orthographical #J"><space/></rdg>
+                        <rdg wit="#Pz" ana="#orthographical #J"><gap reason="lost"/></rdg>
                         <rdg wit="#Gu" ana="#additive #J"><num type="ordinal" value="13">13</num>
                           et</rdg>
                       </app>
@@ -23706,7 +23706,7 @@
                       >epitricam</num></lem>
                   <rdg wit="#Pu #Vb" ana="#orthographical">epytricam</rdg>
                   <rdg wit="#Py" ana="#orthographical">yptricam</rdg>
-                  <rdg wit="#Ea" ana="#orthographical"><space/></rdg>
+                  <rdg wit="#Ea" ana="#orthographical"><gap reason="lost"/></rdg>
                 </app>
                 <app>
                   <lem wit="#β #γ #π #Px #m #v">proportionem esse</lem>
@@ -24104,7 +24104,7 @@
                 <rdg wit="#Ea #Ma #Va #Vc #Vz" ana="#lexical">hiis</rdg>
                 <rdg wit="#Gu" ana="#lexical #J">alius</rdg>
                 <rdg wit="#Pp" ana="#lexical #J">aeris</rdg>
-                <rdg wit="#Pz" ana="#lexical #J">similiter <space/></rdg>
+                <rdg wit="#Pz" ana="#lexical #J">similiter <gap reason="lost"/></rdg>
                 <rdg wit="#Py" ana="#subtractive"/>
               </app> dulcior <app>
                 <lem wit="#β #γ #λ #π #m #v">obtuso</lem>
@@ -24326,7 +24326,7 @@
                         <rdg wit="#Vz" ana="#morphological #subtractive">denarius</rdg>
                       </app> aliquis numerorum <app>
                         <lem wit="#γ #π #Ma #Nu #Vz #m #v">addatur</lem>
-                        <rdg wit="#Vm" ana="#lexical">ad <space/></rdg>
+                        <rdg wit="#Vm" ana="#lexical">ad <gap reason="lost"/></rdg>
                         <rdg wit="#Ea" ana="#lexical">addarum</rdg>
                         <rdg wit="#Py" ana="#subtractive"/>
                       </app>, ut <num type="cardinal" value="2">duo</num>, semper <app>
@@ -26329,7 +26329,7 @@
                     </app>
                     <milestone ed="#Px" unit="folio" n="162r"/><app>
                       <lem wit="#α #κ #Vo #m #v">et</lem>
-                      <rdg wit="#Gu" ana="#lexical #J"><space/>.<space/></rdg>
+                      <rdg wit="#Gu" ana="#lexical #J"><gap reason="lost"/>.<gap reason="lost"/></rdg>
                       <rdg wit="#Pp #Pu #Pz" ana="#subtractive #J"/>
                     </app>
                     <app>
@@ -28299,7 +28299,7 @@
                 <rdg wit="#Ea #Pu #Py #Va #Vo #Vz" ana="#orthographical">symphonia</rdg>
               </app> dyapason. Et <app>
                 <lem wit="#α #κ #Gu #Pz #Vo #m #v">merito</lem>
-                <rdg wit="#Pp #Pu" ana="#orthographical #J"><space/></rdg>
+                <rdg wit="#Pp #Pu" ana="#orthographical #J"><gap reason="lost"/></rdg>
               </app>, <app>
                 <lem wit="#α #κ #m #v">quia</lem>
                 <rdg wit="#π" ana="#subtractive #J"/>
@@ -30243,7 +30243,7 @@
               </app>
               <app>
                 <lem wit="#γ #κ #π #Py #m #v">sensum</lem>
-                <rdg wit="#Ea" ana="#orthographical"><space/></rdg>
+                <rdg wit="#Ea" ana="#orthographical"><gap reason="lost"/></rdg>
               </app>
               <app>
                 <lem wit="#π #Ma #Px #Py #Vb #Vm #m #v">perspicacem</lem>
@@ -30507,7 +30507,7 @@
                 <app>
                   <lem wit="#α #κ #Gu #Pu #Vo #m #v">earundem</lem>
                   <rdg wit="#Pz" ana="#orthographical #J">earumdem</rdg>
-                  <rdg wit="#Pp" ana="#orthographical #J">ea<space/>dem</rdg>
+                  <rdg wit="#Pp" ana="#orthographical #J">ea<gap reason="lost"/>dem</rdg>
                 </app>
                 <app>
                   <lem wit="#κ #π #Ea #Py #Vb #m #v">cordarum aliarum</lem>
@@ -30624,7 +30624,7 @@
                 <rdg wit="#Vz" ana="#lexical">nixe<hi rend="superscript">to</hi></rdg>
                 <rdg wit="#Va #m #v" ana="#lexical">inuise</rdg>
                 <rdg wit="#Vb" ana="#lexical">in mese</rdg>
-                <rdg wit="#Ma #Mb" ana="#orthographical">in <space/></rdg>
+                <rdg wit="#Ma #Mb" ana="#orthographical">in <gap reason="lost"/></rdg>
                 <rdg wit="#π #Ea" ana="#subtractive"/>
               </app>
               <app>
@@ -31449,7 +31449,7 @@
               </app>. Propter quod <app>
                 <lem wit="#γ #Ea #Pp #Pu #Px #Pz #Vo #Vz #m #v">vino</lem>
                 <rdg wit="#Ma #Vm" ana="#morphological">vinum</rdg>
-                <rdg wit="#Gu" ana="#orthographical #J"><space/></rdg>
+                <rdg wit="#Gu" ana="#orthographical #J"><gap reason="lost"/></rdg>
                 <rdg wit="#Py" ana="#lexical">modo</rdg>
               </app> ipsi sunt amplius <app>
                 <lem wit="#α #λ #m #v">mixta</lem>
@@ -32646,7 +32646,7 @@
                         <rdg wit="#Va" ana="#orthographical">diezesim</rdg>
                         <rdg wit="#Ea" ana="#orthographical">dyerensim</rdg>
                       </app> computantur.</lem>
-                    <rdg wit="#Ma #Mb" ana="#orthographical"><space unit="line" quantity="1"/>
+                    <rdg wit="#Ma #Mb" ana="#orthographical"><gap reason="lost" unit="line" quantity="1"/>
                       <add place="margin">hic deficiebat exemplar</add></rdg>
                   </app></lem>
                 <rdg wit="#Vm #Vz" ana="#subtractive"/>
@@ -32691,7 +32691,7 @@
               <app>
                 <lem wit="#π #Px">rei</lem>
                 <rdg wit="#γ #Ea #Vm #Vz #m #v" ana="#additive">rei uel</rdg>
-                <rdg wit="#Ma" ana="#additive"><space/> uel</rdg>
+                <rdg wit="#Ma" ana="#additive"><gap reason="lost"/> uel</rdg>
                 <rdg wit="#Py" ana="#additive #lexical">in uel secundum</rdg>
               </app>
               <app>
@@ -34205,7 +34205,7 @@
                 <rdg wit="#Pp #Pu" ana="#orthographical #J">domatiuam</rdg>
                 <rdg wit="#Ea" ana="#orthographical">derematicam</rdg>
                 <rdg wit="#Pz #Vo" ana="#orthographical #J">damatiam</rdg>
-                <rdg wit="#Va" ana="#orthographical"><space/></rdg>
+                <rdg wit="#Va" ana="#orthographical"><gap reason="lost"/></rdg>
               </app>
               <app>
                 <lem wit="#γ #κ #Ea #Pp #Pu #Pz #Vo">faciebant</lem>
@@ -36252,7 +36252,7 @@
               <app>
                 <lem n="tractabuntur"/>
                 <rdg wit="#Vz" ana="#additive">sequitur</rdg>
-                <rdg wit="#Vb" ana="#additive">amen. <space/> Deo gratias amen</rdg>
+                <rdg wit="#Vb" ana="#additive">amen. <gap reason="lost"/> Deo gratias amen</rdg>
                 <rdg wit="#Pz #m #v" ana="#additive">Explicit <num type="ordinal" value="19"
                     >decimanona</num> particula.</rdg>
                 <rdg wit="#Va" ana="#additive">Explicit particula <num type="ordinal" value="19"

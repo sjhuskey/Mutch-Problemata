@@ -8,13 +8,46 @@
         <title>Expositio problematum Aristotelis, Particula XIX: De harmonia</title>
         <author>Pietro d’Abano</author>
         <editor>Caleb Mutch</editor>
+      <sponsor>Medieval Academy of America</sponsor>
+        <respStmt>
+          <resp>TEI XML encoding:</resp>
+          <name ref="https://orcid.org/0000-0003-4908-4930">Caleb Mutch</name>
+        </respStmt>
+        <respStmt>
+          <resp>TEI XML encoding:</resp>
+          <name ref="https://orcid.org/0000-0002-8192-9385">Samuel J. Huskey</name>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>First Edition</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>To be determined</publisher>
+        <publisher>The Digital Latin Library</publisher>
+      <address>
+          <street>650 Parrington Oval</street>
+          <addrLine>Carnegie Building 101</addrLine>
+          <settlement>Norman</settlement>
+          <name>OK</name>
+          <postCode>73019</postCode>
+          <country>USA</country>
+        </address>
+        <authority>The University of Oklahoma</authority>
+        <pubPlace>Norman, OK</pubPlace>
+        <date>202?</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+            Commons Attribution-ShareAlike 4.0 International Licence (CC BY-SA 4.0)</licence>
+        </availability>
       </publicationStmt>
+      <seriesStmt>
+        <title level="s">Library of Digital Latin Texts</title>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name ref="https://orcid.org/0000-0002-8192-9385">Samuel J. Huskey</name>
+        </respStmt>
+        <biblScope unit="volume">?</biblScope>
+        <idno type="DOI"/>
+      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -22,11 +55,16 @@
     <encodingDesc>
       <charDecl>
         <glyph xml:id="sqb">
-          <glyphName>LATIN LETTER SMALL B SQUARED</glyphName>
-          <charProp>
-            <localName>entity</localName>
-            <value>sqb</value>
-          </charProp>
+          <desc>Latin Letter Small B Squared</desc>
+          <localProp name="Name" value="LATIN LETTER SMALL B SQUARED"/>
+        <localProp name="entity" value="sqb"/>
+        </glyph>
+      <glyph xml:id="con">
+          <desc>Latin Small Letter Con</desc>
+          <localProp name="Name" value="LATIN SMALL LETTER CON"/>
+          <localProp name="entity" value="con"/>
+          <mapping type="standard">9</mapping>
+          <mapping type="extended">ꝯ</mapping>
         </glyph>
       </charDecl>
       <editorialDecl>
@@ -138,8 +176,13 @@
               Furthermore, the first complete Latin translation, made by Bartholomew of Messina (fl. 1258–66),  observed the common medieval practice of verbatim, indeed servilely literal, word-for-word translation. 
               For all these reasons, potential readers of the <title ref="#ArPr">Problems</title> were in sore need of orientation and explanation.</p>
             <p n="2">Into the breach strode Pietro d’Abano (c. 1257–1316), who was a professor of medicine with wide-ranging interests and expertise. 
-              Pietro composed his <title>Expositio</title>, the first commentary on the entirety of the Problems in the first decade of the fourteenth century, and there are more than twenty extant manuscripts of it, as well as multiple early print editions. 
-              His commentary also attracted the attention of his contemporaries, most notably Jean de Jandun (c. 1285–1328), a philosopher and theologian of considerable importance based at the University of Paris, who produced a revision of the entire <title>Expositio</title>.
+              Pietro composed his <title>Expositio</title>, the first commentary on the entirety of the
+                <title>Problems</title> in the first decade of the fourteenth century, and there are
+              more than twenty extant manuscripts of it, as well as multiple early print editions.
+              His commentary also attracted the attention of his contemporaries, most notably Jean
+              de Jandun (c. 1285–1328), a philosopher and theologian of considerable importance
+              based at the University of Paris, who produced a revision of the entire
+                <title>Expositio</title>.
               Moreover, Pietro’s commentary on the problems of section XIX, in particular, was the first widely circulated medieval attempt to interpret and assimilate rediscovered knowledge about music in the ancient world, and his explanations consequently became a touchstone for later generations of music scholars who referred to the <title ref="#ArPr">Problems</title>, including Franchino Gaffurio, Girolamo Mei, and Francisco de Salinas. 
               Most recently, Claude Palisca has called attention to Pietro’s anticipation of Renaissance modes of scholarship (<ref target="#Palisca1985">1985</ref>), and David E. Cohen has demonstrated that Pietro’s idiosyncratic interpretations of some of the problems concerning music played an important role in the development of the music-theoretical concept of harmony (<ref target="Cohen2012">2012</ref>). 
               Yet despite the inherent interest of Pietro’s commentary as a site of cross-cultural engagement and its historical significance to later music theorizing, his commentary on section XIX, on music, has been inaccesible to scholars, for until recently it had not been published in any form since the sixteenth century’s sadly unreliable print editions.  
@@ -149,28 +192,42 @@
               As a result, it provides a better informed version of Pietro's commentary and makes it more widely available than ever before.
             </p>
           </div>
+          <!-- End 1.1 -->
           <div type="section" xml:id="preface-subsection-1.2"><head>1.2 Structure</head>
-            <p n="1">Each of the pseudo-Aristotelian problems follows a set structure. 
-              First, a question is posed, such as at the start the first problem: “Why do those who are suffering and those who are rejoicing have pipes played for them?” (<foreign xml:lang="la">Propter quid dolentes et gaudentes fistulantur</foreign>?)  
-              Then one or more possible reasons are proposed, often accompanied by additional explanation. 
-              For instance, the first problem continues: “Is it so that the former mourn less, but the latter rejoice more?” (<foreign xml:lang="la">Aut ut hii quidem minus tristentur, alii autem ut magis gaudeant</foreign>?)  
-              In his commentary Pietro follows a similar pattern. 
-              He first paraphrases the opening question and then addresses the remainder of the problem, dividing it into between one and seven parts, depending on its length. 
-              He signals the beginning of each successive division of the text with its first word or two, followed by a partial or complete paraphrase. 
-              Given the unidiomatic Latin of Bartholomew of Messina’s translation and the common occurrence of obscure vocabulary, Pietro’s paraphrases provide an important means of ingress to the text. 
-              He often supplements these paraphrases with additional explanatory material, both his own and by authors from antiquity. 
-              In the latter case, he often provides cross-references to other pertinent passages within the <title ref="#ArPr">Problems</title> (from both section XIX and other sections), and he also inserts abbreviated quotations, most often from the Aristotelian and medical corpora.</p>
+            <p n="1">Each of the pseudo-Aristotelian problems follows a set structure. First, a
+              question is posed, such as at the start the first problem: <quote rend="inline">Why do
+                those who are suffering and those who are rejoicing have pipes played for
+                them?</quote> (<foreign xml:lang="la">Propter quid dolentes et gaudentes fistulantur</foreign>?) Then one or more possible reasons are proposed, often
+              accompanied by additional explanation. For instance, the first problem continues:
+                <quote rend="inline">Is it so that the former mourn less, but the latter rejoice
+                more?</quote> (<foreign xml:lang="la">Aut ut hii quidem minus tristentur, alii autem ut magis gaudeant</foreign>?)  
+              In his commentary Pietro follows a similar pattern.
+              He first paraphrases the opening question, and then addresses the remainder of the
+              problem, dividing it into between one and seven parts, depending on its length. He
+              signals the beginning of each successive division of the text with its first word or
+              two, followed by a partial or complete paraphrase. Given the unidiomatic Latin of
+              Bartholomew of Messina’s translation and the common occurrence of obscure vocabulary,
+              Pietro’s paraphrases provide an important means of ingress to the text on their own.
+              He often supplements these paraphrases with additional explanatory material, both his
+              own and by authors from antiquity. In the latter case, he often provides
+              cross-references to other pertinent passages within the <title ref="#ArPr">Problems</title> (from both section XIX and other sections), and he also inserts abbreviated quotations, most often from the Aristotelian and medical corpora.</p>
           </div>
+        <!-- End 1.2 -->
         </div>
+        <!-- End section 1. -->
+
         <div type="section" xml:id="preface-section-2"><head>II. The Textual Tradition</head>
           <div type="section" xml:id="preface-subsection-2.1"><head>2.1 Introduction</head>
-            <p n="1">Establishing the best text of Pietro d’Abano commentary is no simple task, for it survives in several different forms. 
-              By analyzing variants in the introduction with which Pietro starts his commentary on the <title ref="#ArPr">Problems</title>, Gijs Coucke has demonstrated that Pietro produced a revised version of his commentary after the initial version was complete (<ref target="Coucke2008">2008</ref>, vol. 2, xlii–xliv). 
+            <p n="1">Establishing the best text of Pietro d’Abano’s commentary is no simple task,
+              for it survives in several different forms. By analyzing variants in the introduction
+              with which Pietro starts his commentary on the <title ref="#ArPr">Problems</title>, Gijs Coucke has demonstrated that Pietro produced a revised version of his commentary after the initial version was complete (<ref target="Coucke2008">2008</ref>, vol. 2, xlii–xliv). 
               About a quarter of the extant manuscripts derive from the initial version, another quarter from the revision, and the remaining half of the manuscripts descend from the revision made by Jean de Jandun (concerning which see <ref target="Swaenepoel2009">Swaenepoel 2009</ref>). 
               While these latter manuscripts do not aid in the reconstruction of the text(s) Pietro himself wrote, they provide important testimony as to the work’s reception in the Parisian university scene, and consequently I have recorded variants from five selected manuscripts in the critical apparatus. 
               Coucke notes that “all manuscripts appear to have the identical explicit, which refers to 1310 as the year in which Peter finished his <title>Expositio</title>” (<ref target="Coucke2008">2008</ref>, vol. 2, xliv)—that presumably being the date when the initial version was completed.</p>
             <p n="2">Further complicating matters, some of the manuscripts change affiliations partway through the lengthy work. 
-              As Joan Cadden has observed, manuscript P<hi rend="superscript">z</hi> “contains the first half of Pietro’s version and the second half of Jean’s,” and manuscript E<hi rend="superscript">a</hi> has the converse arrangement (<ref target="Cadden2013">2013</ref>, 228). 
+              As Joan Cadden has observed, manuscript P<hi rend="superscript">z</hi>
+              <quote rend="inline">contains the first half of Pietro’s version and the second half
+                of Jean’s,</quote> and manuscript E<hi rend="superscript">a</hi> has the converse arrangement (<ref target="Cadden2013">2013</ref>, 228). 
               Additionally, in his edition of section IV of the <title>Expositio</title>, Coucke identifies manuscript V<hi rend="superscript">b</hi> as deriving from Pietro’s revised version, whereas by section XIX it hews more closely to the initial version. 
               (Furthermore, manuscript P<hi rend="superscript">q</hi> contains Jean’s version in sections IV and XIX, but by section XXVII it appears to have changed to Pietro’s version [<ref target="Coucke2008">Coucke 2008</ref>, vol. 2, xxvi].)  
               As a result, I have preserved Coucke’s manuscript sigils, but not his labeling of families and conjectured sub-types. 
@@ -180,8 +237,9 @@
               I collated all the manuscripts’ versions of section XIX’s tenth problem to test the validity of Coucke’s findings to section XIX. 
               Then I collated all the manuscripts representing solely either Pietro’s first or his second version (with the exception of M<hi rend="superscript">b</hi>, to be discussed below), along with manuscripts E<hi rend="superscript">a</hi> and P<hi rend="superscript">z</hi> (since their classification differs between sections IV and XIX), and four representative manuscripts from the Jean de Jandun redaction.</p>
           </div>
+          <!-- End section 2.1 -->
           <div type="section" xml:id="preface-subsection-2.2"><head>2.2 List of Sources</head>
-            <listWit xml:id="bibliography-manuscripts"><head>Manuscripts</head>
+            <div type="section" xml:id="bibliography-manuscripts"><head>Manuscripts</head>
               <listWit xml:id="α"><head>Pietro's first version (<abbr type="siglum">α</abbr>)</head>
                 <witness xml:id="β"><abbr type="siglum">β</abbr>
                   <name>Consensus of N<hi rend="superscript">u</hi> and P<hi rend="superscript">y</hi>, where N<hi rend="superscript">u</hi> is extant</name>
@@ -189,37 +247,40 @@
                     <witness xml:id="Nu">
                       <abbr type="siglum">N<hi rend="superscript">u</hi></abbr> 
                       <name>Nuremberg, Stadtbibliothek, Cent. III.38</name>,
-                      <locus from="61v" to="64v">ff. 61v-64v</locus>
+                      <locus from="61v" to="64v">ff. 61v–64v</locus>
                       <date notAfter="1389">before 1389</date>
                     </witness>
                     <witness xml:id="Py">
                       <abbr type="siglum">P<hi rend="superscript">y</hi></abbr> 
-                      <name><ref target="http://gallica.bnf.fr/ark:/12148/btv1b9068411m.r=6541">Paris, Bibliothèque Nationale man. lat. 6541</ref></name> (accessed 2022-01-03),
-                      <locus from="179v" to="191v">ff. 179v-91v</locus>
-                      <date>fourteenth century</date>
+                      <name>Paris, Bibliothèque Nationale man. lat. 6541</ref></name> (accessed 2022-01-03),
+                      <locus from="179v" to="191v">ff. 179v–91v</locus>
+                      <date>fourteenth century</date>. <ptr
+                        target="http://gallica.bnf.fr/ark:/12148/btv1b9068411m.r=6541"/>
                     </witness></listWit></witness>
                 <witness xml:id="γ">
                   <abbr type="siglum">γ</abbr> 
-                  <name>Consensus of V<hi rend="superscript">a</hi> and V<hi rend="superscript">b</hi></name>
+                  <title>Consensus of V<hi rend="superscript">a</hi> and V<hi rend="superscript">b</hi></title>
                   <listWit> 
                     <witness xml:id="Va">
                       <abbr type="siglum">V<hi rend="superscript">a</hi></abbr> 
-                      <name><ref target="https://digi.vatlib.it/view/MSS_Vat.lat.2174">Vatican, Biblioteca Apostolica lat. 2174</ref></name> (accessed 2022-01-03),
-                      <locus from="72r" to="77r">ff. 72r-77r</locus>
-                      <date>fourteenth century</date>
+                      <name>Vatican, Biblioteca Apostolica lat. 2174</name> (accessed 2022-01-03),
+                      <locus from="72r" to="77r">ff. 72r–77r</locus>
+                      <date>fourteenth century</date>. <ptr
+                        target="https://digi.vatlib.it/view/MSS_Vat.lat.2174"/>
                     </witness>
                     <witness xml:id="Vb">
                       <abbr type="siglum">V<hi rend="superscript">b</hi></abbr> 
-                      <name><ref target="https://digi.vatlib.it/view/MSS_Vat.lat.2175">Vatican, Biblioteca Apostolica lat. 2175</ref></name> (accessed 2022-01-03),
-                      <locus from="107v" to="116r">ff. 107-16r</locus>
-                      <date>fifteenth century</date>
+                      <name>Vatican, Biblioteca Apostolica lat. 2175</name> (accessed 2022-01-03),
+                      <locus from="107v" to="116r">ff. 107–16r</locus>
+                      <date>fifteenth century</date>. <ptr
+                        target="https://digi.vatlib.it/view/MSS_Vat.lat.2175"/>
                     </witness>
                   </listWit>
                 </witness>          
                 <witness xml:id="Ea">
                   <abbr type="siglum">E<hi rend="superscript">a</hi></abbr> 
                   <name>Erfurt, Bibliothek Amploniana fol. 15</name>,
-                  <locus from="136v" to="147r">ff. 136v-47r</locus>
+                  <locus from="136v" to="147r">ff. 136v–47r</locus>
                   <date>early fourteenth century</date>
                 </witness>             
               </listWit>
@@ -227,10 +288,11 @@
                 <head>Pietro's revised version (<abbr type="siglum">κ</abbr>)</head>            
                 <witness xml:id="Px">
                   <abbr type="siglum">P<hi rend="superscript">x</hi></abbr> 
-                  <name><ref target="http://gallica.bnf.fr/ark:/12148/btv1b90684121.r=6540">Paris, Bibliothèque Nationale man. lat. 6540</ref></name> (accessed 2022-01-03),
+                  <name>Paris, Bibliothèque Nationale man. lat. 6540</ref></name> (accessed 2022-01-03),
                   <locus from="154v" to="164v">ff. 154v-64v</locus>
                   <date>Fourteenth century</date>.
-                  <note><origPlace>Italy</origPlace></note>
+                  <note><origPlace>Italy</origPlace></note>. <ptr
+                    target="http://gallica.bnf.fr/ark:/12148/btv1b90684121.r=6540"/>
                 </witness>
                 <witness xml:id="λ">
                   <abbr type="siglum">λ</abbr> 
@@ -238,29 +300,33 @@
                   <listWit>
                     <witness xml:id="Ma">
                       <abbr type="siglum">M<hi rend="superscript">a</hi></abbr> 
-                      <name><ref target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=DX.24.02">Cesena, Malatestiana D.XXIV.2</ref></name> (accessed 2022-01-03),
-                      <locus from="96v" to="104r">ff. 96v-104r</locus>
-                      <date notAfter="1381">before 1381</date>
+                      <name>Cesena, Malatestiana D.XXIV.2</name> (accessed 2022-01-03),
+                      <locus from="96v" to="104r">ff. 96v–104r</locus>
+                      <date notAfter="1381">before 1381</date>. <ptr
+                        target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=DX.24.02"
+                      />
                     </witness>
                     <witness xml:id="Vm">
                       <abbr type="siglum">V<hi rend="superscript">m</hi></abbr> 
                       <name>Venice, Biblioteca Nazionale Marciana, lat. VI. 126</name>,
-                      <locus from="95r" to="100r">ff. 95r-100r</locus>
+                      <locus from="95r" to="100r">ff. 95r–100r</locus>
                       <date>fifteenth century</date>
                     </witness>
                     <witness xml:id="Vz">
                       <abbr type="siglum">V<hi rend="superscript">z</hi></abbr> 
                       <name>Venice, Biblioteca Nazionale Marciana, lat. Z. 263</name>,
-                      <locus from="48v" to="70r">ff. 48v-70r</locus>
+                      <locus from="48v" to="70r">ff. 48v–70r</locus>
                       <date>ca. fourteenth century</date>.
                       <note>On paper, in one column</note>
                     </witness>
                     <witness xml:id="Mb">
                       <abbr type="siglum">M<hi rend="superscript">b</hi></abbr> 
-                      <name><ref target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=SX.06.03">Cesena, Malatestiana S.VI.2/3</ref></name> (accessed 2022-01-03),
-                      <locus n="S.VI.3" from="38v" to="56r">S.VI.3, ff. 38v-56r</locus>
+                      <name>Cesena, Malatestiana S.VI.2/3</name> (accessed 2022-01-03),
+                      <locus n="S.VI.3" from="38v" to="56r">S.VI.3, ff. 38v–56r</locus>
                       <date>1381</date>.
-                      <note>A copy of M<hi rend="superscript">a</hi></note>
+                      <ptr
+                        target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=SX.06.03"
+                        /><note>A copy of M<hi rend="superscript">a</hi></note>
                     </witness>
                   </listWit>
                 </witness>
@@ -273,28 +339,31 @@
                   <listWit>
                     <witness xml:id="Gu">
                       <abbr type="siglum">G<hi rend="superscript">u</hi></abbr> 
-                      <name><ref target="http://lib.ugent.be/catalog/rug01:000802948">Ghent, Bibliothéek van de Rijksuniversiteit, ms. 72</ref></name> (accessed 2022-01-03),
-                      <locus from="234r" to="249v">ff. 234r-49v</locus>
-                      <date>fourteenth century</date>
+                      <name>Ghent, Bibliothéek van de Rijksuniversiteit, ms. 72</name> (accessed 2022-01-03),
+                      <locus from="234r" to="249v">ff. 234r–49v</locus>
+                      <date>fourteenth century</date>. <ptr
+                        target="http://lib.ugent.be/catalog/rug01:000802948"/>
                     </witness>
                     <witness xml:id="Pp">
                       <abbr type="siglum">P<hi rend="superscript">p</hi></abbr> 
-                      <name><ref target="http://gallica.bnf.fr/ark:/12148/btv1b10721259d/f1.item.r=6542">Paris, Bibliothèque Nationale man. lat. 6542</ref></name> (accessed 2022-01-03),
-                      <locus from="183v" to="194v">ff. 183v-94v</locus>
-                      <date>1385</date>
+                      <name>Paris, Bibliothèque Nationale man. lat. 6542</name> (accessed 2022-01-03),
+                      <locus from="183v" to="194v">ff. 183v–94v</locus>
+                      <date>1385</date>. <ptr
+                        target="http://gallica.bnf.fr/ark:/12148/btv1b10721259d/f1.item.r=6542"/>
                     </witness>
                     <witness xml:id="Pu">
                       <abbr type="siglum">P<hi rend="superscript">u</hi></abbr> 
                       <name>Paris, Bibliothèque de l'Université 122</name>,
-                      <locus from="114v" to="123r">114v-23r</locus>
+                      <locus from="114v" to="123r">114v–23r</locus>
                       <date>fifteenth century</date>
                     </witness>
                     <witness xml:id="Pz">
                       <abbr type="siglum">P<hi rend="superscript">z</hi></abbr> 
-                      <name><ref target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2">Paris, Bibliothèque Nationale man. lat. 6541A</ref></name> (accessed 2022-01-03),
+                      <name>Paris, Bibliothèque Nationale man. lat. 6541A</name> (accessed 2022-01-03),
                       <locus from="179r" to="192r">ff. 179r-92r</locus>
                       <date>fourteenth century</date>.
-                      <msDesc>
+                      <ptr
+                        target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2"/><msDesc>
                         <msIdentifier><objectName>Pz</objectName></msIdentifier>
                         <physDesc>
                           <handDesc hands="2">
@@ -309,7 +378,7 @@
                     <witness xml:id="Vo">
                       <abbr type="siglum">V<hi rend="superscript">o</hi></abbr> 
                       <name>Vatican, Biblioteca Apostolica Ottobon. lat. 1764</name>,
-                      <locus from="147r" to="157v">ff. 147r-57v</locus>
+                      <locus from="147r" to="157v">ff. 147r–57v</locus>
                       <date>fourteenth century</date>
                     </witness>
                   </listWit>
@@ -320,19 +389,20 @@
                     <witness xml:id="Ca">
                       <abbr type="siglum">C<hi rend="superscript">a</hi></abbr> 
                       <name>Cambridge, Peterhouse 79</name>,
-                      <locus from="76r" to="81v">ff. 76r-81v</locus>
+                      <locus from="76r" to="81v">ff.
+                        76r–81v</locus>
                       <date>fourteenth century</date>
                     </witness>
                     <witness xml:id="Pa">
                       <abbr type="siglum">P<hi rend="superscript">a</hi></abbr> 
                       <name>Paris, Bibliothèque Arsenal, 723</name>,
-                      <locus from="183v" to="197r">ff. 183v-97r</locus>
+                      <locus from="183v" to="197r">ff. 183v–97r</locus>
                       <date>fourteenth century</date>
                     </witness>
                     <witness xml:id="Pq">
                       <abbr type="siglum">P<hi rend="superscript">q</hi></abbr> 
                       <name>Paris, Bibliothèque Nationale man. lat. 15454</name>,
-                      <locus from="127r" to="136r">ff. 127r-36r</locus>
+                      <locus from="127r" to="136r">ff. 127r–36r</locus>
                       <date>fifteenth century</date>
                     </witness>          
                     <witness xml:id="Sc">
@@ -343,37 +413,40 @@
                     </witness>
                     <witness xml:id="Vc">
                       <abbr type="siglum">V<hi rend="superscript">c</hi></abbr> 
-                      <name><ref target="https://digi.vatlib.it/view/MSS_Vat.lat.2176">Vatican, Biblioteca Apostolica lat. 2176</ref></name> (accessed 2022-01-03),
-                      <locus from="62r" to="65r">ff. 62r-65r</locus>
-                      <date>fourteenth century</date>
+                      <name>Vatican, Biblioteca Apostolica lat. 2176</name> (accessed 2022-01-03),
+                      <locus from="62r" to="65r">ff. 62r–65r</locus>
+                      <date>fourteenth century</date>. <ptr
+                        target="https://digi.vatlib.it/view/MSS_Vat.lat.2176"/>
                     </witness>
                   </listWit>
                 </witness>
               </listWit>
-            </listWit>
-            <listWit xml:id="bibliography-editions-witnesses">
+            </div>
+            <div type="section" xml:id="bibliography-early-editions">
               <head>Editions: Witnesses</head>
-              <witness xml:id="m">
-                <abbr type="siglum">m</abbr> 
-                <bibl>
-                  <editor><name>Illarius, Stephanus</name></editor>.
-                  <title><ref target="http://daten.digitale-sammlungen.de/~db/0006/bsb00068444/images/">Expositio succinta problematum Aristotelis quam Petrus edidit Paduanus</ref></title> (accessed 2022-01-03).
-                  <pubPlace>Mantua</pubPlace>:
-                  <publisher>Paulus de Butzbach</publisher>,
-                  <date>1475</date>
-                </bibl>
-              </witness>
+              <listWit xml:id="early-editions">
+                <witness xml:id="m">
+                  <abbr type="siglum">m</abbr><bibl>
+                    <bibl>
+                    <editor><name>Illarius, Stephanus</name></editor>. <title>Expositio succinta
+                      problematum Aristotelis quam Petrus edidit Paduanus</title> (accessed
+                    2022-01-03). <pubPlace>Mantua</pubPlace>: <publisher>Paulus de
+                      Butzbach</publisher>, <date>1475</date>. <ptr
+                      target="http://daten.digitale-sammlungen.de/~db/0006/bsb00068444/images/"/>
+                  </bibl>
               <witness xml:id="v">
-                <abbr type="siglum">v</abbr> 
-                <bibl>
-                  <editor><name>Anonymous</name></editor>.
-                  <title><ref target="http://daten.digitale-sammlungen.de/~db/0005/bsb00058463/images/">Expositio preclarissimi atque eximii artium ac medicine doctoris Petri de Ebano Patauini in librorum problematum Aristotelis</ref></title> (accessed 2022-01-03).
-                  <pubPlace>[Venice]</pubPlace>:
-                  <publisher>Johannes Herbort</publisher>,
-                  <date>1482</date>
-                </bibl>
-              </witness>
-            </listWit>
+                  <abbr type="siglum">v</abbr>
+                  <bibl>
+                    <editor><name>Anonymous</name></editor>. <title>Expositio preclarissimi atque
+                      eximii artium ac medicine doctoris Petri de Ebano Patauini in librorum
+                      problematum Aristotelis</title> (accessed 2022-01-03).
+                      <pubPlace>[Venice]</pubPlace>: <publisher>Johannes Herbort</publisher>,
+                      <date>1482</date>. <ptr
+                      target="http://daten.digitale-sammlungen.de/~db/0005/bsb00058463/images/"/>
+                  </bibl>
+                </witness>
+              </listWit>
+              </div>
           </div>
           <div type="section" xml:id="preface-subsection-2.3"><head>2.3 Pietro d’Abano’s First Version</head>
             <p n="1">The first version of Pietro’s commentary on section XIX of the <title ref="#ArPr">Problems</title>, which I label α, is found in five manuscripts: N<hi rend="superscript">u</hi>, P<hi rend="superscript">y</hi>, V<hi rend="superscript">a</hi>, V<hi rend="superscript">b</hi>, and E<hi rend="superscript">a</hi>. 
@@ -399,24 +472,39 @@
               Additionally, Coucke does not consider V<hi rend="superscript">z</hi>, since it does not contain section IV.</p>
             <p n="2">The resulting picture is that P<hi rend="superscript">x</hi> follows the original form of the second version, and that M<hi rend="superscript">a</hi>, M<hi rend="superscript">b</hi>, V<hi rend="superscript">m</hi>, and V<hi rend="superscript">z</hi> derive from λ, a revised version thereof. 
               Coucke’s hypothesis of a further revised source for M<hi rend="superscript">a</hi>, M<hi rend="superscript">b</hi>, and P<hi rend="superscript">z</hi> (but not V<hi rend="superscript">m</hi>) is not supported in section XIX, since there is good reason to believe that M<hi rend="superscript">b</hi> is copied either directly from M<hi rend="superscript">a</hi> or from another copy of M<hi rend="superscript">a</hi>. 
-              For instance, in problem 2 the scribe of M<hi rend="superscript">a</hi> erroneously wrote “unaa” instead of “una,” and M<hi rend="superscript">b</hi>’s scribe wrote “unaa” before deleting the superfluous a. 
-              Still stronger evidence of copying is found in problem 3’s table of Greek note names, where M<hi rend="superscript">b</hi>’s scribe was consulting a manuscript that breaks the word “prollabamenos” (<foreign xml:lang="la">recte: proslambanomenos</foreign>) into “prolla” and “bamenos,” as M<hi rend="superscript">a</hi> does. 
-              We can tell this because M<hi rend="superscript">b</hi>’s scribe evidently thought the line break divided two distinct words: in M<hi rend="superscript">b</hi>, following “prolla” the rest of the line (about six characters’ worth) is left blank, before the table of note names begins at the top of the next column with “bamenos.”  
-              Furthermore, in problem 6 M<hi rend="superscript">b</hi>’s scribe follows the word <foreign xml:lang="la">magnatis</foreign> with the superfluous phrase “<foreign xml:lang="la">uel huius est inequale non eundem seruans tenorem</foreign>” ahead of where it should occur in the text, and then repeats it in the correct place, following <foreign xml:lang="la">excellentis</foreign>. 
+              For instance, in problem 2 the scribe of M<hi rend="superscript">a</hi>
+              erroneously wrote <quote rend="inline">unaa</quote> instead of <quote rend="inline"
+                >una,</quote> and M<hi rend="superscript">b</hi>’s scribe wrote <quote rend="inline"
+                >unaa</quote> before deleting the superfluous a. Still stronger evidence of copying
+              is found in problem 3’s table of Greek note names, where M<hi rend="superscript">b</hi>’s scribe was consulting a manuscript that breaks the word <quote
+                rend="inline">prollabamenos</quote> (<foreign xml:lang="la">recte: proslambanomenos</foreign>) into <quote rend="inline">prolla</quote> and <quote
+                rend="inline">bamenos,</quote> as M<hi rend="superscript">a</hi> does. 
+              We can tell this because M<hi rend="superscript">b</hi>’s scribe evidently thought the line break divided two distinct words: in M<hi rend="superscript">b</hi>, following <quote
+                rend="inline">prolla</quote> the rest of the line (about six characters’ worth) is
+              left blank, before the table of note names begins at the top of the next column with
+                <quote rend="inline">bamenos.</quote> Furthermore, in problem 6 M<hi rend="superscript">b</hi>’s scribe follows the word <foreign xml:lang="la">magnatis</foreign> with the superfluous phrase <foreign xml:lang="la">uel huius est inequale non eundem seruans tenorem</foreign> ahead of where it should occur in the
+              text, and then repeats it in the correct place, following <foreign xml:lang="la">excellentis</foreign>. 
               In this case of homeoteleuton the -<foreign xml:lang="la">tis</foreign> endings of <foreign xml:lang="la">magnatis</foreign> and <foreign xml:lang="la">excellentis</foreign> are nearly aligned in two successive lines of M<hi rend="superscript">a</hi> (f. 97v), so it is very likely that M<hi rend="superscript">b</hi>’s scribe’s eyes skipped from the end of <foreign xml:lang="la">magnatis</foreign> down a line to <foreign xml:lang="la">excellentis</foreign>, and then erroneously copied the words that followed. 
               In sum, because my collation of M<hi rend="superscript">b</hi> across the first ten problems revealed no meaningful discrepancies with M<hi rend="superscript">a</hi>, but rather signs of direct copying, I conclude that it is not useful for establishing the best text of Pietro’s second version.</p>
             <p n="3">Of the remaining manuscripts in sub-family λ, V<hi rend="superscript">m</hi> often preserves better readings than M<hi rend="superscript">a</hi> and V<hi rend="superscript">z</hi>. Additionally, V<hi rend="superscript">z</hi> may have been copied later, as it is written on paper and is the only extant manuscript to be copied in a single column. (Zanetti, however, dates it to about the fourteenth century [<ref target="Zanetti1741">1741</ref>, 121].)  Nonetheless, its unique readings are not obviously inferior to those of M<hi rend="superscript">a</hi>, so I have included its variants in the critical apparatus throughout.</p>
           </div>
           <div type="section" xml:id="preface-subsection-2.5"><head>2.5 Jean de Jandun’s Redaction</head>
-            <p n="1">The redaction undertaken by Jean de Jandun necessarily cannot help reconstruct the best text of Pietro’s commentary, but it is still of some interest. 
-              This is in part because “Jandun is one of the most important thinkers in the Latin Averroist tradition” (<ref target="South2002">South 2002</ref>, 372), and consequently his understanding of the <title ref="#ArPr">Problems</title> and Pietro’s commentary merits attention. 
+            <p n="1">The redaction undertaken by Jean de Jandun necessarily cannot help reconstruct
+              the best text of Pietro’s commentary, but it is still of some interest. This is in
+              part because <quote rend="inline">Jandun is one of the most important thinkers in the
+                Latin Averroist tradition </quote>(<ref target="South2002">South 2002</ref>, 372), and consequently his understanding of the <title ref="#ArPr">Problems</title> and Pietro’s commentary merits attention. 
               Furthermore, due to the significant circulation of Jean’s redaction in the environs of the University of Paris it is valuable for understanding the <title ref="#ArPr">Problems</title>’ reception. 
               As a result, I have included readings from selected manuscripts of Jean’s redaction in my critical edition, but have also tagged them so that readers may filter out readings only found in that redaction.</p>
-            <p n="2">Three broad feature of Jean’s redaction identified by Coucke in section IV also occur in section XIX. 
-              First, the redaction is most saliently characterized by omissions that “either cover well defined text-units (paragraphs, or entire (subordinate) clauses), or entail the removal of repetitive or superfluous speech” (<ref target="Coucke2008">2008</ref>, vol. 2: xxvii). 
-              Second, as a whole the manuscripts of Jean’s redaction largely agree with those of Pietro’s first version, but on occasion they follow his second version instead, as Coucke found (xxx–xxxi). 
-              Third, as in section IV, manuscript V<hi rend="superscript">o</hi> appears to be most valuable for establishing the text of the redaction (xxxiii). 
-              It has almost no unique errors of any importance, but a brief passage in problem 9 (<foreign xml:lang="la">utrobique existente. Et hoc quia in cantu</foreign>), which it alone omits, indicates that it cannot be the direct (or at least the sole) model for the rest of the redaction’s manuscripts.</p>
+            <p n="2">Three broad feature of Jean’s redaction identified by Coucke in section IV also
+              occur in section XIX. First, the redaction is most saliently characterized by
+              omissions that <quote rend="inline">either cover well defined text-units (paragraphs,
+                or entire (subordinate) clauses), or entail the removal of repetitive or superfluous
+                speech</quote> (<ref target="Coucke2008">2008</ref>, vol. 2: xxvii). Second, as a
+              whole the manuscripts of Jean’s redaction largely agree with those of Pietro’s first
+              version, but on occasion they follow his second version instead, as Coucke found
+              (xxx–xxxi). Third, as in section IV manuscript Vo appears to be most valuable for
+              establishing the text of the redaction (xxxiii). It has almost no unique errors of any
+              importance, but a brief passage in problem 9 (<foreign xml:lang="la">utrobique existente. Et hoc quia in cantu</foreign>), which it alone omits, indicates that it cannot be the direct (or at least the sole) model for the rest of the redaction’s manuscripts.</p>
             <p n="3">Beyond these broad characteristics, however, further clarity is elusive. 
               Whereas Coucke found that manuscripts P<hi rend="superscript">p</hi> and V<hi rend="superscript">c</hi> are “contaminated,” since in section IV they complete the omissions which are otherwise characteristic of Jean’s redaction (xxxi–xxxii), in section XIX P<hi rend="superscript">p</hi> never does so and V<hi rend="superscript">c</hi> only sometimes does. 
               Coucke then goes on to note of section IV (and he observes that Delaurenti’s [then]-in-progress edition of section VII confirms the same), that:
@@ -433,7 +521,7 @@
           </div>
           <div type="section" xml:id="preface-subsection-2.6"><head>2.6 Stemmatic Hypothesis</head>
             <p n="1">
-              <graphic url="Stemma.svg" height="350px" width="904px" mimeType="image/svg"/>
+              <graphic url="images/Stemma.png" height="350px" width="904px" mimeType="image/png"/>
             </p>
           </div>
         </div>
@@ -446,15 +534,21 @@
             Pietro cites sources from the first category most frequently. 
             Cross-references abound to passages within the <title ref="#ArPr">Problems</title>, from both section XIX and other sections, and Pietro also cites other Aristotelian works that were well known in his day, especially book VIII of the <title ref="#ArPo">Politics</title>. 
             (Other Aristotelian works with which Pietro engages in medical-focused sections of the <title ref="#ArPr">Problems</title>, such as the <title>De generatio animalium</title> and <title>De historia animalium</title> [<ref target="Coucke2008">Coucke 2008</ref>, vol. 2, lxii], make no appearance here.)</p>
-          <p n="3">Given section XIX’s dedication to the subject of music, the extent to which Pietro incorporates medical sources, the second category,  undoubtedly speaks to his training as a physician. 
-            Three of these treatises are by Galen, whom Claude Palisca misidentified as “an otherwise unknown author Balienus” in a chapter on Pietro (<ref target="Palisca1985">1985</ref>, 55). 
+          <p n="3">Given section XIX’s dedication to the subject of music, the extent to which
+            Pietro incorporates medical sources, the second category, undoubtedly speaks to his
+            training as a physician. Three of these treatises are by Galen, whom Claude Palisca
+            misidentified as <quote rend="inline">an otherwise unknown author Balienus</quote> in a
+            chapter on Pietro (<ref target="Palisca1985">1985</ref>, 55). 
             The other medical sources range from the better known, such Avicenna’s <title ref="#AvCa">Canon medicinae</title>, to the obscure, for instance the <title ref="#MasAph">Aphorismi</title> of Yu&#x1E25;annā ibn Māsawaiyh, which Pietro attributes to John of Damascus.</p>
           <p n="4">The number of texts in the third category, writings on music, is very small. 
-            While Pietro makes reference to Macrobius and Ptolemy, he demonstrates first-hand knowledge of only Boethius’s <title ref="#BoMu">De institutione harmonica</title> and the section (III.15–23) of Isidore’s <title ref="#IsEt">Etymologies</title> which concerns music. 
-            He also has at least passing familiarity with some aspects of medieval music theory, as he makes reference to the “Guidonian tradition” (<foreign xml:lang="la">traditio Guidonis</foreign>) in problem 1 and on occasion employs solmization syllables, but he displays no further awareness of music-theoretical writing from after late Antiquity. 
+            While Pietro makes reference to Macrobius and Ptolemy, he demonstrates first-hand knowledge of only Boethius’s <title ref="#BoMu">De institutione harmonica</title> and the section (III.15–23) of Isidore’s <title ref="#IsEt">Etymologies</title> which
+            concerns music. He also has at least passing familiarity with some aspects of medieval
+            music theory, as he makes reference to the <quote rend="inline">Guidonian
+              tradition</quote> (<foreign xml:lang="la">traditio Guidonis</foreign>) in problem 1 and on occasion employs solmization syllables, but he displays no further awareness of music-theoretical writing from after late Antiquity. 
             (He is, however, certainly aware of his day’s musical culture, as he discusses antiphonal singing and medieval instruments, which are unmentioned in Boethius or Isidore.)</p>
         </div>	
-        <div type="section" xml:id="preface-section-4"><head>IV. Principles of the Edition</head>
+        <div type="section" xml:id="preface-section-4">
+          <head>IV. Principles of Edition</head>
           <div type="section" xml:id="preface-subsection-4.1"><head>4.1 Latin Translation by Bartholomew of Messina</head>
             <p n="1">The textual tradition of Bartholomew of Messina’s Latin translation of the pseudo-Aristotelian text is largely independent of Pietro’s commentary, as only six of the twenty extant medieval manuscripts of Pietro’s commentary include the entirety of Bartholomew’s translation. Furthermore, sixty manuscripts contain part or the entirety of Bartholomew’s text, compared to only around thirty for the commentary (<ref target="Coucke2008">Coucke 2008</ref> vol. 1, xxxvi; vol. 2, xxiii). As a result, a critically established text of the Latin translation of section XIX is beyond the scope of this edition. For readers’ convenience, though, I have included as a variant a reconstruction of the version of Bartholomew’s translation which Pietro likely consulted. This reconstruction is based on a critical edition of that text, which I am preparing for publication, along with alterations to the base text reflecting readings found in Pietro's commentary.</p>
           </div>	
@@ -496,51 +590,48 @@
         </div>
         <div type="section" xml:id="preface-section-5"><head>V. Bibliography</head>
           <listBibl><bibl xml:id="Cadden2013">
-              <abbr type="siglum">Cadden 2013</abbr>. =
-              <author>Cadden, Joan</author>.
-              <title>Nothing Natural is Shameful: Sodomy and Science in Late Medieval Europe.</title>
+              <abbr type="siglum">Cadden 2013</abbr><author>Cadden, Joan</author>.
+              <title level="m"
+                >Nothing Natural is Shameful: Sodomy and Science in Late Medieval Europe.</title>
               <pubPlace>Philadelphia</pubPlace>:
               <publisher>University of Pennsylvania Press</publisher>, <date when="2013">2013</date>.
             </bibl>
             <bibl xml:id="Cohen2012">
-              <abbr type="siglum">Cohen 2012</abbr>. =
-              <author>Cohen, David E</author>.
-              <title level="a">Harmonic Mediation and the Triad: Gaffurio, Zarlino, Lippius and Pietro d’Abano’s Commentary on the Pseudo-Aristotelian <title>Problems</title>.</title>
+              <abbr type="siglum">Cohen 2012</abbr><author>Cohen, David E.</author>.
+              <title
+                level="m">Harmonic Mediation and the Triad: Gaffurio, Zarlino, Lippius and Pietro d’Abano’s Commentary on the Pseudo-Aristotelian <title>Problems</title>.</title>
               Paper presented at the annual conference of the <orgName>Music Theory Society of New York State</orgName>. <placeName>New York, N.Y.</placeName>, <date when="2012">March 31, 2012</date>.
             </bibl>
             <bibl xml:id="Coucke2008">
-              <abbr type="siglum">Coucke 2008</abbr>. =
-              <author>Coucke, Gijs</author>. 
-              <title>Philosophy between Text and Tradition The Reception of Aristotle's <title>Problemata</title> in the Middle Ages: Peter of Abano's <title>Expositio Problematum</title></title>. 
+              <abbr type="siglum">Coucke 2008</abbr><author>Coucke, Gijs</author>. 
+              <title level="m"
+                >Philosophy between Text and Tradition The Reception of Aristotle's <title>Problemata</title> in the Middle Ages: Peter of Abano's <title>Expositio Problematum</title></title>. 
               <pubPlace>Leuven</pubPlace>:
               <publisher>Ph.D. dissertation, Katholieke Universiteit Leuven</publisher>, <date when="2008">2008</date>.
             </bibl>
             <bibl xml:id="Coucke2009">
-              <abbr type="siglum">Coucke 2009</abbr>. =
-              <author>Coucke, Gijs</author>. 
+              <abbr type="siglum">Coucke 2009</abbr><author>Coucke, Gijs</author>. 
               <title level="a">Needle in the Haystack: In Search of the Model of Peter of Abano's <title>Expositio Problematum</title></title>. 
-              <title level="j">Revue d'histoire des textes</title> 4 (<date when="2009">2009</date>): <biblScope unit="page" from="179" to="213">179-213</biblScope>
+              <title level="j">Revue d'histoire des textes</title> 4 (<date when="2009">2009</date>): <biblScope unit="page" from="179" to="213">179–213</biblScope>
             </bibl>
             <bibl xml:id="Klek1922">
-              <abbr type="siglum">Klek 1922</abbr>. =
-              <editor>Klek, Joseph</editor>,
+              <abbr type="siglum">Klek 1922</abbr><editor>Klek, Joseph</editor>,
               <editor>Knoellinger, Hermann</editor>,
               <editor>Ruelle, Charles Emanuel</editor>,
               <author>Pseudo-Aristotle</author>.
-              <title>Aristotelis quae feruntur problemata physica</title>
+              <title level="m">Aristotelis quae feruntur problemata physica</title>
               <pubPlace>Leipzig</pubPlace>:
               <publisher>Teubner</publisher>, <date when="1922">1922</date>.
             </bibl>
             <bibl xml:id="Kuksewicz1985">
-              <abbr type="siglum">Kuksewicz 1985</abbr>. =
-              <author>Kuksewicz, Zdzislaw</author>. 
+              <abbr type="siglum">Kuksewicz 1985</abbr><author>Kuksewicz, Zdzislaw</author>. 
               <title level="a">Les <title>Problemata</title> de Pietro d'Abano et leur 'Rédaction' par Jean de Jandun</title>. 
-              <title level="j">Medioevo</title> 11 (<date when="1985">1985</date>): <biblScope unit="page" from="113" to="137">113-37</biblScope>
+              <title level="j">Medioevo</title> 11 (<date when="1985">1985</date>): <biblScope unit="page" from="113" to="137">113–37</biblScope>
             </bibl>
             <bibl xml:id="LeemansCoucke2011" type="article">
-              <abbr type="siglum">Leemans and Coucke 2011</abbr>. =
-              <author>Leemans, Pieter De, and Coucke, Gijs</author>. 
-              <title level="a"><hi rend="italic"><foreign xml:lang="la">Sicut vidi et tetigi</foreign></hi>...: Ego-statements and Experience in Pietro d'Abano's <title>Expositio Problematum Aristotelis</title></title>. In
+              <abbr type="siglum">Leemans and Coucke 2011</abbr><author>Leemans, Pieter De, and Coucke, Gijs</author>. 
+              <title level="a"><foreign xml:lang="la">Sicut vidi et
+                  tetigi</foreign>...: Ego-statements and Experience in Pietro d'Abano's <title>Expositio Problematum Aristotelis</title></title>. In
               <bibl type="monogr">
                 <title level="m"><foreign xml:lang="la">Expertus sum</foreign>: l'éxperience par les sens dans la philosophie naturelle médiévale</title>, ed.
                 <editor>
@@ -555,23 +646,21 @@
                     <surname>Draelants</surname>
                   </name>
                 </editor>,
-                <biblScope unit="page" from="405" to="426">405-26</biblScope>.
+                <biblScope unit="page" from="405" to="426">405–26</biblScope>.
                 <pubPlace>Florence</pubPlace>,
                 <publisher>SISMEL, Edizioni del Galluzzo</publisher>,
                 <date when="2011">2011</date>.
               </bibl>
             </bibl>
             <bibl xml:id="Meyer2022">
-              <abbr type="siglum">Meyer 1922</abbr>. =
-              <editor>Meyer, Christian</editor>,
+              <abbr type="siglum">Meyer 1922</abbr><editor>Meyer, Christian</editor>,
               <author>d'Abano, Pietro</author>.
               <title>Expositio problematum (XIX): Édition, introduction et notes critiques et explicatives</title>
               <pubPlace>Leuven</pubPlace>:
               <publisher>Leuven University Press</publisher>, <date when="2022">2022</date>.
             </bibl>
             <bibl xml:id="Palisca1985" type="chapter">
-              <abbr type="siglum">Palisca 1985</abbr>. =
-              <author>Palisca, Claude</author>. 
+              <abbr type="siglum">Palisca 1985</abbr><author>Palisca, Claude</author>. 
               <title level="a">The Earliest Musical Humanists: Pietro d’Abano</title>. 
               <biblScope unit="chapter" n="3">Chap. 3</biblScope> in
               <bibl type="monogr">
@@ -582,14 +671,12 @@
               </bibl> 
             </bibl> 
             <bibl xml:id="Siraisi1970">
-              <abbr type="siglum">Siraisi 1970</abbr>. =
-              <author>Siraisi, Nancy</author>. 
+              <abbr type="siglum">Siraisi 1970</abbr><author>Siraisi, Nancy</author>. 
               <title level="a">The <title>Expositio Problematum Aristotelis</title> of Peter of Abano</title>. 
-              <title level="j">Isis</title> 61, no. 2 (<date when="1970">1970</date>): <biblScope unit="page" from="321" to="339">321-39</biblScope>
+              <title level="j">Isis</title> 61, no. 2 (<date when="1970">1970</date>): <biblScope unit="page" from="321" to="339">321–39</biblScope>
             </bibl>
             <bibl xml:id="South2002" type="article">
-              <abbr type="siglum">South 2002</abbr>. =
-              <author>South, James B</author>. 
+              <abbr type="siglum">South 2002</abbr><author>South, James B</author>. 
               <title level="a">John of Jandun</title>. In
               <bibl type="monogr">
                 <title level="m">A Companion to Philosophy in the Middle Ages</title>, ed.
@@ -612,14 +699,12 @@
               </bibl>
             </bibl>
             <bibl xml:id="Swaenepoel2009">
-              <abbr type="siglum">Swaenepoel 2009</abbr>. =
-              <author>Swaenepoel, Tine</author>. 
+              <abbr type="siglum">Swaenepoel 2009</abbr><author>Swaenepoel, Tine</author>. 
               <title level="a">Les deux versions des «<title ref="#ArPr">Problemata</title>» de Pierre d'Abano</title>. 
-              <title level="j">Filologia mediolatina</title> 16 (<date when="1985">2009</date>): <biblScope unit="page" from="215" to="245">215-45</biblScope>
+              <title level="j">Filologia mediolatina</title> 16 (<date when="1985">2009</date>): <biblScope unit="page" from="215" to="245">215–45</biblScope>
             </bibl>
             <bibl xml:id="Zanetti1741">
-              <abbr type="siglum">Zanetti 1741</abbr>. =
-              <author>[Zanetti, Anton Maria]</author>.
+              <abbr type="siglum">Zanetti 1741</abbr><author>[Zanetti, Anton Maria]</author>.
               <title>Latina et italica D. Marci Bibliotheca codicum manu scriptorum per titulos digesta</title>.
               <pubPlace>[Venice]</pubPlace>:
               <publisher>Apud Simonem Occhi Bibliopolam</publisher>, 
